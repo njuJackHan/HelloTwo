@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: it.sephiroth.android.exif:library-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/transforms-1/files-1.1/library-1.0.1.aar/37c5447ebdf943370f2c61dd880bc693/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/transforms-1/files-1.1/library-1.0.1.aar/37c5447ebdf943370f2c61dd880bc693/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

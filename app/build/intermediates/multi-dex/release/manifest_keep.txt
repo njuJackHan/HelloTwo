@@ -1,0 +1,2 @@
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:16
+-keep class com.simplemobiletools.gallery.App { <init>(...); }

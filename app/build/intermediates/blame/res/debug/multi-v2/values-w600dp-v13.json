@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Simple-Gallery-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Simple-Gallery-master\\app\\src\\main\\res\\values-w600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2,1,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "82,16,212,150",
+                        "endColumns": "67,65,63,61",
+                        "endOffsets": "145,77,271,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,123,189,253",
+                        "endColumns": "67,65,63,61",
+                        "endOffsets": "118,184,248,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

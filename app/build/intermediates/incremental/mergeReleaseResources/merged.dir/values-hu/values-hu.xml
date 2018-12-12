@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">%d nappal korábban</item>
+        <item quantity="other">%d nappal korábban</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="delete_warning">
+        <item quantity="one">WARNING: You are deleting a folder</item>
+        <item quantity="other">WARNING: You are deleting %d folders</item>
+    </plurals>
+    <plurals name="deleting_items">
+        <item quantity="one">Deleting %d item</item>
+        <item quantity="other">Deleting %d items</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">%d órával korábban</item>
+        <item quantity="other">%d órával korábban</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">%d percel korábban</item>
+        <item quantity="other">%d percel korábban</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d month</item>
+        <item quantity="other">%d months</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">%d second before</item>
+        <item quantity="other">%d seconds before</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d week</item>
+        <item quantity="other">%d weeks</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d year</item>
+        <item quantity="other">%d years</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="about">Információ</string>
+    <string name="add_favorites">Add favorites</string>
+    <string name="add_fingerprint">Add fingerprint</string>
+    <string name="add_folder">Add folder</string>
+    <string name="add_new_sound">Add a new sound</string>
+    <string name="add_to_favorites">Kedvencnek jelölés</string>
+    <string name="additional_info">Additional info</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_goes_off_in">Time remaining till the alarm goes off:\n%s</string>
+    <string name="alarm_warning">Please make sure the alarm works properly before relying on it. It could misbehave due to system restrictions related to battery saving.</string>
+    <string name="album">Album</string>
+    <string name="all_folders">All folders</string>
+    <string name="allow_deep_zooming_images">Allow deep zooming images</string>
+    <string name="allow_instant_change">Allow instantly changing media by clicking on screen sides</string>
+    <string name="allow_photo_gestures">Allow controlling photo brightness with vertical gestures</string>
+    <string name="allow_video_gestures">Allow controlling video volume and brightness with vertical gestures</string>
+    <string name="always">Always</string>
+    <string name="an_error_occurred">An error occurred: %s</string>
+    <string name="animate_gifs">Animate GIFs at thumbnails</string>
+    <string name="app_icon_color">App icon color</string>
+    <string name="app_launcher_name">Gallery</string>
+    <string name="app_long_description">
+        A simple tool usable for viewing photos and videos. Items can be sorted by date, size, name both ascending or descending, photos can be zoomed in. Media files are shown in multiple columns depending on the size of the display, you can change the column count by pinch gestures. They can be renamed, shared, deleted, copied, moved. Images can also be cropped, rotated or set as Wallpaper directly from the app.
+
+        The Gallery is also offered for third party usage for previewing images / videos, adding attachments at email clients etc. It\'s perfect for everyday usage.
+
+        The fingerprint permission is needed for locking either hidden item visibility, or the whole app.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+    </string>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_on_sd_card">You seem to have the app installed on an SD card, that makes the app widgets unavailable. You won\'t even see them on the list of available widgets.
+        It is a system limitation, so if you want to use the widgets, you have to move the app back on the internal storage.</string>
+    <string name="app_short_description">A gallery for viewing photos and videos without ads.</string>
+    <string name="app_version">App version: %s</string>
+    <string name="append">Append with \'_1\'</string>
+    <string name="apply_to_all">Apply to all</string>
+    <string name="apply_to_all_apps">Apply colors to all Simple Apps</string>
+    <string name="april">Április</string>
+    <string name="are_you_sure_delete">Are you sure you want to delete this item?</string>
+    <string name="are_you_sure_recycle_bin">Are you sure you want to move this item into the Recycle Bin?</string>
+    <string name="artist">Artist</string>
+    <string name="ascending">Ascending</string>
+    <string name="at_start">A kezdetekor</string>
+    <string name="august">Augusztus</string>
+    <string name="authentication_blocked">Authentication blocked, please try again in a moment</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="autofittextview_title">AutoFitTextView (resizing text)</string>
+    <string name="autoplay_videos">Play videos automatically</string>
+    <string name="avoid_whats_new">Avoid showing What\'s New on startup</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"vissza"</string>
+    <string name="background_color">Background color</string>
+    <string name="before_asking_question">Before you ask a question, please first read the</string>
+    <string name="before_asking_question_read_faq">Before you ask a question, please read the Frequently Asked Questions first, maybe the solution is there.</string>
+    <string name="black_background_at_fullscreen">Black background and status bar at fullscreen media</string>
+    <string name="black_white">Black &amp; White</string>
+    <string name="bottom_actions">Bottom actions</string>
+    <string name="brightness">Brightness</string>
+    <string name="by_date_taken">Date taken</string>
+    <string name="by_extension">Extension</string>
+    <string name="by_file_type">File type</string>
+    <string name="by_folder">Folder</string>
+    <string name="by_last_modified">Last modified</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Mégse"</string>
+    <string name="change_color">Change color</string>
+    <string name="change_cover_image">Change cover image</string>
+    <string name="change_filter">Change filter</string>
+    <string name="change_filters_underlined"><u>Change filters</u></string>
+    <string name="change_orientation">Change orientation</string>
+    <string name="change_view_type">Change view type</string>
+    <string name="changing_color_description">Changing a color will make it switch to Custom theme</string>
+    <string name="click_select_destination">Click here to select destination</string>
+    <string name="confirm_otg_storage_access_text">Please choose the root folder of the OTG device on the next screen, to grant access</string>
+    <string name="confirm_selection">Confirm selection</string>
+    <string name="confirm_storage_access_text">Please choose the root folder of the SD card on the next screen, to grant write access</string>
+    <string name="confirm_storage_access_text_sd">If you don\'t see the SD card, try this</string>
+    <string name="confirm_storage_access_title">Confirm external storage access</string>
+    <string name="copy">Copy</string>
+    <string name="copy_failed">Could not copy the files</string>
+    <string name="copy_move">Copy / Move</string>
+    <string name="copy_move_failed">An error occurred</string>
+    <string name="copy_to">Copy to</string>
+    <string name="copying">Copying…</string>
+    <string name="copying_success">Files copied successfully</string>
+    <string name="copying_success_partial">Some files could not be copied</string>
+    <string name="copyright">%1$s verzió\nSzerzői jogok: © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">Could not create file %s</string>
+    <string name="could_not_create_folder">Could not create folder %s</string>
+    <string name="create_new">Create new</string>
+    <string name="create_new_folder">Create new folder</string>
+    <string name="crop_thumbnails">Crop thumbnails into squares</string>
+    <string name="cropper_title">Android Image Cropper (image crop and rotate)</string>
+    <string name="custom">Egyedi</string>
+    <string name="customize_colors">Customize colors</string>
+    <string name="customize_widget_colors">Customize widget colors</string>
+    <string name="dark_red">Dark red</string>
+    <string name="dark_theme">Dark</string>
+    <string name="date_taken">Date taken</string>
+    <string name="dates_fixed_successfully">Dates fixed successfully</string>
+    <string name="days_raw">nap</string>
+    <string name="december">December</string>
+    <string name="delete">Törlés</string>
+    <string name="delete_empty_folders">Delete empty folders after deleting their content</string>
+    <string name="deleting_folder">Deleting folder \'%s\'</string>
+    <string name="deletion_confirmation">Are you sure you want to delete %s?</string>
+    <string name="descending">Descending</string>
+    <string name="destination">Destination</string>
+    <string name="details">Details</string>
+    <string name="device_os">Device OS: %s</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"RENDBEN"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"SÚGÓ MEGNYITÁSA"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Daydream-kompatibilis telefonra van szükség. További információért keresse fel a Daydream Súgót."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Szemüvege konfigurálásához töltse le a Cardboard alkalmazást."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Konfigurálás"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Nem kompatibilis telefon"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Beállítás szükséges"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Telepítés szükséges"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Figyelmeztetés"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Előfordulhat, hogy ez az alkalmazás nem működik megfelelően a Google VR-szolgáltatások engedélyezése nélkül. A folytatás előtt engedélyezze a telefon Beállítások alkalmazásában."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Előfordulhat, hogy ez az alkalmazás nem működik megfelelően a Google VR-szolgáltatások nélkül. A folytatás előtt telepítse a Google VR-szolgáltatásokat a Play Áruházból."</string>
+    <string name="direct_children_count">Direct children count</string>
+    <string name="discard">Discard</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="do_extra_check">Do an extra check to avoid showing invalid files</string>
+    <string name="do_not_ask_again">Do not ask again in this session</string>
+    <string name="do_not_group_files">Do not group files</string>
+    <string name="donate">Donate</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hello,<br><br>
+            hope you are enjoying the app. It contains no ads, please support its development by purchasing the <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> app, it will also prevent this dialog from showing up again.<br><br>
+            Thank you!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Donate</u></string>
+    <string name="duration">Duration</string>
+    <string name="edit">Edit</string>
+    <string name="edit_image_with">Edit image with:</string>
+    <string name="edit_with">Edit with</string>
+    <string name="editor">Editor</string>
+    <string name="email_label">Visszajelzés és javaslatok</string>
+    <string name="empty_and_disable_recycle_bin">Empty and disable the Recycle Bin</string>
+    <string name="empty_name">Please enter a name</string>
+    <string name="empty_recycle_bin">Empty the Recycle Bin</string>
+    <string name="empty_recycle_bin_confirmation">Are you sure you want to empty the Recycle Bin? The files will be permanently lost.</string>
+    <string name="enable_pull_to_refresh">Enable pull-to-refresh from the top</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="error_saving_file">Could not overwrite the source file</string>
+    <string name="espresso_title">Espresso (testing helper)</string>
+    <string name="exclude">Exclude</string>
+    <string name="exclude_folder_description">This will exclude the selection together with its subfolders from Simple Gallery only. You can manage excluded folders in Settings.</string>
+    <string name="exclude_folder_parent">Exclude a parent instead?</string>
+    <string name="excluded">(excluded)</string>
+    <string name="excluded_activity_placeholder">Excluding folders will make them together with their subfolders hidden just in Simple Gallery, they will still be visible in other applications.\\n\\nIf you want to hide them from other apps too, use the Hide function.</string>
+    <string name="excluded_folders">Excluded folders</string>
+    <string name="exif">EXIF</string>
+    <string name="exoplayer_title">ExoPlayer (video player)</string>
+    <string name="exporting">Exporting…</string>
+    <string name="exporting_failed">Exporting failed</string>
+    <string name="exporting_some_entries_failed">Exporting some entries failed</string>
+    <string name="exporting_successful">Exporting successful</string>
+    <string name="exposure_time">Exposure time</string>
+    <string name="extended_details">Extended details</string>
+    <string name="extension">Extension</string>
+    <string name="extension_cannot_be_empty">Extension cannot be empty</string>
+    <string name="extra_large">Óriási</string>
+    <string name="f_number">F-number</string>
+    <string name="faq_10_text">Yes, you can crop images in the editor, by dragging the image corners. You can get to the editor either by long pressing an image thumbnail and selecting Edit, or selecting Edit from the fullscreen view.</string>
+    <string name="faq_10_title">Can I crop images with this app?</string>
+    <string name="faq_11_text">Sure, just use the \"Group by\" menu item while at the thumbnails view. You can group files by multiple criteria, including Date Taken. If you use the \"Show all folders content\" function you can group them by folders too.</string>
+    <string name="faq_11_title">Can I somehow group media file thumbnails?</string>
+    <string name="faq_12_text">It is most likely caused by the files being copied from somewhere. You can fix it by selecting the file thumbnails and selecting \"Fix Date Taken value\".</string>
+    <string name="faq_12_title">Sorting by Date Taken doesn\'t seem to work properly, how can I fix it?</string>
+    <string name="faq_1_text">First you have to find the currently default gallery in the Apps section of your device settings, look for a button that says something like \"Open by default\", click on it, then select \"Clear defaults\".
+        The next time you will try opening an image or video you should see an app picker, where you can select Simple Gallery and make it the default app.</string>
+    <string name="faq_1_text_commons">It is most likely because you moved the app on an SD card. There is an Android system limitation which hides the given app widgets
+        in that case. The only solution is to move the app back onto the Internal Storage via your device settings.</string>
+    <string name="faq_1_title">How can I make Simple Gallery the default device gallery?</string>
+    <string name="faq_1_title_commons">How come I don\'t see this apps widget on the list of widgets?</string>
+    <string name="faq_2_text">You can solve it in 2 ways. You can either reinstall the app, or find the app in your device settings and select \"Clear data\". It will reset all your settings, it will not remove any media files.</string>
+    <string name="faq_2_text_commons">Yes, of course. You can spread the word about the apps or give good feedback and ratings. You can also help by translating the apps in a new language, or just update some existing translations.
+        You can find the guide at https://github.com/SimpleMobileTools/General-Discussion , or just shoot me a message at hello@simplemobiletools.com if you need help.</string>
+    <string name="faq_2_title">I locked the app with a password, but I forgot it. What can I do?</string>
+    <string name="faq_2_title_commons">I want to support you, but I cannot donate money. Is there anything else I can do?</string>
+    <string name="faq_3_text">You can long press the desired album and select the Pin icon at the actionmenu, that will pin it to the top. You can pin multiple folders too, pinned items will be sorted by the default sorting method.</string>
+    <string name="faq_3_text_commons">Sadly, you cannot. Files are deleted instantly after the confirmation dialog, there is no trashbin available.</string>
+    <string name="faq_3_title">How can I make an album always appear at the top?</string>
+    <string name="faq_3_title_commons">I deleted some files by mistake, how can I recover them?</string>
+    <string name="faq_4_text">You can click on the current or max duration texts near the seekbar, that will move the video either backward, or forward.</string>
+    <string name="faq_4_text_commons">Yep, as you drag a widget on your home screen a widget config screen appears. You will see colored squares at the bottom left corner, just press them to pick a new color. You can use the slider for adjusting the alpha too.</string>
+    <string name="faq_4_title">How can I fast-forward videos?</string>
+    <string name="faq_4_title_commons">I don\'t like the widget colors, can I change them?</string>
+    <string name="faq_5_text">Exclude prevents displaying the folder only in Simple Gallery, while Hide works system-wise and it hides the folder from other galleries too. It works by creating an empty \".nomedia\" file in the given folder, which you can then remove with any file manager too.</string>
+    <string name="faq_5_text_commons">If they were really deleted, you cannot. However, you can enable using a Recycle Bin instead of deleting in the app settings. That will just move the files in it instead of deleting them.</string>
+    <string name="faq_5_title">What is the difference between hiding and excluding a folder?</string>
+    <string name="faq_5_title_commons">Can I somehow restore deleted files?</string>
+    <string name="faq_6_text">It can happen that you will see some unusual albums show up. You can easily exclude them by long pressing them and selecting Exclude. In the next dialog you can then select the parent folder, chances are it will prevent the other related albums showing up too.</string>
+    <string name="faq_6_title">Why do folders with music cover art or stickers show up?</string>
+    <string name="faq_7_text">That can have multiple reasons, but solving it is easy. Just go in Settings -> Manage Included Folders, select Plus and navigate to the required folder.</string>
+    <string name="faq_7_title">A folder with images isn\'t showing up, what can I do?</string>
+    <string name="faq_8_text">Adding a folder at the Included Folders doesn\'t automatically exclude anything. What you can do is go in Settings -> Manage Excluded Folders, exclude the root folder \"/\", then add the desired folders at Settings -> Manage Included Folders.
+        That will make only the selected folders visible, as both excluding and including are recursive and if a folder is both excluded and included, it will show up.</string>
+    <string name="faq_8_title">What if I want just a few particular folders visible?</string>
+    <string name="faq_9_text">Yea, there is a toggle in Settings saying \"Replace deep zoomable images with better quality ones\", you can use that. It will improve the quality of the images, but they will get blurred once you try zooming in too much.</string>
+    <string name="faq_9_title">Fullscreen images have weird artifacts, can I somehow improve the quality?</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="february">Február</string>
+    <string name="file">File</string>
+    <string name="file_already_exists">File \"%s\" already exists</string>
+    <string name="file_already_exists_overwrite">File \"%s\" already exists. Overwrite?</string>
+    <string name="file_operations">File operations</string>
+    <string name="file_saved">File saved successfully</string>
+    <string name="filename">Filename</string>
+    <string name="filename_cannot_be_empty">Filename cannot be empty</string>
+    <string name="filename_invalid_characters">Filename contains invalid characters</string>
+    <string name="filename_invalid_characters_placeholder">Filename \'%s\' contains invalid characters</string>
+    <string name="files_count">Total files count</string>
+    <string name="files_restored_successfully">Files have been restored successfully</string>
+    <string name="filter">Filter</string>
+    <string name="filter_media">Filter media</string>
+    <string name="filters_title">Android Photo Filters (image filters)</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Az ujjlenyomat-olvasó koszos. Tisztítsa meg, majd próbálkozzon újra."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Nem sikerült feldolgozni az ujjlenyomatot. Próbálkozzon újra."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"A rendszer az ujjlenyomatnak csak egy részletét érzékelte. Próbálkozzon újra."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Túl hamar vette el az ujját. Próbálkozzon újra."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Túl lassan húzta az ujját. Próbálkozzon újra."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Ujjlenyomattal kapcsolatos művelet megszakítva"</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Az ujjlenyomathoz szükséges hardver nem érhető el."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Túl sok próbálkozás. Próbálja újra később."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Az ujjlenyomat nem tárolható. Távolítson el egy meglévő ujjlenyomatot."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Az ujjlenyomat-beolvasási műveletkor időtúllépés történt. Próbálkozzon újra."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Próbálkozzon újra."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Nem sikerült felismerni"</string>
+    <string name="fingerprint_setup_successfully">Protection setup successfully. Please reinstall the app in case of problems with reseting it.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Ujjlenyomatok:"</string>
+    <string name="fix_date_taken">Fix Date Taken value</string>
+    <string name="fixing">Fixing…</string>
+    <string name="flip">Flip</string>
+    <string name="flip_horizontally">Flip horizontally</string>
+    <string name="flip_vertically">Flip vertically</string>
+    <string name="focal_length">Focal length</string>
+    <string name="folder">Folder</string>
+    <string name="folder_already_exists">Folder \"%s\" already exists</string>
+    <string name="folder_view">Switch to folder view</string>
+    <string name="follow_us">Követés</string>
+    <string name="font_size">Betűméret</string>
+    <string name="force_landscape">Force landscape</string>
+    <string name="force_portrait">Force portrait</string>
+    <string name="force_portrait_mode">Force portrait mode</string>
+    <string name="foreground_color">Foreground color</string>
+    <string name="free_aspect_ratio">Free</string>
+    <string name="frequently_asked_questions">Frequently asked questions</string>
+    <string name="friday">Friday</string>
+    <string name="friday_letter">P</string>
+    <string name="friday_short">Fri</string>
+    <string name="fullscreen_media">Fullscreen media</string>
+    <string name="gif_drawable_title">Gif Drawable (loading GIFs)</string>
+    <string name="gifs">GIFs</string>
+    <string name="glide_title">Glide (image loading and caching)</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"A Play Áruház megnyitása"</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Beállítások megnyitása"</string>
+    <string name="grid">Grid</string>
+    <string name="group_by">Group by</string>
+    <string name="group_direct_subfolders">Group direct subfolders</string>
+    <string name="gson_title">Gson (JSON parser)</string>
+    <string name="height">Height</string>
+    <string name="hidden">(hidden)</string>
+    <string name="hidden_folders">Hidden folders</string>
+    <string name="hidden_folders_placeholder">Seems like you don\'t have any folders hidden with a \".nomedia\" file.</string>
+    <string name="hide">Hide</string>
+    <string name="hide_extended_details">Hide extended details when status bar is hidden</string>
+    <string name="hide_folder">Hide folder</string>
+    <string name="hide_folder_description">This function hides the folder by adding a \'.nomedia\' file into it, it will hide all subfolders too. You can see them by toggling the \'Show hidden folders\' option in Settings. Continue?</string>
+    <string name="hide_system_ui_at_fullscreen">Automatically hide system UI at fullscreen media</string>
+    <string name="home_and_lock_screen">Home and lock screen</string>
+    <string name="home_screen">Home screen</string>
+    <string name="hours_raw">óra</string>
+    <string name="image_editing_failed">Image editing failed</string>
+    <string name="images">Images</string>
+    <string name="importing">Importing…</string>
+    <string name="importing_failed">Importing failed</string>
+    <string name="importing_some_entries_failed">Importing some entries failed</string>
+    <string name="importing_successful">Importing successful</string>
+    <string name="in_april">in April</string>
+    <string name="in_august">in August</string>
+    <string name="in_december">in December</string>
+    <string name="in_february">in February</string>
+    <string name="in_january">in January</string>
+    <string name="in_july">in July</string>
+    <string name="in_june">in June</string>
+    <string name="in_march">in March</string>
+    <string name="in_may">in May</string>
+    <string name="in_november">in November</string>
+    <string name="in_october">in October</string>
+    <string name="in_september">in September</string>
+    <string name="include_folders">Included folders</string>
+    <string name="include_gifs">Include GIFs</string>
+    <string name="include_photos">Include photos</string>
+    <string name="include_videos">Include videos</string>
+    <string name="included_activity_placeholder">If you have some folders which contain media, but were not recognized by the app, you can add them manually here.\n\nAdding some items here will not exclude any other folder.</string>
+    <string name="increase_column_count">Increase column count</string>
+    <string name="insert_pattern">Insert pattern</string>
+    <string name="internal">Internal</string>
+    <string name="interval">Interval (seconds):</string>
+    <string name="invalid_destination">Could not write to the selected destination</string>
+    <string name="invalid_file_format">Invalid file format</string>
+    <string name="invalid_image_path">Invalid image path</string>
+    <string name="invalid_name">The name contains invalid characters</string>
+    <string name="invalid_values">Please enter a valid resolution</string>
+    <string name="invite_friends_underlined"><u>Barátok meghívása</u></string>
+    <string name="invite_via">Meghívó küldése itt</string>
+    <string name="iso_speed">ISO speed</string>
+    <string name="items_selected">Items selected</string>
+    <string name="january">Január</string>
+    <string name="joda_title">Joda-Time (Java dátum helyettesítérére)</string>
+    <string name="july">Július</string>
+    <string name="june">Június</string>
+    <string name="keep_aspect_ratio">Keep aspect ratio</string>
+    <string name="keep_last_modified">Keep old last-modified value at file copy/move/rename</string>
+    <string name="kotlin_title">Kotlin (programozási nyelv)</string>
+    <string name="label">Label</string>
+    <string name="landscape_aspect_ratio">Landscape aspect ratio</string>
+    <string name="large">Nagy</string>
+    <string name="last_modified">Last modified</string>
+    <string name="leak_canary_title">Leak Canary (memory leak detector)</string>
+    <string name="light_theme">Light</string>
+    <string name="list">List</string>
+    <string name="lock_orientation">Lock orientation</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="loop_slideshow">Loop slideshow</string>
+    <string name="loop_videos">Loop videos</string>
+    <string name="manage_bottom_actions">Manage visible bottom actions</string>
+    <string name="manage_excluded_folders">Manage excluded folders</string>
+    <string name="manage_extended_details">Manage extended details</string>
+    <string name="manage_hidden_folders">Manage hidden folders</string>
+    <string name="manage_included_folders">Manage included folders</string>
+    <string name="march">Március</string>
+    <string name="max_brightness">Max brightness when viewing media</string>
+    <string name="maximum_share_reached">You cannot share this much content at once</string>
+    <string name="may">Május</string>
+    <string name="medium">Közepes</string>
+    <string name="merge">Merge</string>
+    <string name="minutes_raw">perc</string>
+    <string name="monday">Monday</string>
+    <string name="monday_letter">H</string>
+    <string name="monday_short">Mon</string>
+    <string name="more_apps_underlined"><u>More apps</u></string>
+    <string name="move">Move</string>
+    <string name="move_backwards">Move backwards</string>
+    <string name="move_items_into_recycle_bin">Move items into the Recycle Bin instead of deleting</string>
+    <string name="move_to">Move to</string>
+    <string name="move_to_recycle_bin_confirmation">Are you sure you want to move %s into the Recycle Bin?</string>
+    <string name="moving">Moving…</string>
+    <string name="moving_success">Files moved successfully</string>
+    <string name="moving_success_partial">Some files could not be moved</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
+    <string name="name">Name</string>
+    <string name="name_taken">A file or folder with that name already exists</string>
+    <string name="never">Never</string>
+    <string name="new_app">
+        <![CDATA[
+            Hey,<br><br>
+            just letting you know that a new app has been released recently:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            You can download it by pressing the title.<br><br>
+            Thanks
+        ]]>
+    </string>
+    <string name="no">No</string>
+    <string name="no_app_found">No valid app found</string>
+    <string name="no_audio_permissions">Audio permission is required</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Nem található böngésző a webhely megnyitásához"</string>
+    <string name="no_camera_permissions">Camera permission is required</string>
+    <string name="no_contacts_permission">Contacts permission is required</string>
+    <string name="no_editor_found">No image editor found</string>
+    <string name="no_entries_for_exporting">No entries for exporting have been found</string>
+    <string name="no_files_selected">No files selected</string>
+    <string name="no_fingerprints_registered">You have no fingerprints registered, please add some in the Settings of your device</string>
+    <string name="no_items_found">No items found.</string>
+    <string name="no_media_for_slideshow">No media for the slideshow have been found</string>
+    <string name="no_media_with_filters">No media files have been found with the selected filters.</string>
+    <string name="no_reminder">No reminder</string>
+    <string name="no_sound">No sound</string>
+    <string name="no_storage_permissions">Storage permission is required</string>
+    <string name="none">None</string>
+    <string name="notes">Jegyzetek</string>
+    <string name="notice">Ez az alkalmazás az alábbi könyvtárakat használja, hogy a munkám egyszerűbb legyen. Köszönöm szépen.</string>
+    <string name="november">November</string>
+    <string name="number_picker_title">Number Picker (customizable number picker)</string>
+    <string name="october">Október</string>
+    <string name="ok">OK</string>
+    <string name="one_finger_zoom">Allow one finger zoom at fullscreen media</string>
+    <string name="open_camera">Open camera</string>
+    <string name="open_with">Open with</string>
+    <string name="otg">OTG</string>
+    <string name="other_folder">Other folder</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Out of memory error</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="panorama_view_title">VR Panorama View (displaying panoramas)</string>
+    <string name="password_protect_hidden_items">Password protect hidden item visibility</string>
+    <string name="password_protect_whole_app">Password protect the whole application</string>
+    <string name="path">Path</string>
+    <string name="pattern">Pattern</string>
+    <string name="pattern_title">PatternLockView (pattern protection)</string>
+    <string name="photoview_title">PhotoView (zoomable GIFs)</string>
+    <string name="picasso_title">Picasso (image loading and caching)</string>
+    <string name="pin">PIN</string>
+    <string name="pin_folder">Pin folder</string>
+    <string name="pin_to_the_top">Pin to the top</string>
+    <string name="place_finger">Please place your finger on the fingerprint sensor</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Helyezze a telefont a Cardboard szemüvegbe"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Helyezze telefonját a(z) <ns1:g id="VIEWER_NAME">%s</ns1:g> szemüvegbe"</string>
+    <string name="please_enter_pin">Please enter a PIN</string>
+    <string name="please_select_destination">Please select a destination</string>
+    <string name="portrait_aspect_ratio">Portrait aspect ratio</string>
+    <string name="prevent_phone_from_sleeping">Prevent phone from sleeping while the app is in foreground</string>
+    <string name="primary_color">Primary color</string>
+    <string name="proceed_with_deletion">Are you sure you want to proceed with the deletion?</string>
+    <string name="properties">Properties</string>
+    <string name="protection_setup_successfully">Password setup successfully. Please reinstall the app in case you forget it.</string>
+    <string name="purchase">Purchase</string>
+    <string name="purchase_simple_thank_you">Purchase Simple Thank You</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Please purchase <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> to unlock this function and support the development. Thanks!
+        ]]>
+    </string>
+    <string name="random_order">Random order</string>
+    <string name="rate_us_underlined"><u>Értékelés</u></string>
+    <string name="raw_images">RAW images</string>
+    <string name="read_it">Read it</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="recycle_bin_cleaning_interval">Recycle Bin cleaning interval</string>
+    <string name="recycle_bin_emptied">The Recycle Bin has been emptied successfully</string>
+    <string name="recycle_bin_empty">The Recycle Bin is empty</string>
+    <string name="redo">Redo</string>
+    <string name="reduce_column_count">Reduce column count</string>
+    <string name="reminder_triggers_in">Time remaining till the reminder triggers:\n%s</string>
+    <string name="reminder_warning">Please make sure the reminders work properly before relying on them. They could misbehave due to system restrictions related to battery saving.</string>
+    <string name="remove">Remove</string>
+    <string name="remove_all">Remove all</string>
+    <string name="remove_all_description">Remove all folders from the list of excluded? This will not delete the folders.</string>
+    <string name="remove_from_favorites">Törlés a kedvencek közül</string>
+    <string name="rename">Rename</string>
+    <string name="rename_file">Rename file</string>
+    <string name="rename_file_error">Could not rename the file</string>
+    <string name="rename_folder">Rename folder</string>
+    <string name="rename_folder_empty">Folder name must not be empty</string>
+    <string name="rename_folder_error">Could not rename the folder</string>
+    <string name="rename_folder_exists">A folder with that name already exists</string>
+    <string name="rename_folder_ok">Folder renamed successfully</string>
+    <string name="rename_folder_root">Cannot rename the root folder of a storage</string>
+    <string name="renaming_folder">Renaming folder</string>
+    <string name="repeat_pattern">Repeat pattern</string>
+    <string name="repeat_pin">Repeat PIN</string>
+    <string name="replace_share_with_rotate">Replace Share with Rotate at fullscreen menu</string>
+    <string name="reprint_title">Reprint (fingerprint protection)</string>
+    <string name="resize">Resize</string>
+    <string name="resize_and_save">Resize selection and save</string>
+    <string name="resolution">Resolution</string>
+    <string name="restore_all_files">Restore all files</string>
+    <string name="restore_defaults">Restore defaults</string>
+    <string name="restore_selected_files">Restore selected files</string>
+    <string name="restore_this_file">Restore this file</string>
+    <string name="robolectric_title">Robolectric (testing framework)</string>
+    <string name="root">Root</string>
+    <string name="rotate">Rotate</string>
+    <string name="rotate_left">Rotate left</string>
+    <string name="rotate_one_eighty">Rotate by 180º</string>
+    <string name="rotate_right">Rotate right</string>
+    <string name="rtl_viewpager_title">RtlViewPager (right to left swiping)</string>
+    <string name="sanselan_title">Apache Sanselan (reading image metadata)</string>
+    <string name="saturday">Saturday</string>
+    <string name="saturday_letter">SZ</string>
+    <string name="saturday_short">Sat</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save as</string>
+    <string name="save_before_closing">You have unsaved changes. Save before exit?</string>
+    <string name="saving">Saving…</string>
+    <string name="saving_label">Saving</string>
+    <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
+    <string name="screen_rotation_by">Rotate fullscreen media by</string>
+    <string name="screen_rotation_device_rotation">Device rotation</string>
+    <string name="screen_rotation_system_setting">System setting</string>
+    <string name="scroll_thumbnails_horizontally">Scroll thumbnails horizontally</string>
+    <string name="scrolling">Scrolling</string>
+    <string name="sd_card">SD Card</string>
+    <string name="sd_card_otg_same">SD card and OTG device paths cannot be the same</string>
+    <string name="search">Search</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="seconds_raw">seconds</string>
+    <string name="security">Security</string>
+    <string name="select_all">Select all</string>
+    <string name="select_destination">Select destination</string>
+    <string name="select_file">Select a file</string>
+    <string name="select_folder">Select a folder</string>
+    <string name="select_photo">Select photo</string>
+    <string name="select_storage">Select storage</string>
+    <string name="september">Szeptember</string>
+    <string name="set_as">Set as</string>
+    <string name="set_as_wallpaper">Set as Wallpaper</string>
+    <string name="set_as_wallpaper_failed">Setting as Wallpaper failed</string>
+    <string name="set_as_wallpaper_with">Set as wallpaper with:</string>
+    <string name="setting_wallpaper">Setting wallpaper…</string>
+    <string name="settings">Settings</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"beállítások"</string>
+    <string msgid="20964482303479393" name="setup_button">"Beállítás"</string>
+    <string name="share">Share</string>
+    <string name="share_colors_success">Colors updated successfully. A new Theme called \'Shared\' has been added, please use that for updating all app colors in the future.</string>
+    <string name="share_text">Szia, ezt nézd meg! %1$s itt: %2$s</string>
+    <string name="share_via">Share via</string>
+    <string name="shared">Shared</string>
+    <string name="show_all">Show all folders content</string>
+    <string name="show_at_bottom">Show some action buttons at the bottom of the screen</string>
+    <string name="show_extended_details">Show extended details over fullscreen media</string>
+    <string name="show_hidden_items">Show hidden items</string>
+    <string name="show_info_bubble">Show an info bubble at scrolling items by scrollbar dragging</string>
+    <string name="show_media_count">Show folder media count on the main view</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="show_recycle_bin">Show the Recycle Bin at the folders screen</string>
+    <string name="simple_wallpaper">Simple Wallpaper</string>
+    <string name="size">Size</string>
+    <string name="skip">Skip</string>
+    <string name="skip_delete_confirmation">Always skip delete confirmation dialog</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="slideshow_ended">The slideshow ended</string>
+    <string name="small">Kicsi</string>
+    <string name="snooze">Snooze</string>
+    <string name="snooze_time">Snooze time</string>
+    <string name="solarized">Solarized</string>
+    <string name="song_title">Song title</string>
+    <string name="sort_by">Sort by</string>
+    <string name="source">Source</string>
+    <string name="source_and_destination_same">Source and destination cannot be the same</string>
+    <string name="source_file_doesnt_exist">Source file %s doesn\'t exist</string>
+    <string name="startup">Startup</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stetho_title">Stetho (adatbázisok hibakeresésére)</string>
+    <string name="stop_showing_hidden">Stop showing hidden media</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoomable imageviews)</string>
+    <string name="sunday">Sunday</string>
+    <string name="sunday_first">Start week on Sunday</string>
+    <string name="sunday_letter">V</string>
+    <string name="sunday_short">Sun</string>
+    <string name="svgs">SVGs</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Váltás"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Másik szemüveget használ?"</string>
+    <string name="system_sounds">System sounds</string>
+    <string name="temporarily_show_hidden">Temporarily show hidden</string>
+    <string name="text">Text</string>
+    <string name="text_color">Text color</string>
+    <string name="theme">Theme</string>
+    <string name="third_party_licences">Harmadik fél licenszek</string>
+    <string name="third_party_licences_underlined"><u>Harmadik fél licenszek</u></string>
+    <string name="thumbnails">Thumbnails</string>
+    <string name="thursday">Thursday</string>
+    <string name="thursday_letter">CS</string>
+    <string name="thursday_short">Thu</string>
+    <string name="title">Title</string>
+    <string name="today">Today</string>
+    <string name="toggle_favorite">Toggle favorite</string>
+    <string name="toggle_file_visibility">Toggle file visibility</string>
+    <string name="toggle_filename">Toggle filename visibility</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="tuesday_letter">K</string>
+    <string name="tuesday_short">Tue</string>
+    <string name="type_2_characters">Type in at least 2 characters to start the search.</string>
+    <string name="undo">Undo</string>
+    <string name="undo_changes">Undo changes</string>
+    <string name="undo_changes_confirmation">Are you sure you want to undo your changes?</string>
+    <string name="unhide">Unhide</string>
+    <string name="unhide_folder">Unhide folder</string>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="unknown_file_location">Unknown file location</string>
+    <string name="unknown_location">Unknown location</string>
+    <string name="unlock_orientation">Unlock orientation</string>
+    <string name="unpin_folder">Unpin folder</string>
+    <string name="update_thank_you">Please update Simple Thank You to the latest version</string>
+    <string name="use_24_hour_time_format">Use 24-hour time format</string>
+    <string name="use_default">Use default</string>
+    <string name="use_default_orientation">Use default orientation</string>
+    <string name="use_english_language">Use English language</string>
+    <string name="use_fade">Use fade animations</string>
+    <string name="use_for_this_folder">Use for this folder only</string>
+    <string name="use_same_snooze">Always use same snooze time</string>
+    <string name="value_copied_to_clipboard">Value copied to clipboard</string>
+    <string name="vibrate_on_button_press">Vibrate on button press</string>
+    <string name="videos">Videos</string>
+    <string name="visibility">Visibility</string>
+    <string name="volume">Volume</string>
+    <string name="wallpaper_set_successfully">Wallpaper set successfully</string>
+    <string name="website_label">További egyszerű alkalmazások és a forráskód itt</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="wednesday_letter">SZ</string>
+    <string name="wednesday_short">Wed</string>
+    <string name="whats_new">What\'s new</string>
+    <string name="whats_new_disclaimer">* only the bigger updates are listed here, there are always some smaller improvements too</string>
+    <string name="widgets">Widgets</string>
+    <string name="width">Width</string>
+    <string name="wrong_pattern">Wrong pattern</string>
+    <string name="wrong_pin">Wrong PIN</string>
+    <string name="wrong_root_selected">Wrong folder selected, please select the root folder of your SD card</string>
+    <string name="wrong_root_selected_otg">Wrong folder selected, please select the root folder of your OTG device</string>
+    <string name="yes">Yes</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="your_sounds">Your sounds</string>
+</resources>

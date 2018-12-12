@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uren</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">%d minuut</item>
+        <item quantity="other">%d minuten</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d seconden</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d dag</item>
+        <item quantity="other">%d dagen</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">%d dag van tevoren</item>
+        <item quantity="other">%d dagen van tevoren</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="delete_warning">
+        <item quantity="one">WAARSCHUWING: Hele map zal worden verwijderd</item>
+        <item quantity="other">WAARSCHUWING: %d mappen zullen worden verwijderd</item>
+    </plurals>
+    <plurals name="deleting_items">
+        <item quantity="one">%d item verwijderen</item>
+        <item quantity="other">%d items verwijderen</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uren</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">%d uur van tevoren</item>
+        <item quantity="other">%d uren van tevoren</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uren</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">%d minuut</item>
+        <item quantity="other">%d minuten</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d seconden</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minuut</item>
+        <item quantity="other">%d minuten</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">%d minuut van tevoren</item>
+        <item quantity="other">%d minuten van tevoren</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d maand</item>
+        <item quantity="other">%d maanden</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d seconden</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">%d seconde van tevoren</item>
+        <item quantity="other">%d seconden van tevoren</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d week</item>
+        <item quantity="other">%d weken</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d jaar</item>
+        <item quantity="other">%d jaren</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="about">Over</string>
+    <string name="add_favorites">Favorieten toevoegen</string>
+    <string name="add_fingerprint">Voeg vingerafdruk toe</string>
+    <string name="add_folder">Map toevoegen</string>
+    <string name="add_new_sound">Nieuw geluid toevoegen</string>
+    <string name="add_to_favorites">Aan favorieten toevoegen</string>
+    <string name="additional_info">Extra informatie</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_goes_off_in">Het alarm zal afgaan over\n%s</string>
+    <string name="alarm_warning">Controleer eerst of het alarm goed werkt. Er kunnen zich problemen voordoen door de batterijbesparing van Android.</string>
+    <string name="album">Album</string>
+    <string name="all_folders">Alle mappen</string>
+    <string name="allow_deep_zooming_images">Verder inzoomen mogelijk maken</string>
+    <string name="allow_instant_change">Direct naar vorige/volgende door op de zijkanten van het scherm te tikken</string>
+    <string name="allow_photo_gestures">Helderheid voor afbeeldingen aanpassen met verticale gebaren</string>
+    <string name="allow_video_gestures">Volume en helderheid voor video\'s aanpassen met verticale gebaren</string>
+    <string name="always">Altijd</string>
+    <string name="an_error_occurred">Fout opgetreden: %s</string>
+    <string name="animate_gifs">GIF-bestanden afspelen in overzicht</string>
+    <string name="app_icon_color">Kleur app-icoon</string>
+    <string name="app_launcher_name">Galerij</string>
+    <string name="app_long_description">
+        Een eenvoudige galerij voor afbeeldingen en video\'s. Bestanden kunnen worden gesorteerd op datum, grootte en naam. Afbeeldingen kunnen in- en uitgezoomd worden. Bestanden worden afhankelijk van de schermgrootte weergegeven in kolommen, waarbij het aantal kolommen kan worden aangepast via knijpgebaren. Bestanden kunnen worden gedeeld, hernoemd, gekopieerd, verplaatst en verwijderd. Afbeeldingen kunnen ook worden bijgesneden, gedraaid, gekanteld of direct vanuit de app als achtergrond worden ingesteld.
+
+        De galerij kan ook worden gebruikt voor het bekijken van afbeeldingen of video\'s vanuit andere apps, om bijlagen toe te voegen in e-mail, etc. Perfect voor dagelijks gebruik.
+
+        De machtiging voor het uitlezen van vingerafdrukken is benodigd voor het vergendelen van verborgen items of de gehele app.
+
+        Bevat geen advertenties of onnodige machtigingen. Volledig open-source. Kleuren van de app kunnen worden aangepast.
+
+        Deze app is onderdeel van een grotere verzameling. Vind de andere apps op https://www.simplemobiletools.com
+    </string>
+    <string name="app_name">Eenvoudige Galerij</string>
+    <string name="app_on_sd_card">Het lijkt erop dat de app is geïnstalleerd op een SD-kaart. Dit zorgt ervoor dat Android de widgets van deze app blokkeert.
+        Dit is een beperking van het systeem en alleen het verplaatsen van de app naar het interne geheugen zal de widgets beschikbaar maken.</string>
+    <string name="app_short_description">Een galerij voor afbeeldingen en video\'s, zonder advertenties.</string>
+    <string name="app_version">Versie: %s</string>
+    <string name="append">Voeg \'_1\' toe</string>
+    <string name="apply_to_all">Voor alle conflicterende items</string>
+    <string name="apply_to_all_apps">Kleuren toepassen op al onze apps</string>
+    <string name="april">April</string>
+    <string name="are_you_sure_delete">Item echt verwijderen?</string>
+    <string name="are_you_sure_recycle_bin">Item echt verplaatsen naar de prullenbak?</string>
+    <string name="artist">Artiest</string>
+    <string name="ascending">Oplopend</string>
+    <string name="at_start">Als afspraak begint</string>
+    <string name="august">Augustus</string>
+    <string name="authentication_blocked">Authenticatie geblokkeerd, probeer het op een ander moment</string>
+    <string name="authentication_failed">Authenticatie mislukt</string>
+    <string name="autofittextview_title">AutoFitTextView (resizing text)</string>
+    <string name="autoplay_videos">Video\'s automatisch afspelen</string>
+    <string name="avoid_whats_new">\"Wat is er nieuw\" niet tonen</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"terug"</string>
+    <string name="background_color">Achtergrondkleur</string>
+    <string name="before_asking_question">Voor het stellen van een vraag, lees eerst de</string>
+    <string name="before_asking_question_read_faq">Kijk bij problemen eerst naar de Veelgestelde vragen. Wellicht staat de oplossing daar beschreven.</string>
+    <string name="black_background_at_fullscreen">Zwarte achtergrond en statusbalk bij volledig scherm</string>
+    <string name="black_white">Zwart &amp; Wit</string>
+    <string name="bottom_actions">Acties onderaan het scherm</string>
+    <string name="brightness">Helderheid</string>
+    <string name="by_date_taken">Datum opname</string>
+    <string name="by_extension">Extensie</string>
+    <string name="by_file_type">Bestandstype</string>
+    <string name="by_folder">Map</string>
+    <string name="by_last_modified">Laatst gewijzigd</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Annuleren</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Annuleren"</string>
+    <string name="change_color">Kleur veranderen</string>
+    <string name="change_cover_image">Afbeelding omslag wijzigen</string>
+    <string name="change_filter">Filter aanpassen</string>
+    <string name="change_filters_underlined"><u>Filters aanpassen</u></string>
+    <string name="change_orientation">Schermoriëntatie wijzigen</string>
+    <string name="change_view_type">Weergave</string>
+    <string name="changing_color_description">Zodra een kleur veranderd wordt zal het aangepaste thema worden gebruikt</string>
+    <string name="click_select_destination">Klik hier om bestemming te kiezen</string>
+    <string name="confirm_otg_storage_access_text">Selecteer in het volgende scherm de hoofdmap van het OTG-apparaat</string>
+    <string name="confirm_selection">Keuze bevestigen</string>
+    <string name="confirm_storage_access_text">Kies in het volgende scherm de hoofdmap van de SD-kaart om schrijfrechten te verlenen</string>
+    <string name="confirm_storage_access_text_sd">Probeer het volgende indien de SD-kaart niet in de lijst staat</string>
+    <string name="confirm_storage_access_title">Toegang tot externe opslag bevestigen</string>
+    <string name="copy">Kopiëren</string>
+    <string name="copy_failed">Kon de bestanden niet kopiëren</string>
+    <string name="copy_move">Kopiëren / Verplaatsen</string>
+    <string name="copy_move_failed">Fout opgetreden</string>
+    <string name="copy_to">Kopiëren naar</string>
+    <string name="copying">Kopiëren…</string>
+    <string name="copying_success">Bestanden gekopieerd</string>
+    <string name="copying_success_partial">Sommige bestanden konden niet worden gekopieerd</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">Kon het bestand %s niet aanmaken</string>
+    <string name="could_not_create_folder">Kon de map %s niet aanmaken</string>
+    <string name="create_new">Nieuw</string>
+    <string name="create_new_folder">Nieuwe map maken</string>
+    <string name="crop_image_activity_no_permissions">Wordt geannuleerd, vereiste machtigingen zijn niet toegekend</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">Bijsnijden</string>
+    <string name="crop_image_menu_flip">Spiegelen</string>
+    <string name="crop_image_menu_flip_horizontally">Horizontaal spiegelen</string>
+    <string name="crop_image_menu_flip_vertically">Verticaal spiegelen</string>
+    <string name="crop_image_menu_rotate_left">Tegen de klok in draaien</string>
+    <string name="crop_image_menu_rotate_right">Draaien</string>
+    <string name="crop_thumbnails">Miniatuurvoorbeelden bijsnijden</string>
+    <string name="cropper_title">Android Image Cropper (image crop and rotate)</string>
+    <string name="custom">Aangepast</string>
+    <string name="customize_colors">Kleuren aanpassen</string>
+    <string name="customize_widget_colors">Kleuren voor widget aanpassen</string>
+    <string name="dark_red">Donkerrood</string>
+    <string name="dark_theme">Donker</string>
+    <string name="date_taken">Datum opname</string>
+    <string name="dates_fixed_successfully">Datums zijn gecorrigeerd</string>
+    <string name="days_raw">dagen</string>
+    <string name="december">December</string>
+    <string name="delete">Verwijderen</string>
+    <string name="delete_empty_folders">Lege mappen verwijderen na leegmaken</string>
+    <string name="deleting_folder">Map \'%s\' verwijderen</string>
+    <string name="deletion_confirmation">%s echt verwijderen?</string>
+    <string name="descending">Aflopend</string>
+    <string name="destination">Naar</string>
+    <string name="details">Details</string>
+    <string name="device_os">Besturingssysteem: %s</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"OK"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"HELPCENTRUM OPENEN"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Je hebt een telefoon nodig die geschikt is voor Daydream. Bezoek het Helpcentrum van Daydream voor meer informatie."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Download de Cardboard-app om je bril te configureren."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Configureren"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Ongeschikte telefoon"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Instellen vereist"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Installatie vereist"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Waarschuwing"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Deze app werkt mogelijk niet correct als VR-services van Google niet zijn ingeschakeld. Schakel deze in via de telefooninstellingen voordat je doorgaat."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Deze app werkt mogelijk niet correct zonder VR-services van Google. Installeer VR-services van Google via de Play Store voordat je doorgaat."</string>
+    <string name="direct_children_count">Direct onderliggende items</string>
+    <string name="discard">Negeren</string>
+    <string name="dismiss">Uitzetten</string>
+    <string name="do_extra_check">Ongeldige bestanden verbergen</string>
+    <string name="do_not_ask_again">Onthouden voor deze sessie</string>
+    <string name="do_not_group_files">Bestanden niet groeperen</string>
+    <string name="donate">Doneren</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hallo,<br><br>
+            Hopelijk vindt u dit een fijne app. Het bevat geen advertenties, maar u kunt de verdere ontwikkeling wel ondersteunen door de app <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> aan te schaffen. Dit zal ook voorkomen dat dit venster nog eens verschijnt.<br><br>
+            Dank u wel!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Doneren</u></string>
+    <string name="duration">Duur</string>
+    <string name="edit">Bewerken</string>
+    <string name="edit_image_with">Afbeelding bewerken met:</string>
+    <string name="edit_with">Bewerken met</string>
+    <string name="editor">Bewerken</string>
+    <string name="email_label">Stuur reacties of suggesties naar</string>
+    <string name="empty_and_disable_recycle_bin">Prullenbak leegmaken en uitschakelen</string>
+    <string name="empty_name">Voer een naam in</string>
+    <string name="empty_recycle_bin">Prullenbak leegmaken</string>
+    <string name="empty_recycle_bin_confirmation">Prullenbak echt leegmaken? De bestanden zullen permanent verwijderd worden.</string>
+    <string name="enable_pull_to_refresh">Pull-to-refresh inschakelen</string>
+    <string name="enter_pin">Voer pincode in</string>
+    <string name="error_saving_file">Bronbestand kan niet worden overschreven</string>
+    <string name="espresso_title">Espresso (testing helper)</string>
+    <string name="exclude">Uitsluiten</string>
+    <string name="exclude_folder_description">De selectie en submappen uitsluiten van deze galerij. Uitgesloten mappen kunnen worden beheerd in de instellingen.</string>
+    <string name="exclude_folder_parent">De map met dit item uitsluiten?</string>
+    <string name="excluded">(uitgesloten)</string>
+    <string name="excluded_activity_placeholder">Uitsluiten zal mappen en hun submappen verbergen voor deze galerij, maar niet voor andere apps.\n\nAls u de mappen ook in andere apps wilt verbergen, kies dan voor de functie Verbergen.</string>
+    <string name="excluded_folders">Uitgesloten mappen</string>
+    <string name="exif">EXIF</string>
+    <string name="exoplayer_title">ExoPlayer (video player)</string>
+    <string name="exporting">Exporteren…</string>
+    <string name="exporting_failed">Exporteren mislukt</string>
+    <string name="exporting_some_entries_failed">Sommige items konden niet worden geëxporteerd</string>
+    <string name="exporting_successful">Exporteren voltooid</string>
+    <string name="exposure_time">Sluitertijd</string>
+    <string name="extended_details">Uitgebreide informatie</string>
+    <string name="extension">Extensie</string>
+    <string name="extension_cannot_be_empty">Extensie mag niet leeg zijn</string>
+    <string name="extra_large">Extra groot</string>
+    <string name="f_number">Diafragmagetal</string>
+    <string name="faq_10_text">Yes, you can crop images in the editor, by dragging the image corners. You can get to the editor either by long pressing an image thumbnail and selecting Edit, or selecting Edit from the fullscreen view.</string>
+    <string name="faq_10_title">Can I crop images with this app?</string>
+    <string name="faq_11_text">Sure, just use the \"Group by\" menu item while at the thumbnails view. You can group files by multiple criteria, including Date Taken. If you use the \"Show all folders content\" function you can group them by folders too.</string>
+    <string name="faq_11_title">Can I somehow group media file thumbnails?</string>
+    <string name="faq_12_text">It is most likely caused by the files being copied from somewhere. You can fix it by selecting the file thumbnails and selecting \"Fix Date Taken value\".</string>
+    <string name="faq_12_title">Sorting by Date Taken doesn\'t seem to work properly, how can I fix it?</string>
+    <string name="faq_1_text">First you have to find the currently default gallery in the Apps section of your device settings, look for a button that says something like \"Open by default\", click on it, then select \"Clear defaults\".
+        The next time you will try opening an image or video you should see an app picker, where you can select Simple Gallery and make it the default app.</string>
+    <string name="faq_1_text_commons">Waarschijnlijk is de app verplaatst naar de SD-kaart. Android verbergt widgets van apps die zich bevinden op de SD-kaart. De enige oplossing is het verplaatsen van de app naar de Interne Opslag via de instellingen van Android.</string>
+    <string name="faq_1_title">How can I make Simple Gallery the default device gallery?</string>
+    <string name="faq_1_title_commons">Waarom zie ik de widget van deze app niet in de lijst met widgets?</string>
+    <string name="faq_2_text">You can solve it in 2 ways. You can either reinstall the app, or find the app in your device settings and select \"Clear data\". It will reset all your settings, it will not remove any media files.</string>
+    <string name="faq_2_text_commons">Maar natuurlijk! Vertel anderen over deze apps of geef feedback en positieve beoordelingen. Ook het vertalen van de apps in een nieuwe taal of het bijwerken van bestaande vertalingen wordt gewaardeerd.
+        Een handleiding is te vinden op https://github.com/SimpleMobileTools/General-Discussion , of stuur me een bericht via hello@simplemobiletools.com voor hulp.</string>
+    <string name="faq_2_title">I locked the app with a password, but I forgot it. What can I do?</string>
+    <string name="faq_2_title_commons">Ik wil een bijdrage leveren, maar ik kan geen geld doneren. Kan ik iets anders doen?</string>
+    <string name="faq_3_text">You can long press the desired album and select the Pin icon at the actionmenu, that will pin it to the top. You can pin multiple folders too, pinned items will be sorted by the default sorting method.</string>
+    <string name="faq_3_text_commons">Dat gaat helaas niet lukken. Bestanden worden direct na bevestiging verwijderd; er is geen prullenbak.</string>
+    <string name="faq_3_title">How can I make an album always appear at the top?</string>
+    <string name="faq_3_title_commons">Ik heb per ongeluk bestanden verwijderd, hoe kan ik deze herstellen?</string>
+    <string name="faq_4_text">You can click on the current or max duration texts near the seekbar, that will move the video either backward, or forward.</string>
+    <string name="faq_4_text_commons">Bij het plaatsen van een widget op het startscherm zal er een instellingenvenster verschijnen. Onderaan staan gekleurde vlakken, waarmee nieuwe kleuren kunnen worden gekozen. De schuif is voor de transparantie.</string>
+    <string name="faq_4_title">How can I fast-forward videos?</string>
+    <string name="faq_4_title_commons">Ik vind de kleuren van de widgets niet mooi, kan ik ze veranderen?</string>
+    <string name="faq_5_text">Exclude prevents displaying the folder only in Simple Gallery, while Hide works system-wise and it hides the folder from other galleries too. It works by creating an empty \".nomedia\" file in the given folder, which you can then remove with any file manager too.</string>
+    <string name="faq_5_text_commons">Bestanden worden direct na bevestiging verwijderd, tenzij de prullenbak wordt gebruikt. De prullenbak kan bij de instellingen worden ingeschakeld.</string>
+    <string name="faq_5_title">What is the difference between hiding and excluding a folder?</string>
+    <string name="faq_5_title_commons">Kan ik verwijderde bestanden herstellen?</string>
+    <string name="faq_6_text">It can happen that you will see some unusual albums show up. You can easily exclude them by long pressing them and selecting Exclude. In the next dialog you can then select the parent folder, chances are it will prevent the other related albums showing up too.</string>
+    <string name="faq_6_title">Why do folders with music cover art or stickers show up?</string>
+    <string name="faq_7_text">That can have multiple reasons, but solving it is easy. Just go in Settings -> Manage Included Folders, select Plus and navigate to the required folder.</string>
+    <string name="faq_7_title">A folder with images isn\'t showing up, what can I do?</string>
+    <string name="faq_8_text">Adding a folder at the Included Folders doesn\'t automatically exclude anything. What you can do is go in Settings -> Manage Excluded Folders, exclude the root folder \"/\", then add the desired folders at Settings -> Manage Included Folders.
+        That will make only the selected folders visible, as both excluding and including are recursive and if a folder is both excluded and included, it will show up.</string>
+    <string name="faq_8_title">What if I want just a few particular folders visible?</string>
+    <string name="faq_9_text">Yea, there is a toggle in Settings saying \"Replace deep zoomable images with better quality ones\", you can use that. It will improve the quality of the images, but they will get blurred once you try zooming in too much.</string>
+    <string name="faq_9_title">Fullscreen images have weird artifacts, can I somehow improve the quality?</string>
+    <string name="favorites">Favorieten</string>
+    <string name="february">Februari</string>
+    <string name="file">Bestand</string>
+    <string name="file_already_exists">Bestand \"%s\" bestaat reeds</string>
+    <string name="file_already_exists_overwrite">Bestand \"%s\" bestaat reeds. Overschrijven?</string>
+    <string name="file_operations">Bestandsoperaties</string>
+    <string name="file_saved">Bestand opgeslagen</string>
+    <string name="filename">Bestandsnaam</string>
+    <string name="filename_cannot_be_empty">Bestandsnaam mag niet leeg zijn</string>
+    <string name="filename_invalid_characters">Bestandsnaam bevat ongeldige tekens</string>
+    <string name="filename_invalid_characters_placeholder">Bestandsnaam \'%s\' bevat ongeldige tekens</string>
+    <string name="files_count">Totaal aantal bestanden</string>
+    <string name="files_restored_successfully">Bestanden zijn hersteld</string>
+    <string name="filter">Filter</string>
+    <string name="filter_media">Media filteren</string>
+    <string name="filters_title">Android Photo Filters (image filters)</string>
+    <string name="fingerprint">Vingerafdruk</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"De vingerafdruksensor moet worden schoongemaakt. Probeer het daarna opnieuw."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Kan vingerafdruk niet verwerken. Probeer het opnieuw."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Gedeeltelijke vingerafdruk gedetecteerd. Probeer het opnieuw."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Vinger te snel bewogen. Probeer het opnieuw."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Vinger te langzaam bewogen. Probeer het opnieuw."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Vingerafdrukbewerking geannuleerd."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Hardware voor vingerafdruk niet beschikbaar."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Te veel pogingen. Probeer het later opnieuw."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Vingerafdruk kan niet worden opgeslagen. Verwijder een bestaande vingerafdruk."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Time-out bereikt voor vingerafdruk. Probeer het opnieuw."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Probeer het opnieuw."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Niet herkend"</string>
+    <string name="fingerprint_setup_successfully">Vingerafdruk beveiliging ingesteld. Herinstalleer deze app indien u niet meer met uw vingerafdruk kunt authenticeren.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Vingerafdrukken:"</string>
+    <string name="fix_date_taken">Datum opname corrigeren</string>
+    <string name="fixing">Corrigeren…</string>
+    <string name="flip">Kantelen</string>
+    <string name="flip_horizontally">Horizontaal kantelen</string>
+    <string name="flip_vertically">Verticaal kantelen</string>
+    <string name="focal_length">Brandpuntsafstand</string>
+    <string name="folder">Map</string>
+    <string name="folder_already_exists">Map \"%s\" bestaat reeds</string>
+    <string name="folder_view">Mapweergave</string>
+    <string name="follow_us">Volg ons</string>
+    <string name="font_size">Lettergrootte</string>
+    <string name="force_landscape">Landschapsmodus forceren</string>
+    <string name="force_portrait">Portretmodus forceren</string>
+    <string name="force_portrait_mode">Portretmodus forceren</string>
+    <string name="foreground_color">Kleur voorgrond</string>
+    <string name="free_aspect_ratio">Vrij</string>
+    <string name="frequently_asked_questions">Veelgestelde vragen</string>
+    <string name="friday">Vrijdag</string>
+    <string name="friday_letter">V</string>
+    <string name="friday_short">Vri</string>
+    <string name="fullscreen_media">Volledig scherm</string>
+    <string name="gif_drawable_title">Gif Drawable (loading GIFs)</string>
+    <string name="gifs">GIF-bestanden</string>
+    <string name="glide_title">Glide (image loading and caching)</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Naar de Play Store"</string>
+    <string name="go_to_settings">Ga naar Instellingen</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Naar Instellingen"</string>
+    <string name="grid">Raster</string>
+    <string name="group_by">Groeperen op</string>
+    <string name="group_direct_subfolders">Directe submappen groeperen</string>
+    <string name="gson_title">Gson (JSON parser)</string>
+    <string name="height">Hoogte</string>
+    <string name="hidden">(verborgen)</string>
+    <string name="hidden_folders">Verborgen mappen</string>
+    <string name="hidden_folders_placeholder">Er zijn geen mappen gevonden die zijn verborgen door bestand \".nomedia\".</string>
+    <string name="hide">Verbergen</string>
+    <string name="hide_extended_details">Uitgebreide informatie niet tonen als de statusbalk is verborgen</string>
+    <string name="hide_folder">Map verbergen</string>
+    <string name="hide_folder_description">Deze functie verbergt de map door het bestand \'.nomedia\' toe te voegen. Alle submappen zullen ook worden verborgen. Kies \'Verborgen mappen tonen\' in de instellingen om toch verborgen mappen te kunnen inzien. Doorgaan?</string>
+    <string name="hide_system_ui_at_fullscreen">Statusbalk automatisch verbergen in volledig scherm</string>
+    <string name="home_and_lock_screen">Start- en vergrendelingsscherm</string>
+    <string name="home_screen">Startscherm</string>
+    <string name="hours_raw">uren</string>
+    <string name="image_editing_failed">Fout bij bewerken van afbeelding</string>
+    <string name="images">Afbeeldingen</string>
+    <string name="importing">Importeren…</string>
+    <string name="importing_failed">Importeren mislukt</string>
+    <string name="importing_some_entries_failed">Sommige items konden niet worden geïmporteerd</string>
+    <string name="importing_successful">Importeren voltooid</string>
+    <string name="in_april">in april</string>
+    <string name="in_august">in augustus</string>
+    <string name="in_december">in december</string>
+    <string name="in_february">in februari</string>
+    <string name="in_january">in januari</string>
+    <string name="in_july">in juli</string>
+    <string name="in_june">in juni</string>
+    <string name="in_march">in maart</string>
+    <string name="in_may">in mei</string>
+    <string name="in_november">in november</string>
+    <string name="in_october">in oktober</string>
+    <string name="in_september">in september</string>
+    <string name="include_folders">Toegevoegde mappen</string>
+    <string name="include_gifs">GIF-bestanden weergeven</string>
+    <string name="include_photos">Afbeeldingen weergeven</string>
+    <string name="include_videos">Video\'s weergeven</string>
+    <string name="included_activity_placeholder">Als er mappen zijn die wel media bevatten, maar niet door de galerij worden herkend, voeg deze mappen dan hier handmatig toe.\n\nHet hier toevoegen van mappen zal andere mappen niet uitsluiten.</string>
+    <string name="increase_column_count">Meer kolommen</string>
+    <string name="insert_pattern">Teken een patroon</string>
+    <string name="internal">Interne opslag</string>
+    <string name="interval">Interval (seconden):</string>
+    <string name="invalid_destination">Kon niet naar bestemming schrijven</string>
+    <string name="invalid_file_format">Ongeldig bestandsformaat</string>
+    <string name="invalid_image_path">Ongeldig pad naar afbeelding</string>
+    <string name="invalid_name">Naam bevat ongeldige tekens</string>
+    <string name="invalid_values">Voer geldige afmetingen in</string>
+    <string name="invite_friends_underlined"><u>Vrienden uitnodigen</u></string>
+    <string name="invite_via">Uitnodigen via</string>
+    <string name="iso_speed">ISO-waarde</string>
+    <string name="items_selected">Items geselecteerd</string>
+    <string name="january">Januari</string>
+    <string name="joda_title">Joda-Time (Java date replacement)</string>
+    <string name="july">Juli</string>
+    <string name="june">Juni</string>
+    <string name="keep_aspect_ratio">Beeldverhouding vergrendelen</string>
+    <string name="keep_last_modified">Datum laatst gewijzigd behouden bij bestandsoperaties</string>
+    <string name="kotlin_title">Kotlin (programmeertaal)</string>
+    <string name="label">Label</string>
+    <string name="landscape_aspect_ratio">Verhouding in landschapsmodus</string>
+    <string name="large">Groot</string>
+    <string name="last_modified">Laatst gewijzigd</string>
+    <string name="leak_canary_title">Leak Canary (memory leak detector)</string>
+    <string name="light_theme">Licht</string>
+    <string name="list">Lijst</string>
+    <string name="lock_orientation">Schermoriëntatie vergrendelen</string>
+    <string name="lock_screen">Vergrendelscherm</string>
+    <string name="loop_slideshow">Voorstelling herhalen</string>
+    <string name="loop_videos">Video\'s herhalen</string>
+    <string name="manage_bottom_actions">Actieknoppen onderaan beheren</string>
+    <string name="manage_excluded_folders">Uitgesloten mappen beheren</string>
+    <string name="manage_extended_details">Uitgebreide informatie</string>
+    <string name="manage_hidden_folders">Verborgen mappen beheren</string>
+    <string name="manage_included_folders">Toegevoegde mappen beheren</string>
+    <string name="march">Maart</string>
+    <string name="max_brightness">Maximale helderheid in volledig scherm</string>
+    <string name="maximum_share_reached">Kan niet zoveel items tegelijk delen</string>
+    <string name="may">Mei</string>
+    <string name="medium">Normaal</string>
+    <string name="merge">Samenvoegen</string>
+    <string name="minutes_raw">minuten</string>
+    <string name="monday">Maandag</string>
+    <string name="monday_letter">M</string>
+    <string name="monday_short">Maa</string>
+    <string name="more_apps_underlined"><u>Meer apps</u></string>
+    <string name="move">Verplaatsen</string>
+    <string name="move_backwards">Omgekeerde volgorde</string>
+    <string name="move_items_into_recycle_bin">Items niet verwijderen, maar verplaatsen naar prullenbak</string>
+    <string name="move_to">Verplaatsen naar</string>
+    <string name="move_to_recycle_bin_confirmation">%s echt verplaatsen naar de prullenbak?</string>
+    <string name="moving">Verplaatsen…</string>
+    <string name="moving_success">Bestanden verplaatst</string>
+    <string name="moving_success_partial">Sommige bestanden konden niet worden verplaatst</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
+    <string name="name">Naam</string>
+    <string name="name_taken">Bestand of map met deze naam bestaat reeds</string>
+    <string name="never">Nooit</string>
+    <string name="new_app">
+        <![CDATA[
+            Hallo,<br><br>
+            Er is recentelijk een nieuwe app uitgebracht:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            Downloaden kan door een druk op de naam hierboven.<br><br>
+            Dank u wel!
+        ]]>
+    </string>
+    <string name="no">Nee</string>
+    <string name="no_app_found">Geen app gevonden om dit bestand mee te openen</string>
+    <string name="no_audio_permissions">Machtiging voor geluid benodigd</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Geen browser om website te openen"</string>
+    <string name="no_camera_permissions">Machtiging voor camera benodigd</string>
+    <string name="no_contacts_permission">Machtiging voor contacten benodigd</string>
+    <string name="no_editor_found">Geen app gevonden voor fotobewerking</string>
+    <string name="no_entries_for_exporting">Er zijn geen items gevonden om te exporteren</string>
+    <string name="no_files_selected">Geen bestanden geselecteerd</string>
+    <string name="no_fingerprints_registered">Er zijn geen vingerafdrukken geregistreerd. Voeg deze toe via de instellingen van uw toestel.</string>
+    <string name="no_items_found">Geen items gevonden.</string>
+    <string name="no_media_for_slideshow">Geen media gevonden voor diavoorstelling</string>
+    <string name="no_media_with_filters">Er zijn geen bestanden gevonden met de huidige filters.</string>
+    <string name="no_reminder">Geen herinnering</string>
+    <string name="no_sound">Geen geluid</string>
+    <string name="no_storage_permissions">Machtiging voor opslag benodigd</string>
+    <string name="none">Geen</string>
+    <string name="notes">Notities</string>
+    <string name="notice">Deze app maakt gebruik van de volgende libraries om het mij wat gemakkelijker te maken. Dank hiervoor.</string>
+    <string name="november">November</string>
+    <string name="number_picker_title">Number Picker (customizable number picker)</string>
+    <string name="october">Oktober</string>
+    <string name="ok">OK</string>
+    <string name="one_finger_zoom">Met één vinger zoomen in volledig scherm</string>
+    <string name="open_camera">Camera</string>
+    <string name="open_with">Openen met</string>
+    <string name="otg">OTG</string>
+    <string name="other_folder">Andere map</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Onvoldoende geheugen</string>
+    <string name="overwrite">Overschrijven</string>
+    <string name="panorama_view_title">VR Panorama View (displaying panoramas)</string>
+    <string name="password_protect_hidden_items">Verborgen items met wachtwoord beveiligen</string>
+    <string name="password_protect_whole_app">Hele app met wachtwoord beveiligen</string>
+    <string name="path">Pad</string>
+    <string name="pattern">Patroon</string>
+    <string name="pattern_title">PatternLockView (pattern protection)</string>
+    <string name="photoview_title">PhotoView (zoomable GIFs)</string>
+    <string name="picasso_title">Picasso (image loading and caching)</string>
+    <string name="pick_image_intent_chooser_title">Bron selecteren</string>
+    <string name="pin">Pincode</string>
+    <string name="pin_folder">Map vastzetten</string>
+    <string name="pin_to_the_top">Bovenaan vastzetten</string>
+    <string name="place_finger">Plaats uw vinger op de sensor</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Plaats je telefoon in je Cardboard-bril"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Plaats je telefoon in je <ns1:g id="VIEWER_NAME">%s</ns1:g>-bril"</string>
+    <string name="please_enter_pin">Voer een pincode in</string>
+    <string name="please_select_destination">Kies een bestemming</string>
+    <string name="portrait_aspect_ratio">Verhouding in portretmodus</string>
+    <string name="prevent_phone_from_sleeping">Slaapstand voorkomen wanneer de app actief is</string>
+    <string name="primary_color">Primaire kleur</string>
+    <string name="proceed_with_deletion">Deze items verwijderen?</string>
+    <string name="properties">Eigenschappen</string>
+    <string name="protection_setup_successfully">Wachtwoord ingesteld. Herinstalleer deze app indien u het wachtwoord vergeet.</string>
+    <string name="purchase">Kopen</string>
+    <string name="purchase_simple_thank_you">Simple Thank You kopen</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Om deze functie te gebruiken en om verdere ontwikkeling te ondersteunen kunt u <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> aanschaffen. Alvast bedankt!
+        ]]>
+    </string>
+    <string name="random_order">Willekeurige volgorde</string>
+    <string name="rate_us_underlined"><u>Beoordeel ons</u></string>
+    <string name="raw_images">RAW-afbeeldingen</string>
+    <string name="read_it">Nu lezen</string>
+    <string name="recycle_bin">Prullenbak</string>
+    <string name="recycle_bin_cleaning_interval">Interval prullenbak leegmaken</string>
+    <string name="recycle_bin_emptied">Prullenbak is geleegd</string>
+    <string name="recycle_bin_empty">Prullenbak is leeg</string>
+    <string name="redo">Opnieuw</string>
+    <string name="reduce_column_count">Minder kolommen</string>
+    <string name="reminder_triggers_in">De herinnering zal worden getoond over\n%s</string>
+    <string name="reminder_warning">Controleer eerst of de herinneringen goed werken. Er kunnen zich problemen voordoen door de batterijbesparing van Android.</string>
+    <string name="remove">Weghalen</string>
+    <string name="remove_all">Alles verwijderen</string>
+    <string name="remove_all_description">De lijst van uitgesloten mappen leegmaken. Dit zal de mappen zelf niet verwijderen.</string>
+    <string name="remove_from_favorites">Uit favorieten verwijderen</string>
+    <string name="rename">Hernoemen</string>
+    <string name="rename_file">Bestand hernoemen</string>
+    <string name="rename_file_error">Bestandsnaam kon niet worden gewijzigd</string>
+    <string name="rename_folder">Map hernoemen</string>
+    <string name="rename_folder_empty">Mapnaam mag niet leeg zijn</string>
+    <string name="rename_folder_error">Mapnaam kon niet worden gewijzigd</string>
+    <string name="rename_folder_exists">Map met deze naam bestaat reeds</string>
+    <string name="rename_folder_ok">Naam gewijzigd</string>
+    <string name="rename_folder_root">De naam van een opslagmedium kan niet worden veranderd</string>
+    <string name="renaming_folder">Map hernoemen</string>
+    <string name="repeat_pattern">Herhaal het patroon</string>
+    <string name="repeat_pin">Herhaal pincode</string>
+    <string name="replace_share_with_rotate">Menu-item Draaien vastzetten in volledig scherm (in plaats van Delen)</string>
+    <string name="reprint_title">Reprint (fingerprint protection)</string>
+    <string name="resize">Grootte aanpassen</string>
+    <string name="resize_and_save">Grootte aanpassen en opslaan</string>
+    <string name="resolution">Resolutie</string>
+    <string name="restore_all_files">Alles herstellen</string>
+    <string name="restore_defaults">Standaardwaarden</string>
+    <string name="restore_selected_files">Selectie herstellen</string>
+    <string name="restore_this_file">Bestand herstellen</string>
+    <string name="robolectric_title">Robolectric (testing framework)</string>
+    <string name="root">Hoofdmap</string>
+    <string name="rotate">Draaien</string>
+    <string name="rotate_left">Linksom draaien</string>
+    <string name="rotate_one_eighty">180º draaien</string>
+    <string name="rotate_right">Rechtsom draaien</string>
+    <string name="rtl_viewpager_title">RtlViewPager (right to left swiping)</string>
+    <string name="sanselan_title">Apache Sanselan (reading image metadata)</string>
+    <string name="saturday">Zaterdag</string>
+    <string name="saturday_letter">Z</string>
+    <string name="saturday_short">Zat</string>
+    <string name="save">Opslaan</string>
+    <string name="save_as">Opslaan als</string>
+    <string name="save_before_closing">Onopgeslagen wijzigingen. Nu opslaan?</string>
+    <string name="saving">Opslaan…</string>
+    <string name="saving_label">Opslaan</string>
+    <string name="screen_rotation_aspect_ratio">Afmetingen van bestand</string>
+    <string name="screen_rotation_by">Media in volledig scherm roteren volgens</string>
+    <string name="screen_rotation_device_rotation">Oriëntatie van apparaat</string>
+    <string name="screen_rotation_system_setting">Systeeminstelling</string>
+    <string name="scroll_thumbnails_horizontally">Horizontaal scrollen</string>
+    <string name="scrolling">Scrollen</string>
+    <string name="sd_card">SD-kaart</string>
+    <string name="sd_card_otg_same">Paden van SD-kaart en OTG-apparaat kunnen niet gelijk zijn</string>
+    <string name="search">Zoeken</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Zoeken"</string>
+    <string name="seconds_raw">seconden</string>
+    <string name="security">Beveiliging</string>
+    <string name="select_all">Alles selecteren</string>
+    <string name="select_destination">Kies een bestemming</string>
+    <string name="select_file">Kies een bestand</string>
+    <string name="select_folder">Kies een map</string>
+    <string name="select_photo">Foto selecteren</string>
+    <string name="select_storage">Opslag kiezen</string>
+    <string name="september">September</string>
+    <string name="set_as">Instellen als</string>
+    <string name="set_as_wallpaper">Als achtergrond instellen</string>
+    <string name="set_as_wallpaper_failed">Achtergrond instellen mislukt</string>
+    <string name="set_as_wallpaper_with">Achtergrond instellen met:</string>
+    <string name="setting_wallpaper">Achtergrond instellen…</string>
+    <string name="settings">Instellingen</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"instellingen"</string>
+    <string msgid="20964482303479393" name="setup_button">"Instellen"</string>
+    <string name="share">Delen</string>
+    <string name="share_colors_success">Kleuren gewijzigd. Gebruik het nieuwe thema \'Gedeeld\' om de kleuren voor al onze apps aan te passen.</string>
+    <string name="share_text">Hé, bekijk %1$s eens op %2$s</string>
+    <string name="share_via">Delen via</string>
+    <string name="shared">Gedeeld</string>
+    <string name="show_all">Alles weergeven</string>
+    <string name="show_at_bottom">Enkele actieknoppen onderaan het scherm tonen</string>
+    <string name="show_extended_details">Uitgebreide informatie tonen in volledig scherm</string>
+    <string name="show_hidden_items">Verborgen items tonen</string>
+    <string name="show_info_bubble">Bij slepen van schuifbalk extra informatie tonen</string>
+    <string name="show_media_count">Aantallen in mappen tonen</string>
+    <string name="show_on_map">Op kaart tonen</string>
+    <string name="show_recycle_bin">Prullenbak weergeven in de mapweergave</string>
+    <string name="simple_wallpaper">Achtergrond</string>
+    <string name="size">Grootte</string>
+    <string name="skip">Overslaan</string>
+    <string name="skip_delete_confirmation">Niet om bevestiging vragen bij verwijderen</string>
+    <string name="slideshow">Diavoorstelling</string>
+    <string name="slideshow_ended">De diavoorstelling is beëindigd</string>
+    <string name="small">Klein</string>
+    <string name="snooze">Uitstellen</string>
+    <string name="snooze_time">Interval bij uitstellen</string>
+    <string name="solarized">Overbelicht</string>
+    <string name="song_title">Titel</string>
+    <string name="sort_by">Sorteren op</string>
+    <string name="source">Van</string>
+    <string name="source_and_destination_same">Bron en bestemming kunnen niet gelijk zijn</string>
+    <string name="source_file_doesnt_exist">Bronbestand %s bestaat niet</string>
+    <string name="startup">Opstarten</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stetho_title">Stetho (debugging databases)</string>
+    <string name="stop_showing_hidden">Verborgen items niet tonen</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoomable imageviews)</string>
+    <string name="sunday">Zondag</string>
+    <string name="sunday_first">Week op zondag beginnen</string>
+    <string name="sunday_letter">Z</string>
+    <string name="sunday_short">Zon</string>
+    <string name="svgs">SVG-vectorafbeeldingen</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Wisselen"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Gebruik je een andere bril?"</string>
+    <string name="system_sounds">Systeemgeluiden</string>
+    <string name="temporarily_show_hidden">Verborgen items tonen</string>
+    <string name="text">Tekst</string>
+    <string name="text_color">Tekstkleur</string>
+    <string name="theme">Thema</string>
+    <string name="third_party_licences">Licenties van derden</string>
+    <string name="third_party_licences_underlined"><u>Licenties van derden</u></string>
+    <string name="thumbnails">Miniatuurvoorbeelden</string>
+    <string name="thursday">Donderdag</string>
+    <string name="thursday_letter">D</string>
+    <string name="thursday_short">Don</string>
+    <string name="title">Titel</string>
+    <string name="today">Vandaag</string>
+    <string name="toggle_favorite">Als favoriet instellen</string>
+    <string name="toggle_file_visibility">Bestand tonen/verbergen</string>
+    <string name="toggle_filename">Bestandsnamen tonen</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="tuesday">Dinsdag</string>
+    <string name="tuesday_letter">D</string>
+    <string name="tuesday_short">Din</string>
+    <string name="type_2_characters">Vul tenminste 2 tekens in.</string>
+    <string name="undo">Ongedaan maken</string>
+    <string name="undo_changes">Ongedaan maken</string>
+    <string name="undo_changes_confirmation">Wijzigingen ongedaan maken?</string>
+    <string name="unhide">Tonen</string>
+    <string name="unhide_folder">Map tonen</string>
+    <string name="unknown">Onbekend</string>
+    <string name="unknown_error_occurred">Onbekende fout opgetreden</string>
+    <string name="unknown_file_location">Onbekende bestandslocatie</string>
+    <string name="unknown_location">Locatie onbekend</string>
+    <string name="unlock_orientation">Schermoriëntatie ontgrendelen</string>
+    <string name="unpin_folder">Map losmaken</string>
+    <string name="update_thank_you">Er is een nieuwe versie van Simple Thank You</string>
+    <string name="use_24_hour_time_format">24-uursformaat gebruiken</string>
+    <string name="use_default">Standaard gebruiken</string>
+    <string name="use_default_orientation">Standaardmodus gebruiken</string>
+    <string name="use_english_language">Use English language</string>
+    <string name="use_fade">Animaties gebruiken (vervagen)</string>
+    <string name="use_for_this_folder">Alleen voor deze map gebruiken</string>
+    <string name="use_same_snooze">Altijd dezelfde interval voor uitstellen gebruiken</string>
+    <string name="value_copied_to_clipboard">Gekopieerd naar klembord</string>
+    <string name="vibrate_on_button_press">Trillen bij het indrukken van knoppen</string>
+    <string name="videos">Video\'s</string>
+    <string name="visibility">Opmaak</string>
+    <string name="volume">Volume</string>
+    <string name="wallpaper_set_successfully">Achtergrond is ingesteld</string>
+    <string name="website_label">Bezoek voor de broncode</string>
+    <string name="wednesday">Woensdag</string>
+    <string name="wednesday_letter">W</string>
+    <string name="wednesday_short">Woe</string>
+    <string name="whats_new">Wat is er nieuw</string>
+    <string name="whats_new_disclaimer">* Alleen de belangrijkste veranderingen worden hier vermeld</string>
+    <string name="widgets">Widgets</string>
+    <string name="width">Breedte</string>
+    <string name="wrong_pattern">Verkeerde patroon</string>
+    <string name="wrong_pin">Verkeerde pincode</string>
+    <string name="wrong_root_selected">Verkeerde map: kies de hoofdmap van de SD-kaart</string>
+    <string name="wrong_root_selected_otg">Verkeerde map geselecteerd, kies de hoofdmap van het OTG-apparaat</string>
+    <string name="yes">Ja</string>
+    <string name="yesterday">Gisteren</string>
+    <string name="your_sounds">Eigen geluiden</string>
+</resources>

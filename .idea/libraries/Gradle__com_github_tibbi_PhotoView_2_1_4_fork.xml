@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tibbi:PhotoView-2.1.4-fork">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/transforms-1/files-1.1/PhotoView-2.1.4-fork.aar/9b2c525157166975fb2ddee0a92a4db4/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/transforms-1/files-1.1/PhotoView-2.1.4-fork.aar/9b2c525157166975fb2ddee0a92a4db4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/modules-2/files-2.1/com.github.tibbi/PhotoView/2.1.4-fork/52fd8cf20ae4f5b6c826d5e6acc04fc94ef37130/PhotoView-2.1.4-fork-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

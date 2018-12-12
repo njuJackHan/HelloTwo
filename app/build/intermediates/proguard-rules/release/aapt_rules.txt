@@ -1,0 +1,300 @@
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:409
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:307
+-keep class com.simplemobiletools.commons.activities.AboutActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:315
+-keep class com.simplemobiletools.commons.activities.CustomizationActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:319
+-keep class com.simplemobiletools.commons.activities.FAQActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:311
+-keep class com.simplemobiletools.commons.activities.LicenseActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:426
+-keep class com.simplemobiletools.commons.receivers.SharedThemeReceiver { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:16
+-keep class com.simplemobiletools.gallery.App { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:370
+-keep class com.simplemobiletools.gallery.activities.EditActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:338
+-keep class com.simplemobiletools.gallery.activities.ExcludedFoldersActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:342
+-keep class com.simplemobiletools.gallery.activities.HiddenFoldersActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:334
+-keep class com.simplemobiletools.gallery.activities.IncludedFoldersActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:257
+-keep class com.simplemobiletools.gallery.activities.MainActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:282
+-keep class com.simplemobiletools.gallery.activities.MediaActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:330
+-keep class com.simplemobiletools.gallery.activities.PanoramaActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:346
+-keep class com.simplemobiletools.gallery.activities.PhotoActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:327
+-keep class com.simplemobiletools.gallery.activities.PhotoVideoActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:392
+-keep class com.simplemobiletools.gallery.activities.SetWallpaperActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:323
+-keep class com.simplemobiletools.gallery.activities.SettingsActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:24
+-keep class com.simplemobiletools.gallery.activities.SplashActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:358
+-keep class com.simplemobiletools.gallery.activities.VideoActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:293
+-keep class com.simplemobiletools.gallery.activities.ViewPagerActivity { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:419
+-keep class com.simplemobiletools.gallery.receivers.RefreshMediaReceiver { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\build\intermediates\manifests\full\release\AndroidManifest.xml:435
+-keep class com.squareup.picasso.PicassoProvider { <init>(...); }
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\bottom_set_wallpaper_actions.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\bottom_editor_primary_actions.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\bottom_editor_crop_rotate_actions.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\bottom_actions_aspect_ratio.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\bottom_actions.xml:2
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_bottom_navigation_item.xml:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_layout_snackbar_include.xml:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_filepicker.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\res\layout\design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_security.xml:18
+-keep class android.support.design.widget.TabItem { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_security.xml:13
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_media.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_main.xml:2
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_pattern.xml:15
+-keep class com.andrognito.patternlockview.PatternLockView { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_photo_item.xml:18
+-keep class com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_photo_item.xml:10
+-keep class com.github.chrisbanes.photoview.PhotoView { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_panorama.xml:9
+-keep class com.google.vr.sdk.widgets.pano.VrPanoramaView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_filepicker.xml:14
+-keep class com.simplemobiletools.commons.views.Breadcrumbs { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_color_picker.xml:21
+-keep class com.simplemobiletools.commons.views.ColorPickerSquare { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_medium_picker.xml:17
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_filepicker.xml:31
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_directory_picker.xml:18
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_media.xml:46
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_main.xml:46
+-keep class com.simplemobiletools.commons.views.FastScroller { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_fingerprint.xml:2
+-keep class com.simplemobiletools.commons.views.FingerprintTab { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_line_color_picker.xml:18
+-keep class com.simplemobiletools.commons.views.LineColorPicker { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\resize_image.xml:50
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_manage_extended_details.xml:17
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_manage_bottom_actions.xml:17
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_filter_media.xml:12
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_file_conflict.xml:56
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_delete_with_remember.xml:19
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_change_sorting.xml:96
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_change_grouping.xml:104
+-keep class com.simplemobiletools.commons.views.MyAppCompatCheckbox { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\radio_button.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\item_select_alarm_sound.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_file_conflict.xml:29
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_custom_interval_picker.xml:34
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_change_sorting.xml:23
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_change_grouping.xml:23
+-keep class com.simplemobiletools.commons.views.MyCompatRadioButton { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_security.xml:38
+-keep class com.simplemobiletools.commons.views.MyDialogViewPager { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\resize_image.xml:16
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_slideshow.xml:25
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_save_as.xml:26
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_rename_item.xml:15
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_custom_interval_picker.xml:17
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_create_new_folder.xml:17
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_color_picker.xml:91
+-keep class com.simplemobiletools.commons.views.MyEditText { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_filepicker.xml:47
+-keep class com.simplemobiletools.commons.views.MyFloatingActionButton { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_medium_picker.xml:9
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_filepicker.xml:23
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_directory_picker.xml:10
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\bottom_editor_actions_filter.xml:10
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_media.xml:38
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_manage_folders.xml:9
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_main.xml:38
+-keep class com.simplemobiletools.commons.views.MyRecyclerView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_security.xml:2
+-keep class com.simplemobiletools.commons.views.MyScrollView { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_video_item.xml:105
+-keep class com.simplemobiletools.commons.views.MySeekBar { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_slideshow.xml:50
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_settings.xml:70
+-keep class com.simplemobiletools.commons.views.MySwitchCompat { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\thumbnail_section.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_pin.xml:8
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_pattern.xml:8
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_fingerprint.xml:8
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\resize_image.xml:10
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\property_item.xml:9
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\license_faq_item.xml:9
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\item_manage_folder.xml:13
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\filepicker_list_item.xml:30
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_write_permission_otg.xml:10
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_write_permission.xml:10
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_whats_new.xml:17
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_title.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_textview.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_slideshow.xml:15
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_save_as.xml:10
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_rename_item.xml:10
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_purchase_thank_you.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_message.xml:2
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_line_color_picker.xml:31
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_file_conflict.xml:13
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_exclude_folder.xml:15
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\dialog_delete_with_remember.xml:11
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_create_new_folder.xml:12
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\dialog_color_picker.xml:59
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\breadcrumb_item.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_settings.xml:26
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_media.xml:14
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_manage_folders.xml:17
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_main.xml:14
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\activity_license.xml:15
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\activity_customization.xml:24
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\activity_about.xml:15
+-keep class com.simplemobiletools.commons.views.MyTextView { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_medium.xml:8
+-keep class com.simplemobiletools.commons.views.MyViewPager { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_pattern.xml:2
+-keep class com.simplemobiletools.commons.views.PatternTab { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\res\layout\tab_pin.xml:2
+-keep class com.simplemobiletools.commons.views.PinTab { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_video_item.xml:20
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_photo_item.xml:48
+-keep class com.simplemobiletools.gallery.helpers.MediaSideScroll { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_video_item.xml:32
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\pager_photo_item.xml:71
+-keep class com.simplemobiletools.gallery.views.InstantItemSwitch { <init>(...); }
+
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\photo_video_item_list.xml:12
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\photo_video_item_grid.xml:11
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\directory_item_list.xml:12
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\directory_item_grid.xml:11
+-keep class com.simplemobiletools.gallery.views.MySquareImageView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\23febb0901b1d1693c6da332b938a2e7\res\layout\crop_image_activity.xml:2
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_set_wallpaper.xml:9
+# Referenced at E:\Simple-Gallery-master\app\src\main\res\layout\activity_edit.xml:16
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(...); }
+
+# Referenced at C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\23febb0901b1d1693c6da332b938a2e7\res\layout\crop_image_view.xml:13
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(...); }
+

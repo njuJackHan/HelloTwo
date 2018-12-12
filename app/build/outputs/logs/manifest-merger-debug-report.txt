@@ -1,0 +1,733 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:204:9-212:20
+	android:grantUriPermissions
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:208:13-47
+	android:authorities
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:206:13-60
+	android:exported
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:207:13-37
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:205:13-67
+manifest
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+MERGED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\multidex-1.0.3.aar\1ec4ba4f6d4614c53dedce080caa140f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\23febb0901b1d1693c6da332b938a2e7\AndroidManifest.xml:2:1-11:12
+MERGED from [it.sephiroth.android.exif:library:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\library-1.0.1.aar\37c5447ebdf943370f2c61dd880bc693\AndroidManifest.xml:1:123-7:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c4d85e6cfd4fba0b3f47091efde6a33a\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fc3ced39199ce2f4c83bcbc073c384ab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exoplayer-core-2.8.4.aar\d2353fd378a8fd524fa6f896ae9a1d74\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.vr:sdk-panowidget:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-panowidget-1.150.0.aar\f0497722d94f107411ad4c5adf8ef1d2\AndroidManifest.xml:2:1-9:12
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\217af062b4549c7e480279daa7f7e758\AndroidManifest.xml:2:1-17:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:2:1-14:12
+MERGED from [com.caverock:androidsvg-aar:1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\androidsvg-aar-1.3.aar\3d6851883acbd201b56ebd23fff45efe\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd89bc5ce7fd07f80e02c6b87fd635d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tibbi:subsampling-scale-image-view:v3.10.0-fork] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\subsampling-scale-image-view-v3.10.0-fork.aar\febdaf114d2624c29ef9836e2721f927\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.tibbi:PhotoView:2.1.4-fork] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\PhotoView-2.1.4-fork.aar\9b2c525157166975fb2ddee0a92a4db4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\7bf457171f802e48f81f1f3eff3f9055\AndroidManifest.xml:2:1-12:12
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\02eded2452df83fe20af67eeca6b062b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\core-3.2.1.aar\62c6ff993ecd21d6c5f1712a4578c2bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\glide-4.8.0.aar\925b6a86cb7564248b2f959a32a7314c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\rtlviewpager-1.0.1.aar\b86df10222b48702dadfe9018c5fc34f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\575da55d23e1735d413019d88d81e8b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\1c87369bab72086d903b175ec040afe9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\db-1.1.1.aar\0365967174d215214f74379799193fb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\1008b41beac895736a0494a55c31f165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\148b1b0c1e2ffd591596fc809b59fd8b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\10ff918fd1042eb0643cd3bdce4552bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\10cb56845aae699ba54a605f246d5d87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2790d067e369b6c3cd1bd60d042c8d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\1e869803d8de99348956fd35c55688d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b6329234a27e878d8d3b9178976e4c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3b1b32690022ee8650b3c6b20b866c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d10317eb60761edc066939e3b7061d34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\59c19415ace0c1f287e37f893917b03d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\792997434a1a684f5da2ac2007baaf96\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f5b62e99bd2c764928e85210bc4d1f49\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\821165b96f61ab3accfe5f26d8f0b48b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bffc5fd70a7c20fb6456d490d14be87e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.vr:sdk-commonwidget:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-commonwidget-1.150.0.aar\9bc781062418c5716e9836ee5185b56f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-common:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-common-1.150.0.aar\0fc9680219caef4bbe6af79cb1efad4a\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\44d3dadfcd6362e3f894d237c051fe47\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+	package
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:5:5-44
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:2:1-468:12
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:6:5-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:10:5-12:30
+REJECTED from [com.google.android.exoplayer:exoplayer-core:2.8.4] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exoplayer-core-2.8.4.aar\d2353fd378a8fd524fa6f896ae9a1d74\AndroidManifest.xml:24:5-79
+	tools:node
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:12:9-28
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:11:9-63
+uses-sdk
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+MERGED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:7:5-9:41
+MERGED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\multidex-1.0.3.aar\1ec4ba4f6d4614c53dedce080caa140f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\multidex-1.0.3.aar\1ec4ba4f6d4614c53dedce080caa140f\AndroidManifest.xml:20:5-43
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\23febb0901b1d1693c6da332b938a2e7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-image-cropper-2.7.0.aar\23febb0901b1d1693c6da332b938a2e7\AndroidManifest.xml:7:5-9:41
+MERGED from [it.sephiroth.android.exif:library:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\library-1.0.1.aar\37c5447ebdf943370f2c61dd880bc693\AndroidManifest.xml:2:5-72
+MERGED from [it.sephiroth.android.exif:library:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\library-1.0.1.aar\37c5447ebdf943370f2c61dd880bc693\AndroidManifest.xml:2:5-72
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c4d85e6cfd4fba0b3f47091efde6a33a\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.15] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\android-gif-drawable-1.2.15.aar\c4d85e6cfd4fba0b3f47091efde6a33a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fc3ced39199ce2f4c83bcbc073c384ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fc3ced39199ce2f4c83bcbc073c384ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exoplayer-core-2.8.4.aar\d2353fd378a8fd524fa6f896ae9a1d74\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exoplayer-core-2.8.4.aar\d2353fd378a8fd524fa6f896ae9a1d74\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.vr:sdk-panowidget:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-panowidget-1.150.0.aar\f0497722d94f107411ad4c5adf8ef1d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-panowidget:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-panowidget-1.150.0.aar\f0497722d94f107411ad4c5adf8ef1d2\AndroidManifest.xml:5:5-7:41
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\217af062b4549c7e480279daa7f7e758\AndroidManifest.xml:7:5-9:41
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\217af062b4549c7e480279daa7f7e758\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:5:5-44
+MERGED from [com.caverock:androidsvg-aar:1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\androidsvg-aar-1.3.aar\3d6851883acbd201b56ebd23fff45efe\AndroidManifest.xml:7:5-9:41
+MERGED from [com.caverock:androidsvg-aar:1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\androidsvg-aar-1.3.aar\3d6851883acbd201b56ebd23fff45efe\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd89bc5ce7fd07f80e02c6b87fd635d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd89bc5ce7fd07f80e02c6b87fd635d8\AndroidManifest.xml:20:5-44
+MERGED from [com.github.tibbi:subsampling-scale-image-view:v3.10.0-fork] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\subsampling-scale-image-view-v3.10.0-fork.aar\febdaf114d2624c29ef9836e2721f927\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibbi:subsampling-scale-image-view:v3.10.0-fork] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\subsampling-scale-image-view-v3.10.0-fork.aar\febdaf114d2624c29ef9836e2721f927\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibbi:PhotoView:2.1.4-fork] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\PhotoView-2.1.4-fork.aar\9b2c525157166975fb2ddee0a92a4db4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tibbi:PhotoView:2.1.4-fork] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\PhotoView-2.1.4-fork.aar\9b2c525157166975fb2ddee0a92a4db4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\design-27.1.1.aar\fe3b77a5462f80f09b70c9a213fcc8f4\AndroidManifest.xml:20:5-44
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\7bf457171f802e48f81f1f3eff3f9055\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\7bf457171f802e48f81f1f3eff3f9055\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\02eded2452df83fe20af67eeca6b062b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\02eded2452df83fe20af67eeca6b062b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\39017ae91e5f58cf54db1534c2101d15\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\core-3.2.1.aar\62c6ff993ecd21d6c5f1712a4578c2bb\AndroidManifest.xml:7:5-44
+MERGED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\core-3.2.1.aar\62c6ff993ecd21d6c5f1712a4578c2bb\AndroidManifest.xml:7:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\glide-4.8.0.aar\925b6a86cb7564248b2f959a32a7314c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\glide-4.8.0.aar\925b6a86cb7564248b2f959a32a7314c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\rtlviewpager-1.0.1.aar\b86df10222b48702dadfe9018c5fc34f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\rtlviewpager-1.0.1.aar\b86df10222b48702dadfe9018c5fc34f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\575da55d23e1735d413019d88d81e8b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\575da55d23e1735d413019d88d81e8b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\1c87369bab72086d903b175ec040afe9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\1c87369bab72086d903b175ec040afe9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\db-1.1.1.aar\0365967174d215214f74379799193fb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\db-1.1.1.aar\0365967174d215214f74379799193fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\1008b41beac895736a0494a55c31f165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\1008b41beac895736a0494a55c31f165\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\148b1b0c1e2ffd591596fc809b59fd8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\148b1b0c1e2ffd591596fc809b59fd8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\10ff918fd1042eb0643cd3bdce4552bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\10ff918fd1042eb0643cd3bdce4552bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\10cb56845aae699ba54a605f246d5d87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\10cb56845aae699ba54a605f246d5d87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2790d067e369b6c3cd1bd60d042c8d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2790d067e369b6c3cd1bd60d042c8d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\1e869803d8de99348956fd35c55688d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\1e869803d8de99348956fd35c55688d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b6329234a27e878d8d3b9178976e4c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b6329234a27e878d8d3b9178976e4c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3b1b32690022ee8650b3c6b20b866c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3b1b32690022ee8650b3c6b20b866c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d10317eb60761edc066939e3b7061d34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d10317eb60761edc066939e3b7061d34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\59c19415ace0c1f287e37f893917b03d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\59c19415ace0c1f287e37f893917b03d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\792997434a1a684f5da2ac2007baaf96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\792997434a1a684f5da2ac2007baaf96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f5b62e99bd2c764928e85210bc4d1f49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f5b62e99bd2c764928e85210bc4d1f49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\821165b96f61ab3accfe5f26d8f0b48b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.1.aar\821165b96f61ab3accfe5f26d8f0b48b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bffc5fd70a7c20fb6456d490d14be87e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bffc5fd70a7c20fb6456d490d14be87e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.vr:sdk-commonwidget:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-commonwidget-1.150.0.aar\9bc781062418c5716e9836ee5185b56f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-commonwidget:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-commonwidget-1.150.0.aar\9bc781062418c5716e9836ee5185b56f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-common-1.150.0.aar\0fc9680219caef4bbe6af79cb1efad4a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.150.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\sdk-common-1.150.0.aar\0fc9680219caef4bbe6af79cb1efad4a\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\44d3dadfcd6362e3f894d237c051fe47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\44d3dadfcd6362e3f894d237c051fe47\AndroidManifest.xml:20:5-44
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+	tools:overrideLibrary
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:14:9-93
+	android:targetSdkVersion
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:13:5-14:95
+		INJECTED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:16:5-467:19
+MERGED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:11:5-20:19
+MERGED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:11:5-20:19
+MERGED from [it.sephiroth.android.exif:library:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\library-1.0.1.aar\37c5447ebdf943370f2c61dd880bc693\AndroidManifest.xml:4:2-5:16
+MERGED from [it.sephiroth.android.exif:library:1.0.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\library-1.0.1.aar\37c5447ebdf943370f2c61dd880bc693\AndroidManifest.xml:4:2-5:16
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fc3ced39199ce2f4c83bcbc073c384ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fc3ced39199ce2f4c83bcbc073c384ab\AndroidManifest.xml:9:5-20
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\217af062b4549c7e480279daa7f7e758\AndroidManifest.xml:11:5-15:19
+MERGED from [info.androidhive:imagefilters:1.0.7] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\217af062b4549c7e480279daa7f7e758\AndroidManifest.xml:11:5-15:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:7:5-12:19
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\02eded2452df83fe20af67eeca6b062b\AndroidManifest.xml:9:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\02eded2452df83fe20af67eeca6b062b\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\glide-4.8.0.aar\925b6a86cb7564248b2f959a32a7314c\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\glide-4.8.0.aar\925b6a86cb7564248b2f959a32a7314c\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\148b1b0c1e2ffd591596fc809b59fd8b\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\148b1b0c1e2ffd591596fc809b59fd8b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:20:9-50
+		REJECTED from [info.androidhive:imagefilters:1.0.7] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\imagefilters-1.0.7.aar\217af062b4549c7e480279daa7f7e758\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:21:9-48
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:23:9-40
+	tools:replace
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:17:9-28
+activity#com.simplemobiletools.gallery.activities.SplashActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:26:9-28:49
+	android:theme
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:27:13-54
+activity#com.simplemobiletools.gallery.activities.MainActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:30:9-55:20
+	android:resizeableActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:32:13-46
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:31:13-52
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:image/*+data:mimeType:video/*+data:mimeType:vnd.android.cursor.dir/image+data:mimeType:vnd.android.cursor.dir/video
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:34:13-42:29
+action#android.intent.action.PICK
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:36:17-75
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:36:27-73
+data
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:38:17-51
+	android:scheme
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:175:23-47
+	android:mimeType
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:38:23-49
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:image/*+data:mimeType:video/*+data:mimeType:vnd.android.cursor.dir/image+data:mimeType:vnd.android.cursor.dir/video
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:44:13-54:29
+action#android.intent.action.GET_CONTENT
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:45:17-75
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:45:25-73
+category#android.intent.category.OPENABLE
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.simplemobiletools.gallery.activities.MediaActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:57:9-69:20
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:59:13-66
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:58:13-53
+meta-data#android.app.default_searchable
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:61:13-63:53
+	android:resource
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:63:17-51
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:62:17-62
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:65:13-67:29
+action#android.intent.action.SEARCH
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:66:17-70
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:66:25-68
+activity#com.simplemobiletools.gallery.activities.ViewPagerActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:71:9-85:20
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:74:13-67
+	android:configChanges
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:72:13-57
+intent-filter#action:name:com.android.camera.action.REVIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*+data:mimeType:video/*
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:76:13-84:29
+action#com.android.camera.action.REVIEW
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:77:17-74
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:77:25-72
+category#android.intent.category.BROWSABLE
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:79:27-75
+activity#com.simplemobiletools.commons.activities.AboutActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:87:9-90:68
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:90:13-66
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:89:13-42
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:88:13-82
+activity#com.simplemobiletools.commons.activities.LicenseActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:92:9-95:98
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:95:13-96
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:94:13-57
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:93:13-84
+activity#com.simplemobiletools.commons.activities.CustomizationActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:97:9-100:72
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:100:13-70
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:99:13-53
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:98:13-90
+activity#com.simplemobiletools.commons.activities.FAQActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:102:9-105:98
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:105:13-96
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:104:13-63
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:103:13-80
+activity#com.simplemobiletools.gallery.activities.SettingsActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:107:9-110:68
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:110:13-66
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:109:13-45
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:108:13-56
+activity#com.simplemobiletools.gallery.activities.PhotoVideoActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:112:9-114:76
+	android:configChanges
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:114:13-74
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:113:13-58
+activity#com.simplemobiletools.gallery.activities.PanoramaActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:116:9-119:53
+	android:configChanges
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:118:13-74
+	android:theme
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:119:13-51
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:117:13-56
+activity#com.simplemobiletools.gallery.activities.IncludedFoldersActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:121:9-124:72
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:124:13-70
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:123:13-52
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:122:13-63
+activity#com.simplemobiletools.gallery.activities.ExcludedFoldersActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:126:9-129:72
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:129:13-70
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:128:13-53
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:127:13-63
+activity#com.simplemobiletools.gallery.activities.HiddenFoldersActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:131:9-134:72
+	android:parentActivityName
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:134:13-70
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:133:13-51
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:132:13-61
+activity#com.simplemobiletools.gallery.activities.PhotoActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:136:9-147:20
+	android:configChanges
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:138:13-74
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:137:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:139:13-146:29
+	tools:ignore
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:140:17-47
+action#android.intent.action.VIEW
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:141:17-68
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:141:25-66
+activity#com.simplemobiletools.gallery.activities.VideoActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:149:9-159:20
+	android:configChanges
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:151:13-74
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:150:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:152:13-158:29
+	android:scheme
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:152:28-49
+	tools:ignore
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:153:17-47
+activity#com.simplemobiletools.gallery.activities.EditActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:161:9-183:20
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:163:13-43
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:162:13-52
+intent-filter#action:name:android.intent.action.EDIT+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:164:13-170:29
+action#android.intent.action.EDIT
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:165:17-68
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:165:25-66
+intent-filter#action:name:com.android.camera.action.CROP+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE+data:mimeType:image/*+data:scheme:content+data:scheme:file
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:172:13-182:29
+action#com.android.camera.action.CROP
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:173:17-72
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:173:25-70
+category#android.intent.category.ALTERNATIVE
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:180:17-79
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:180:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:181:17-88
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:181:27-86
+activity#com.simplemobiletools.gallery.activities.SetWallpaperActivity
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:185:9-202:20
+	android:label
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:187:13-53
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:186:13-60
+intent-filter#action:name:android.intent.action.ATTACH_DATA+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:189:13-195:29
+action#android.intent.action.ATTACH_DATA
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:190:17-75
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:190:25-73
+intent-filter#action:name:android.intent.action.SET_WALLPAPER+category:name:android.intent.category.DEFAULT
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:197:13-201:29
+action#android.intent.action.SET_WALLPAPER
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:198:17-77
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:198:25-75
+receiver#com.simplemobiletools.gallery.receivers.RefreshMediaReceiver
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:214:9-220:20
+	android:exported
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:216:13-36
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:215:13-59
+intent-filter#action:name:com.simplemobiletools.REFRESH_MEDIA
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:217:13-219:29
+action#com.simplemobiletools.REFRESH_MEDIA
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:218:17-77
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:218:25-75
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Red
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:222:9-233:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:224:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:227:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:226:13-56
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:225:13-51
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:223:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:229:13-232:29
+action#android.intent.action.MAIN
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:230:17-68
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:230:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:231:17-76
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:231:27-74
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Pink
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:235:9-246:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:237:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:240:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:239:13-57
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:238:13-52
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:236:13-59
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Purple
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:248:9-259:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:250:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:253:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:252:13-59
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:251:13-54
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:249:13-61
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Deep_purple
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:261:9-272:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:263:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:266:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:265:13-64
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:264:13-59
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:262:13-66
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Indigo
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:274:9-285:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:276:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:279:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:278:13-59
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:277:13-54
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:275:13-61
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Blue
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:287:9-298:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:289:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:292:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:291:13-57
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:290:13-52
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:288:13-59
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Light_blue
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:300:9-311:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:302:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:305:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:304:13-63
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:303:13-58
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:301:13-65
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Cyan
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:313:9-324:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:315:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:318:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:317:13-57
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:316:13-52
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:314:13-59
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Teal
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:326:9-337:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:328:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:331:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:330:13-57
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:329:13-52
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:327:13-59
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Green
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:339:9-350:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:341:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:344:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:343:13-58
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:342:13-53
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:340:13-60
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Light_green
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:352:9-363:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:354:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:357:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:356:13-64
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:355:13-59
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:353:13-66
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Lime
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:365:9-376:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:367:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:370:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:369:13-57
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:368:13-52
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:366:13-59
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Yellow
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:378:9-389:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:380:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:383:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:382:13-59
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:381:13-54
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:379:13-61
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Amber
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:391:9-402:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:393:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:396:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:395:13-58
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:394:13-53
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:392:13-60
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Orange
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:404:9-414:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:406:13-35
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:409:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:408:13-52
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:407:13-47
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:405:13-61
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Deep_orange
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:416:9-427:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:418:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:421:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:420:13-64
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:419:13-59
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:417:13-66
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Brown
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:429:9-440:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:431:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:434:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:433:13-58
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:432:13-53
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:430:13-60
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Blue_grey
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:442:9-453:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:444:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:447:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:446:13-62
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:445:13-57
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:443:13-64
+activity-alias#com.simplemobiletools.gallery.activities.SplashActivity.Grey_black
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:455:9-466:26
+	android:enabled
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:457:13-36
+	android:targetActivity
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:460:13-64
+	android:roundIcon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:459:13-63
+	android:icon
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:458:13-58
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:456:13-65
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:209:13-211:57
+	android:resource
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:211:17-55
+	android:name
+		ADDED from E:\Simple-Gallery-master\app\src\main\AndroidManifest.xml:210:17-67
+receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
+ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:13:13-87
+intent-filter#action:name:com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+action:name:com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:15:13-18:29
+action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
+ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:16:17-95
+	android:name
+		ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:16:25-92
+action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:17:17-93
+	android:name
+		ADDED from [com.simplemobiletools:commons:4.7.10] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\commons-4.7.10.aar\e45e7366026d4d0ca56686dad8b5bdde\AndroidManifest.xml:17:25-90
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\picasso-2.71828.aar\b2d40c4540172df4d81a63261d142e86\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\core-3.2.1.aar\62c6ff993ecd21d6c5f1712a4578c2bb\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\cbhan\.gradle\wrapper\dists\gradle-4.9-all\caches\transforms-1\files-1.1\core-3.2.1.aar\62c6ff993ecd21d6c5f1712a4578c2bb\AndroidManifest.xml:9:22-71

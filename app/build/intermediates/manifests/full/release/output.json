@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":198,"versionName":"4.6.2","enabled":true,"outputFile":"gallery-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.simplemobiletools.gallery","split":"","minSdkVersion":"16"}}]

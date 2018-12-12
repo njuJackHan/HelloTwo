@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">%d Stunde</item>
+        <item quantity="other">%d Stunden</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">%d Minute</item>
+        <item quantity="other">%d Minuten</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">%d Sekunde</item>
+        <item quantity="other">%d Sekunden</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d Tag</item>
+        <item quantity="other">%d Tage</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">%d Tag vorher</item>
+        <item quantity="other">%d Tage vorher</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d Element</item>
+        <item quantity="other">%d Elemente</item>
+    </plurals>
+    <plurals name="delete_warning">
+        <item quantity="one">WARNUNG: Ein Ordner soll gelöscht werden</item>
+        <item quantity="other">WARNUNG: %d Ordner sollen gelöscht werden</item>
+    </plurals>
+    <plurals name="deleting_items">
+        <item quantity="one">%d Element wird gelöscht</item>
+        <item quantity="other">%d Elemente werden gelöscht</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d Stunde</item>
+        <item quantity="other">%d Stunden</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">%d Stunde vorher</item>
+        <item quantity="other">%d Stunden vorher</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">%d Stunde</item>
+        <item quantity="other">%d Stunden</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">%d Minute</item>
+        <item quantity="other">%d Minuten</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">%d Sekunde</item>
+        <item quantity="other">%d Sekunden</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d Element</item>
+        <item quantity="other">%d Elemente</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d Minute</item>
+        <item quantity="other">%d Minuten</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">%d Minute vorher</item>
+        <item quantity="other">%d Minuten vorher</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d Monat</item>
+        <item quantity="other">%d Monate</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d Sekunde</item>
+        <item quantity="other">%d Sekunden</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">%d Sekunde vorher</item>
+        <item quantity="other">%d Sekunden vorher</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d Woche</item>
+        <item quantity="other">%d Wochen</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d Jahr</item>
+        <item quantity="other">%d Jahre</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about">Über</string>
+    <string name="add_favorites">Favoriten hinzufügen</string>
+    <string name="add_fingerprint">Fingerabdruck hinzufügen</string>
+    <string name="add_folder">Ordner hinzufügen</string>
+    <string name="add_new_sound">Neuen Ton hinzufügen</string>
+    <string name="add_to_favorites">Zu Favoriten hinzufügen</string>
+    <string name="additional_info">Zusätzliche Infos</string>
+    <string name="alarm">Wecker</string>
+    <string name="alarm_goes_off_in">Zeit bis Alarm:\n%s</string>
+    <string name="alarm_warning">Bitte stell sicher, dass der Alarm zuverlässig funktioniert, bevor Du Dich darauf verlässt. Es könnte wegen Systemeinschränkungen (z.B. Stromsparfunktion) fehlschlagen.</string>
+    <string name="album">Album</string>
+    <string name="all_folders">Alle Medien</string>
+    <string name="allow_deep_zooming_images">Starkes Zoomen zulassen</string>
+    <string name="allow_instant_change">Beim Tippen auf eine Bildschirmseite sofort zwischen Medien wechseln</string>
+    <string name="allow_photo_gestures">Fotohelligkeit mit vertikalen Gesten ändern</string>
+    <string name="allow_video_gestures">Gesten für Videolautstärke/Helligkeit zulassen</string>
+    <string name="always">Immer</string>
+    <string name="an_error_occurred">Es ist ein Fehler aufgetreten: %s</string>
+    <string name="animate_gifs">Kacheln von GIFs animieren</string>
+    <string name="app_icon_color">App-Icon-Farbe</string>
+    <string name="app_launcher_name">Galerie</string>
+    <string name="app_long_description">
+        Eine schlichte App zum Betrachten von Bildern und Videos. Alle Medien können nach Datum, Größe, Name sowie auf- oder absteigend sortiert werden, in Bilder kann auch hineingezoomt werden. Die Vorschau-Kacheln werden in mehreren Spalten abhängig von der Displaygröße angezeigt, die Spaltenanzahl ist mit Zweifingergesten änderbar. Die Medien können umbenannt, geteilt, gelöscht, kopiert und verschoben werden. Bilder können direkt aus der App heraus zugeschnitten, gedreht oder als Hintergrund festgelegt werden.
+
+        Diese Galerie bietet auch für Drittanbieter einige Funktionen an: zur Vorschau von Bildern/Videos, zum Hinzufügen von Anhängen bei Email-Apps, etc. Sie ist perfekt für den täglichen Gebrauch.
+
+        Die Berechtigung für Fingerabdrücke wird nur benötigt, um die Sichtbarkeit von versteckten Dateien oder die gesamte App zu sperren.
+
+        Beinhaltet keine Werbung oder unnötige Berechtigungen. Sie ist komplett Open Source, alle verwendeten Farben sind anpassbar.
+
+        Diese App ist nur eine aus einer größeren Serie von schlichten Apps. Der Rest davon findet sich auf https://www.simplemobiletools.com
+    </string>
+    <string name="app_name">Schlichte Galerie</string>
+    <string name="app_on_sd_card">Die App wurde anscheinend auf der SD-Karte installiert, daher sind die Widgets nicht verfügbar. Sie werden auch in der Liste der Widgets nicht angezeigt.
+        Dies ist systemseitig so beschränkt. Für die Verwendung der Widgets muss die App wieder im internen Speicher installiert werden.</string>
+    <string name="app_short_description">Eine schlichte Galerie zum Betrachten von Bildern und Videos, ganz ohne Werbung.</string>
+    <string name="app_version">App-Version: %s</string>
+    <string name="append">\'_1\' anhängen</string>
+    <string name="apply_to_all">Bei allen Konflikten anwenden</string>
+    <string name="apply_to_all_apps">Farben bei allen schlichten Apps anwenden</string>
+    <string name="april">April</string>
+    <string name="are_you_sure_delete">Soll dieses Element wirklich gelöscht werden?</string>
+    <string name="are_you_sure_recycle_bin">Soll dieses Element wirklich in den Papierkorb verschoben werden?</string>
+    <string name="artist">Künstler</string>
+    <string name="ascending">Aufsteigend</string>
+    <string name="at_start">Zu Beginn</string>
+    <string name="august">August</string>
+    <string name="authentication_blocked">Authentifizierung blockiert, bitte in Kürze erneut versuchen</string>
+    <string name="authentication_failed">Authentifizierung fehlgeschlagen</string>
+    <string name="autofittextview_title">AutoFitTextView (Textgröße ändern)</string>
+    <string name="autoplay_videos">Videos automatisch abspielen</string>
+    <string name="avoid_whats_new">Beim Start \"Neue Funktionen\" nicht anzeigen</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"Zurück"</string>
+    <string name="background_color">Hintergrundfarbe</string>
+    <string name="before_asking_question">Bevor du eine Frage stellst, bitte lies diese Seite:</string>
+    <string name="before_asking_question_read_faq">Vor einer Frage bitte die FAQ (häufig gestellte Fragen) lesen, oft findet sich dort bereits die Antwort.</string>
+    <string name="black_background_at_fullscreen">Schwarzer Hintergrund &amp; schwarze Systemleiste im Vollbild</string>
+    <string name="black_white">Schwarz-Weiß</string>
+    <string name="bottom_actions">Funktionen am unteren Bildschirmrand</string>
+    <string name="brightness">Helligkeit</string>
+    <string name="by_date_taken">Aufnahmedatum</string>
+    <string name="by_extension">Dateierweiterung</string>
+    <string name="by_file_type">Dateityp (Bilder/Videos)</string>
+    <string name="by_folder">Ordner</string>
+    <string name="by_last_modified">Datum der letzten Änderung</string>
+    <string name="camera">Kamera</string>
+    <string name="cancel">Abbrechen</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Abbrechen"</string>
+    <string name="change_color">Farbe ändern</string>
+    <string name="change_cover_image">Coverbild ändern</string>
+    <string name="change_filter">Filter ändern</string>
+    <string name="change_filters_underlined"><u>Filter ändern</u></string>
+    <string name="change_orientation">Bildausrichtung ändern</string>
+    <string name="change_view_type">Darstellung ändern</string>
+    <string name="changing_color_description">Ändern einer Farbe setzt das Thema auf "Benutzerdefiniert"</string>
+    <string name="click_select_destination">Klicken um Ziel auszuwählen</string>
+    <string name="confirm_otg_storage_access_text">Bitte den Basis-Ordner des OTG-Geräts auf der folgenden Seite wählen, um Zugriff zu gewähren</string>
+    <string name="confirm_selection">Auswahl bestätigen</string>
+    <string name="confirm_storage_access_text">Bitte am nächsten Bildschirm das Hauptverzeichnis deiner SD-Karte auswählen, um Schreibzugriff zu erlauben</string>
+    <string name="confirm_storage_access_text_sd">Wenn die SD-Karte nicht angezeigt wird, versuche das</string>
+    <string name="confirm_storage_access_title">Bitte Zugriff auf externen Speicher bestätigen</string>
+    <string name="copy">Kopieren</string>
+    <string name="copy_failed">Konnte die Datei(en) nicht kopieren</string>
+    <string name="copy_move">Kopieren / Verschieben</string>
+    <string name="copy_move_failed">Es ist ein Fehler aufgetreten</string>
+    <string name="copy_to">Kopieren nach</string>
+    <string name="copying">Kopiere…</string>
+    <string name="copying_success">Datei(en) erfolgreich kopiert</string>
+    <string name="copying_success_partial">Einige Dateien konnten nicht kopiert werden</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">Datei %s konnte nicht erstellt werden</string>
+    <string name="could_not_create_folder">Ordner %s konnte nicht erstellt werden</string>
+    <string name="create_new">Neuer Ordner</string>
+    <string name="create_new_folder">Neuen Ordner erstellen</string>
+    <string name="crop_image_activity_no_permissions">Vorgang wird abgebrochen, benötigte Berechtigungen wurden nicht erteilt.</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">zuschneiden</string>
+    <string name="crop_image_menu_flip">spiegeln</string>
+    <string name="crop_image_menu_flip_horizontally">horizontal spiegeln</string>
+    <string name="crop_image_menu_flip_vertically">vertikal spiegeln</string>
+    <string name="crop_image_menu_rotate_left">gegen den Uhrzeigersinn drehen</string>
+    <string name="crop_image_menu_rotate_right">drehen</string>
+    <string name="crop_thumbnails">Kacheln quadratisch zuschneiden</string>
+    <string name="cropper_title">Android Image Cropper (Bilder zuschneiden und rotieren)</string>
+    <string name="custom">Benutzerdefiniert</string>
+    <string name="customize_colors">Farben anpassen</string>
+    <string name="customize_widget_colors">Widget Farben anpassen</string>
+    <string name="dark_red">Dunkelrot</string>
+    <string name="dark_theme">Dunkel</string>
+    <string name="date_taken">Aufnahmedatum</string>
+    <string name="dates_fixed_successfully">Datum erfolgreich korrigiert.</string>
+    <string name="days_raw">Tage</string>
+    <string name="december">Dezember</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_empty_folders">Leere Ordner automatisch löschen</string>
+    <string name="deleting_folder">Lösche Ordner \'%s\'</string>
+    <string name="deletion_confirmation">Sollen %s Elemente wirklich gelöscht werden?</string>
+    <string name="descending">Absteigend</string>
+    <string name="destination">Ziel</string>
+    <string name="details">Details</string>
+    <string name="device_os">Betriebssystem: %s</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"OK"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"HILFE ÖFFNEN"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Du benötigst ein mit Daydream kompatibles Smartphone. Weitere Informationen findest du in der Daydream-Hilfe."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Hol dir die Cardboard App zum Konfigurieren deines VR-Geräts."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Konfigurieren"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Smartphone nicht kompatibel"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Einrichtung erforderlich"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Installation erforderlich"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Warnung"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Diese App funktioniert möglicherweise nicht ordnungsgemäß, wenn Google VR Services nicht aktiviert ist. Aktiviere in den Einstellungen deines Smartphones Google VR Services, bevor du fortfährst."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Diese App funktioniert möglicherweise nicht ordnungsgemäß, wenn Google VR Services nicht installiert ist. Installiere vor dem Fortfahren Google VR Services aus dem Play Store."</string>
+    <string name="direct_children_count">Enthaltene Elemente (direkt)</string>
+    <string name="discard">Verwerfen</string>
+    <string name="dismiss">Abstellen</string>
+    <string name="do_extra_check">Zusätzliche Überprüfung, um ungültige Dateien nicht anzuzeigen</string>
+    <string name="do_not_ask_again">Nicht erneut fragen (in dieser Sitzung)</string>
+    <string name="do_not_group_files">Dateien nicht gruppieren</string>
+    <string name="donate">Spenden</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hallo!,<br><br>
+            Ich hoffe diese App gefällt dir. Sie beinhaltet keine Werbung, daher unterstütze bitte die Entwicklung durch den Kauf der <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> App. Dadurch wird auch dieser Dialog künftig nicht mehr angezeigt.<br><br>
+            Vielen Dank!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Spenden</u></string>
+    <string name="duration">Dauer</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="edit_image_with">Bild bearbeiten mit:</string>
+    <string name="edit_with">Bearbeiten mit:</string>
+    <string name="editor">Editor</string>
+    <string name="email_label">Vorschläge und Feedback bitte senden an</string>
+    <string name="empty_and_disable_recycle_bin">Papierkorb leeren und deaktivieren</string>
+    <string name="empty_name">Bitte einen Namen angeben</string>
+    <string name="empty_recycle_bin">Papierkorb leeren</string>
+    <string name="empty_recycle_bin_confirmation">Papierkorb wirklich leeren? Die Dateien sind dann unwiederbringlich gelöscht.</string>
+    <string name="enable_pull_to_refresh">Ermögliche \"Auffrischen\" durch Ziehen von der oberen Kante</string>
+    <string name="enter_pin">PIN eingeben</string>
+    <string name="error_saving_file">Konnte Quelldatei nicht überschreiben.</string>
+    <string name="espresso_title">Espresso (Test-Hilfstool)</string>
+    <string name="exclude">Ordner ausschließen</string>
+    <string name="exclude_folder_description">Diese Funktion blendet die ausgewählten Ordner und deren Unterordner nur in dieser App aus. Ausgeschlossene Ordner können in den Einstellungen verwaltet werden.</string>
+    <string name="exclude_folder_parent">Möchtest du stattdessen einen höherliegenden Ordner ausschließen?</string>
+    <string name="excluded">(ausgenommen)</string>
+    <string name="excluded_activity_placeholder">\'Ordner ausschließen\' wird ausgewählte Ordner und deren Unterordner nur in dieser App ausblenden. Andere Apps werden solche Ordner weiterhin anzeigen.\\n\\nWenn du Ordner auch für andere Apps verstecken willst, verwende dafür die Funktion \'Ordner verstecken\'.</string>
+    <string name="excluded_folders">Ausgeschlossene Ordner</string>
+    <string name="exif">EXIF</string>
+    <string name="exoplayer_title">ExoPlayer (Video-Player)</string>
+    <string name="exporting">Exportiere…</string>
+    <string name="exporting_failed">Exportieren fehlgeschlagen</string>
+    <string name="exporting_some_entries_failed">Exportieren einiger Einträge fehlgeschlagen</string>
+    <string name="exporting_successful">Exportieren erfolgreich</string>
+    <string name="exposure_time">Belichtungszeit</string>
+    <string name="extended_details">Erweiterte Details</string>
+    <string name="extension">Dateiendung</string>
+    <string name="extension_cannot_be_empty">Dateiendung darf nicht leer sein</string>
+    <string name="extra_large">Sehr groß</string>
+    <string name="f_number">Blendenzahl</string>
+    <string name="faq_10_text">Ja, du kannst Bilder über das Ziehen der Bildecken im Editor zuschneiden. Du gelangst zum Editor indem du lange auf ein Vorschaubild drückst und Bearbeiten auswählst oder durch Auswählen von Bearbeiten in der Vollbildansicht.</string>
+    <string name="faq_10_title">Kann ich mit dieser App Bilder zuschneiden?</string>
+    <string name="faq_11_text">Verwende dazu den Menüeintrag \"Gruppieren nach\" in der Miniaturansicht. Du kannst Dateien nach mehreren Kriterien gruppieren, einschließlich Aufnahmedatum. Wenn Du die Funktion \"Alle Ordnerinhalte anzeigen\" verwendest, kannst du sie auch nach Ordnern gruppieren.</string>
+    <string name="faq_11_title">Kann ich Mediendatei-Thumbnails irgendwie gruppieren?</string>
+    <string name="faq_12_text">Die wahrscheinliche Ursache ist, dass deine Bilder von woanders kopiert worden sind. In diesem Fall solltest du die Miniatur-Ansichten der Bilder durch etwas längeres Antippen markieren und dann im Menü oben rechts die Funktion \'Aufnahmedatum korrigieren\' ausführen.</string>
+    <string name="faq_12_title">Die Sortierung nach Datum ist nicht korrekt, wie kann ich das korrigieren?</string>
+    <string name="faq_1_text">Zunächst musst du unter \"Apps\" in den Geräteeinstellungen die aktuelle Standardgalerie finden. Suche nach einer Bedienfläche wie \"Standardmässig öffnen\", betätige diese und wähle \"Standardeinstellungen löschen\". 
+        Das nächste Mal, wenn du ein Bild oder ein Video öffnest, sollte ein Auswahlfenster erscheinen und es möglich sein, Schlichte Gallerie als Standard-App auszuwählen.</string>
+    <string name="faq_1_text_commons">Wahrscheinlich, weil du die App auf die Speicherkarte verschoben hast. In diesem Fall werden durch eine Einschränkung von Android die Widgets dieser App versteckt. Die einzige Lösung ist die App über die Geräteeinstellungen wieder in den internen Speicher zu verschieben.</string>
+    <string name="faq_1_title">Wie kann ich Schlichte Galerie als Standardanwendung auswählen?</string>
+    <string name="faq_1_title_commons">Weshalb sehe ich das Widget dieser App nicht in der Liste der Widgets?</string>
+    <string name="faq_2_text">Es gibt zwei Möglichkeiten: Entweder du installierst die App erneut oder du wählst in den Geräteeinstellungen \'Apps\' aus und dann \"Daten löschen\". Alle Einstellungen werden zurückgesetzt, alle Mediendateien bleiben unberührt.</string>
+    <string name="faq_2_text_commons">Ja, sicherlich. Du kannst die Apps weiterempfehlen oder gute Rückmeldung und Bewertungen geben. Du kannst ebenso helfen, indem du die Apps in neue Sprachen übersetzt oder vorhandene Übersetzungen aktualisierst.
+        Die Anleitung dazu findest du unter https://github.com/SimpleMobileTools/General-Discussion oder sende mir eine Nachricht an hello@simplemobiletools.com, falls du Hilfe benötigst.</string>
+    <string name="faq_2_title">Ich habe die App mit einem Passwort geschützt und es vergessen. Was kann ich tun?</string>
+    <string name="faq_2_title_commons">Ich will dich unterstützen, aber es ist mir nicht möglich Geld zu spenden. Gibt es eine andere Möglichkeit?</string>
+    <string name="faq_3_text">Du kannst lange auf das gewünschte Album drücken und im Aktionsmenü das Stecknadelsymbol auswählen; es wird nun zuoberst angepinnt. Ebenso kannst du mehrere Ordner anpinnen. Angepinnte Objekte werden nach der Standardmethode sortiert.</string>
+    <string name="faq_3_text_commons">Unglücklicherweise gar nicht. Dateien werden sofort nach dem Bestätigungsdialog gelöscht, sprich ein Papierkorb ist nicht vorhanden.</string>
+    <string name="faq_3_title">Wie kann ich ein Album immer zuoberst erscheinen lassen?</string>
+    <string name="faq_3_title_commons">Ich habe versehentlich einige Dateien gelöscht. Wie kann ich diese wiederherstellen?</string>
+    <string name="faq_4_text">Du kannst auf den Text der aktuellen oder der maximalen Dauer nahe der Suchleiste drücken, um im Video vor- oder zurück zu springen.</string>
+    <string name="faq_4_text_commons">Ja, wenn du ein Widget auf den Home Screen ziehst, erscheint ein Konfigurationsmenü. In der linken unteren Ecke sind farbige Kästchen, drücke auf sie und wähle eine neue Farbe. Ausserdem kannst du den Regler nutzen, um den Alphaparameter (Transparenz) einzustellen.</string>
+    <string name="faq_4_title">Wie kann ich in Videos vor- oder zurückspringen?</string>
+    <string name="faq_4_title_commons">Ich mag die Farben des Widgets nicht. Kann ich sie wechseln?</string>
+    <string name="faq_5_text">\'Ausschließen\' verhindert lediglich, dass der Ordner in Schlichte Galerie angezeigt wird. \'Verstecken\' hingegen versteckt den Ordner auch vor anderen Apps. Dies funktioniert durch das Erstellen einer leeren \".nomedia\"-Datei im betroffenen Ordner, welche du mit jedem Dateimanager wieder löschen kannst.</string>
+    <string name="faq_5_text_commons">Wenn diese endgültig gelöscht wurden, nein. Aber Du kannst in den App-Eintellungen den Papierkorb aktivieren, statt des direkten Löschens. Das verschiebt zu löschende Dateien nur in den Papierkorb, und löscht diese nicht endgültig.</string>
+    <string name="faq_5_title">Was ist der Unterschied zwischen \'Verstecken\' und \'Ausschließen\' eines Ordners?</string>
+    <string name="faq_5_title_commons">Kann ich irgendwie gelöschte Dateien wiederherstellen?</string>
+    <string name="faq_6_text">Es kann geschehen, dass manche ungewöhnliche Alben erscheinen. Diese kannst du ausschliessen durch gedrückt halten und Auswählen von Ausschliessen. Im nächsten Dialog kannst du den übergeordneten Ordner auswählen und dadurch sollten die anderen zugehörigen Alben auch nicht auftauchen.</string>
+    <string name="faq_6_title">Wieso erscheinen Ordner mit Musik-Cover oder Stickers?</string>
+    <string name="faq_7_text">Öffne die Galerie-Einstellungen, wähle dort \'Einbezogene Ordner verwalten\', dann das Plus-Zeichen oben rechts und navigiere zum gewünschten Ordner.</string>
+    <string name="faq_7_title">Ein Ordner mit Bildern wird nicht angezeigt. Was kann ich tun?</string>
+    <string name="faq_8_text">Einen Ordner zu den \'einbezogenen Ordnern\' hinzuzufügen, schließt nicht automatisch alle anderen aus. Eine Möglichkeit ist, in den Galerie-Einstellungen \'Ausgeschlossene Ordner verwalten\' zu wählen, den Stammordner \"/\" auszuschliessen und dann alle gewünschten Ordner in \'Einbezogene Ordner verwalten\' hinzuzufügen.</string>
+    <string name="faq_8_title">Wie kann ich erreichen, dass nur ein paar definierte Ordner sichtbar sind?</string>
+    <string name="faq_9_text">Ja, es gibt einen Schalter in den Einstellungen, gekennzeichnet mit \"Stark zoombare Bilder durch Bilder mit hoher Qualität ersetzen\". Dieser wird die Bildqualität verbessern, aber sie werden bei sehr hoher Zoomstufe unscharf.</string>
+    <string name="faq_9_title">Als Vollbild angezeigte Bilder haben seltsame Artefakte. Kann ich die Qualität verbessern?</string>
+    <string name="favorites">Favoriten</string>
+    <string name="february">Februar</string>
+    <string name="file">Datei</string>
+    <string name="file_already_exists">Datei \"%s\" existiert bereits</string>
+    <string name="file_already_exists_overwrite">Datei \"%s\" existiert bereits. Überschreiben?</string>
+    <string name="file_operations">Dateioperationen</string>
+    <string name="file_saved">Datei erfolgreich gespeichert</string>
+    <string name="filename">Dateiname</string>
+    <string name="filename_cannot_be_empty">Dateiname darf nicht leer sein</string>
+    <string name="filename_invalid_characters">Dateiname enthält ungültige Zeichen</string>
+    <string name="filename_invalid_characters_placeholder">Dateiname \'%s\' anthält ungültige Zeichen</string>
+    <string name="files_count">Enthaltene Dateien (gesamt)</string>
+    <string name="files_restored_successfully">Dateien erfolgreich wiederhergestellt</string>
+    <string name="filter">Filter</string>
+    <string name="filter_media">Filter</string>
+    <string name="filters_title">Android Photo Filters (Bilder filtern)</string>
+    <string name="fingerprint">Fingerabdruck</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Fingerabdrucksensor ist verschmutzt. Reinigen Sie ihn und versuchen Sie es erneut."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Fingerabdruck konnte nicht verarbeitet werden. Versuchen Sie es erneut."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Fingerabdruck teilweise erkannt. Versuchen Sie es erneut."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Finger zu schnell bewegt. Versuchen Sie es erneut."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Finger zu langsam bewegt. Versuchen Sie es erneut."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Fingerabdruckvorgang abgebrochen"</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Fingerabdruckhardware nicht verfügbar"</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Zu viele Versuche. Versuchen Sie es später erneut."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Fingerabdruck kann nicht gespeichert werden. Entfernen Sie einen vorhandenen Fingerabdruck."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Zeitüberschreitung für Fingerabdruck. Versuchen Sie es erneut."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Bitte versuchen Sie es erneut."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Nicht erkannt"</string>
+    <string name="fingerprint_setup_successfully">Schutz erfolgreich eingerichtet. Falls beim Zurücksetzen Probleme auftreten, bitte die App neu installieren.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Fingerabdrücke:"</string>
+    <string name="fix_date_taken">Aufnahmedatum korrigieren</string>
+    <string name="fixing">Korrigiere…</string>
+    <string name="flip">Spiegeln</string>
+    <string name="flip_horizontally">Horizontal spiegeln</string>
+    <string name="flip_vertically">Vertikal spiegeln</string>
+    <string name="focal_length">Brennweite</string>
+    <string name="folder">Ordner</string>
+    <string name="folder_already_exists">Ordner \"%s\" existiert bereits</string>
+    <string name="folder_view">Ansicht: Als Ordner</string>
+    <string name="follow_us">Folge uns</string>
+    <string name="font_size">Schriftgröße</string>
+    <string name="force_landscape">Bildausrichtung im Querformat</string>
+    <string name="force_portrait">Bildausrichtung im Hochformat</string>
+    <string name="force_portrait_mode">Porträt-Modus erzwingen</string>
+    <string name="foreground_color">Vordergrundfarbe</string>
+    <string name="free_aspect_ratio">Beliebiges Seitenverhältnis</string>
+    <string name="frequently_asked_questions">Häufig gestellte Fragen</string>
+    <string name="friday">Freitag</string>
+    <string name="friday_letter">F</string>
+    <string name="friday_short">Fr</string>
+    <string name="fullscreen_media">Vollbild-Anzeige von Medien</string>
+    <string name="gif_drawable_title">Gif Drawable (Laden von GIFs)</string>
+    <string name="gifs">GIFs</string>
+    <string name="glide_title">Glide (Bilder laden und zwischenspeichern)</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Zum Play Store"</string>
+    <string name="go_to_settings">Einstellungen öffnen</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Zu den Einstellungen"</string>
+    <string name="grid">Gitternetz</string>
+    <string name="group_by">Gruppieren nach</string>
+    <string name="group_direct_subfolders">Direkte Unterordner gruppieren</string>
+    <string name="gson_title">Gson (JSON-Parser)</string>
+    <string name="height">Höhe</string>
+    <string name="hidden">(versteckt)</string>
+    <string name="hidden_folders">Versteckte Ordner</string>
+    <string name="hidden_folders_placeholder">Keinen mit einer \".nomedia\"-Datei versteckten Ordner gefunden.</string>
+    <string name="hide">Verstecken</string>
+    <string name="hide_extended_details">Dateieigenschaften im Vollbild nicht anzeigen, wenn die Systemleiste versteckt ist</string>
+    <string name="hide_folder">Ordner verstecken</string>
+    <string name="hide_folder_description">Diese Funktion versteckt die ausgewählten Ordner, indem im Dateisystem eine \'.nomedia\'-Datei abgelegt wird. Dadurch werden die ausgewählten Ordner und alle Unterverzeichnisse auch in anderen Apps nicht angezeigt. Solche Ordner werden nur gezeigt, wenn die Einstellung \'Versteckte Elemente anzeigen\' aktiv ist (auch andere Apps bieten üblicherweise eine solche Option).\\nFortfahren?</string>
+    <string name="hide_system_ui_at_fullscreen">Systemleiste im Vollbild ausblenden</string>
+    <string name="home_and_lock_screen">Start- und Sperrbildschirm</string>
+    <string name="home_screen">Startbildschirm</string>
+    <string name="hours_raw">Stunden</string>
+    <string name="image_editing_failed">Bildbearbeitung fehlgeschlagen.</string>
+    <string name="images">Bilder</string>
+    <string name="importing">Importiere…</string>
+    <string name="importing_failed">Importieren fehlgeschlagen</string>
+    <string name="importing_some_entries_failed">Importieren einiger Einträge fehlgeschlagen</string>
+    <string name="importing_successful">Importieren erfolgreich</string>
+    <string name="in_april">in April</string>
+    <string name="in_august">in August</string>
+    <string name="in_december">in Dezember</string>
+    <string name="in_february">in Februar</string>
+    <string name="in_january">in Januar</string>
+    <string name="in_july">in Juli</string>
+    <string name="in_june">in Juni</string>
+    <string name="in_march">in März</string>
+    <string name="in_may">in Mai</string>
+    <string name="in_november">in November</string>
+    <string name="in_october">in Oktober</string>
+    <string name="in_september">in September</string>
+    <string name="include_folders">Einbezogene Ordner</string>
+    <string name="include_gifs">GIFs verwenden</string>
+    <string name="include_photos">Bilder verwenden</string>
+    <string name="include_videos">Videos verwenden</string>
+    <string name="included_activity_placeholder">Solltest du weitere Mediendateien haben, die von der App nicht gefunden wurden, kannst du deren Ordner hier manuell hinzufügen.</string>
+    <string name="increase_column_count">Kacheln verkleinern</string>
+    <string name="insert_pattern">Muster zeichnen</string>
+    <string name="internal">Intern</string>
+    <string name="interval">Intervall (Sekunden):</string>
+    <string name="invalid_destination">Konnte nicht auf ausgewähltes Ziel schreiben</string>
+    <string name="invalid_file_format">Ungültiges Dateiformat</string>
+    <string name="invalid_image_path">Ungültiger Dateipfad.</string>
+    <string name="invalid_name">Der Name enthält unerlaubte Zeichen</string>
+    <string name="invalid_values">Bitte eine gültige Auflösung eingeben.</string>
+    <string name="invite_friends_underlined"><u>Freunde einladen</u></string>
+    <string name="invite_via">Einladen via</string>
+    <string name="iso_speed">Filmempfindlichkeit</string>
+    <string name="items_selected">Ausgewählte Elemente</string>
+    <string name="january">Januar</string>
+    <string name="joda_title">Joda-Time (Ersatz für Datums-Implementierung in Java)</string>
+    <string name="july">Juli</string>
+    <string name="june">Juni</string>
+    <string name="keep_aspect_ratio">Seitenverhältnis beibehalten</string>
+    <string name="keep_last_modified">Beim Modifizieren von Dateien die alte Änderungszeit beibehalten</string>
+    <string name="kotlin_title">Kotlin (Programmiersprache)</string>
+    <string name="label">Label</string>
+    <string name="landscape_aspect_ratio">Querformat</string>
+    <string name="large">Groß</string>
+    <string name="last_modified">Änderungsdatum</string>
+    <string name="leak_canary_title">Leak Canary (Memory-Leak-Detektor)</string>
+    <string name="light_theme">Hell</string>
+    <string name="list">Liste</string>
+    <string name="lock_orientation">Bildausrichtung sperren</string>
+    <string name="lock_screen">Sperrbildschirm</string>
+    <string name="loop_slideshow">Endlos abspielen</string>
+    <string name="loop_videos">Videos in Endlosschleife abspielen</string>
+    <string name="manage_bottom_actions">Funktionen auswählen</string>
+    <string name="manage_excluded_folders">Ausgeschlossene Ordner verwalten</string>
+    <string name="manage_extended_details">Eigenschaften auswählen</string>
+    <string name="manage_hidden_folders">Versteckte Ordner verwalten</string>
+    <string name="manage_included_folders">Einbezogene Ordner verwalten</string>
+    <string name="march">März</string>
+    <string name="max_brightness">Helligkeit beim Betrachten maximieren</string>
+    <string name="maximum_share_reached">So viel Inhalt kann nicht auf einmal geteilt werden</string>
+    <string name="may">Mai</string>
+    <string name="medium">Mittel</string>
+    <string name="merge">Zusammenführen</string>
+    <string name="minutes_raw">Minuten</string>
+    <string name="monday">Montag</string>
+    <string name="monday_letter">M</string>
+    <string name="monday_short">Mo</string>
+    <string name="more_apps_underlined"><u>Weitere Apps</u></string>
+    <string name="move">Verschieben</string>
+    <string name="move_backwards">Rückwärts abspielen</string>
+    <string name="move_items_into_recycle_bin">Elemente in den Papierkorb verschieben statt löschen</string>
+    <string name="move_to">Verschieben nach</string>
+    <string name="move_to_recycle_bin_confirmation">Sollen %s Elemente wirklich in den Papierkorb verschoben werden?</string>
+    <string name="moving">Verschiebe…</string>
+    <string name="moving_success">Datei(en) erfolgreich verschoben</string>
+    <string name="moving_success_partial">Einige Dateien konnten nicht verschoben werden</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (Mehrfachauswahl in Listen)</string>
+    <string name="name">Name</string>
+    <string name="name_taken">Ordner oder Datei mit diesem Namen existiert bereits</string>
+    <string name="never">Nie</string>
+    <string name="new_app">
+        <![CDATA[
+            Hey,<br><br>
+            nur eine kleine Info zu einer neu veröffentlichten App:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            Du kannst sie durch Drücken auf den Namen herunterladen.<br><br>
+            Danke
+        ]]>
+    </string>
+    <string name="no">Nein</string>
+    <string name="no_app_found">Keine passende App gefunden</string>
+    <string name="no_audio_permissions">Audio-Berechtigung wird benötigt</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Kein Browser zum Öffnen der Website gefunden"</string>
+    <string name="no_camera_permissions">Kamera-Berechtigung wird benötigt</string>
+    <string name="no_contacts_permission">Kontakte-Berechtigung wird benötigt</string>
+    <string name="no_editor_found">Keine Bildeditor-App gefunden.</string>
+    <string name="no_entries_for_exporting">Keine Einträge zum Exportieren gefunden</string>
+    <string name="no_files_selected">Keine Dateien ausgewählt</string>
+    <string name="no_fingerprints_registered">Keine Fingerabdrücke registriert, bitte in den Geräteeinstellungen hinzufügen</string>
+    <string name="no_items_found">Keine Elemente gefunden.</string>
+    <string name="no_media_for_slideshow">Keine Medien für Diashow gefunden.</string>
+    <string name="no_media_with_filters">Keine Medien für die ausgewählten Filter gefunden.</string>
+    <string name="no_reminder">Keine Erinnerung</string>
+    <string name="no_sound">No sound</string>
+    <string name="no_storage_permissions">Speicher-Berechtigung wird benötigt</string>
+    <string name="none">nichts</string>
+    <string name="notes">Notizen</string>
+    <string name="notice">Diese App nutzt die folgenden Drittanbieterbibliotheken, die mein Leben einfacher machen. Danke!</string>
+    <string name="november">November</string>
+    <string name="number_picker_title">Number Picker (Konfigurierbarer Zahlenwähler)</string>
+    <string name="october">Oktober</string>
+    <string name="ok">OK</string>
+    <string name="one_finger_zoom">Ein-Finger-Zoom im Vollbild zulassen</string>
+    <string name="open_camera">Kamera öffnen</string>
+    <string name="open_with">Öffnen mit</string>
+    <string name="otg">OTG</string>
+    <string name="other_folder">Ordner wählen</string>
+    <string name="otto_title">Otto (Event Bus)</string>
+    <string name="out_of_memory_error">Fehler: Zu wenig Speicher</string>
+    <string name="overwrite">Überschreiben</string>
+    <string name="panorama_view_title">VR Panorama View (Panoramabilder anzeigen)</string>
+    <string name="password_protect_hidden_items">Versteckte Elemente mit Muster/PIN schützen</string>
+    <string name="password_protect_whole_app">Gesamte App mit Passwort schützen</string>
+    <string name="path">Pfad</string>
+    <string name="pattern">Muster</string>
+    <string name="pattern_title">PatternLockView (Schutz mit Muster)</string>
+    <string name="photoview_title">PhotoView (Zoombare GIFs)</string>
+    <string name="picasso_title">Picasso (Bilder laden und zwischenspeichern)</string>
+    <string name="pick_image_intent_chooser_title">Quelle wählen</string>
+    <string name="pin">PIN</string>
+    <string name="pin_folder">Ordner anheften</string>
+    <string name="pin_to_the_top">Oben anheften</string>
+    <string name="place_finger">Bitte den Finger auf den Fingerabdrucksensor legen</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Leg dein Smartphone in das Cardboard-Gerät ein"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Leg das Smartphone in das <ns1:g id="VIEWER_NAME">%s</ns1:g>-Gerät ein."</string>
+    <string name="please_enter_pin">Bitte eine PIN eingeben</string>
+    <string name="please_select_destination">Bitte Ziel auswählen</string>
+    <string name="portrait_aspect_ratio">Hochformat</string>
+    <string name="prevent_phone_from_sleeping">Verhindere, dass das Handy in den Ruhemodus wechselt, solange die App im Vordergrund läuft</string>
+    <string name="primary_color">Primäre Farbe</string>
+    <string name="proceed_with_deletion">Willst du mit dem Löschen fortfahren?</string>
+    <string name="properties">Eigenschaften</string>
+    <string name="protection_setup_successfully">Muster/PIN erfolgreich gespeichert. Falls vergessen, muss die App neu installiert werden.</string>
+    <string name="purchase">Kaufen</string>
+    <string name="purchase_simple_thank_you">\"Simple Thank You\" App kaufen</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Bitte kaufe <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> um diese Funktion freizuschalten und die Entwicklung zu unterstützen. Danke!
+        ]]>
+    </string>
+    <string name="random_order">Zufällige Reihenfolge</string>
+    <string name="rate_us_underlined"><u>Bewerte uns im Play Store</u></string>
+    <string name="raw_images">RAW images</string>
+    <string name="read_it">Bitte lesen</string>
+    <string name="recycle_bin">Papierkorb</string>
+    <string name="recycle_bin_cleaning_interval">Intervall zum Leeren des Papierkorbs</string>
+    <string name="recycle_bin_emptied">Papierkorb erfolgreich geleert</string>
+    <string name="recycle_bin_empty">Der Papierkorb ist leer</string>
+    <string name="redo">Wiederholen</string>
+    <string name="reduce_column_count">Kacheln vergrößern</string>
+    <string name="reminder_triggers_in">Verbleibende Zeit bis Alarm ausgelöst wird:\n%s</string>
+    <string name="reminder_warning">Bitte stell sicher, dass die Erinnerung zuverlässig funktioniert, bevor Du Dich darauf verlässt. Es könnte wegen Systemeinschränkungen (z.B. Stromsparfunktion) fehlschlagen.</string>
+    <string name="remove">Entfernen</string>
+    <string name="remove_all">Alle entfernen</string>
+    <string name="remove_all_description">Alle Ordner aus der Liste ausgeblendeter Ordner entfernen? Die Ordner selbst werden nicht gelöscht.</string>
+    <string name="remove_from_favorites">Aus Favoriten entfernen</string>
+    <string name="rename">Umbenennen</string>
+    <string name="rename_file">Datei umbenennen</string>
+    <string name="rename_file_error">Konnte die Datei nicht umbenennen</string>
+    <string name="rename_folder">Ordner umbenennen</string>
+    <string name="rename_folder_empty">Ordnername darf nicht leer sein</string>
+    <string name="rename_folder_error">Konnte den Ordner nicht umbenennen</string>
+    <string name="rename_folder_exists">Ein Ordner mit diesem Namen existiert bereits</string>
+    <string name="rename_folder_ok">Ordner erfolgreich umbenannt</string>
+    <string name="rename_folder_root">Root-Ordner des Speichers kann nicht umbenannt werden</string>
+    <string name="renaming_folder">Ordner umbenennen</string>
+    <string name="repeat_pattern">Muster wiederholen</string>
+    <string name="repeat_pin">PIN wiederholen</string>
+    <string name="replace_share_with_rotate">Teilen/Drehen im Vollbild-Menü vertauschen</string>
+    <string name="reprint_title">Reprint (Schutz mit Fingerabdruck)</string>
+    <string name="resize">Größe ändern</string>
+    <string name="resize_and_save">Größe ändern und speichern</string>
+    <string name="resolution">Auflösung</string>
+    <string name="restore_all_files">Alle Dateien wiederherstellen</string>
+    <string name="restore_defaults">Standard wiederherstellen</string>
+    <string name="restore_selected_files">Markierte Dateien wiederherstellen</string>
+    <string name="restore_this_file">Diese Datei wiederherstellen</string>
+    <string name="robolectric_title">Robolectric (Test-Framework)</string>
+    <string name="root">Hauptverzeichnis</string>
+    <string name="rotate">Drehen</string>
+    <string name="rotate_left">Nach links drehen</string>
+    <string name="rotate_one_eighty">Um 180° drehen</string>
+    <string name="rotate_right">Nach rechts drehen</string>
+    <string name="rtl_viewpager_title">RtlViewPager (Rechts-Links-Wischen)</string>
+    <string name="sanselan_title">Apache Sanselan (Bild-Metadaten lesen)</string>
+    <string name="saturday">Samstag</string>
+    <string name="saturday_letter">S</string>
+    <string name="saturday_short">Sa</string>
+    <string name="save">Speichern</string>
+    <string name="save_as">Speichern unter</string>
+    <string name="save_before_closing">Du hast ungespeicherte Änderungen. Speichern vorm Beenden?</string>
+    <string name="saving">Speichern…</string>
+    <string name="saving_label">Speichern</string>
+    <string name="screen_rotation_aspect_ratio">Seitenverhältnis</string>
+    <string name="screen_rotation_by">Im Vollbild ausrichten nach:</string>
+    <string name="screen_rotation_device_rotation">Gerätedrehung</string>
+    <string name="screen_rotation_system_setting">Systemeinstellung</string>
+    <string name="scroll_thumbnails_horizontally">Kacheln horizontal scrollen</string>
+    <string name="scrolling">Scrollen</string>
+    <string name="sd_card">SD-Karte</string>
+    <string name="sd_card_otg_same">SDCard- und OTG-Gerätepfad dürfen nicht identisch sein</string>
+    <string name="search">Suchen</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="seconds_raw">Sekunden</string>
+    <string name="security">Sicherheit</string>
+    <string name="select_all">Alle auswählen</string>
+    <string name="select_destination">Ziel auswählen</string>
+    <string name="select_file">Datei auswählen</string>
+    <string name="select_folder">Ordner auswählen</string>
+    <string name="select_photo">Auswählen</string>
+    <string name="select_storage">Speicher auswählen</string>
+    <string name="september">September</string>
+    <string name="set_as">Festlegen als</string>
+    <string name="set_as_wallpaper">Als Hintergrund festlegen</string>
+    <string name="set_as_wallpaper_failed">Hintergrundbild festlegen fehlgeschlagen.</string>
+    <string name="set_as_wallpaper_with">Als Hintergrund festlegen mit</string>
+    <string name="setting_wallpaper">Hintergrund festlegen…</string>
+    <string name="settings">Einstellungen</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"Einstellungen"</string>
+    <string msgid="20964482303479393" name="setup_button">"Einrichtung"</string>
+    <string name="share">Teilen</string>
+    <string name="share_colors_success">Farben erfolgreich aktualisiert. Ein neues Thema \'Shared\' wurde hinzugefügt, bitte verwende dieses um für alle Apps die Farben zu ändern.</string>
+    <string name="share_text">Hey, wirf mal einen Blick auf %1$s: %2$s</string>
+    <string name="share_via">Teilen via</string>
+    <string name="shared">Geteilt</string>
+    <string name="show_all">Ansicht: Alle Medien</string>
+    <string name="show_at_bottom">Ausgewählte Funktionen am unteren Bildschirmrand anzeigen</string>
+    <string name="show_extended_details">Dateieigenschaften in Vollbild-Anzeige einblenden</string>
+    <string name="show_hidden_items">Versteckte Elemente anzeigen</string>
+    <string name="show_info_bubble">Beim Scrollen mit dem Scrollbalken Infofenster anzeigen</string>
+    <string name="show_media_count">Medienanzahl bei Ordnern anzeigen</string>
+    <string name="show_on_map">Auf Karte zeigen</string>
+    <string name="show_recycle_bin">Papierkorb auf dem Ordnerbildschirm anzeigen</string>
+    <string name="simple_wallpaper">Schlichter Hintergrund</string>
+    <string name="size">Größe</string>
+    <string name="skip">Überspringen</string>
+    <string name="skip_delete_confirmation">Verwende keinen Löschen-bestätigen-Dialog</string>
+    <string name="slideshow">Diashow</string>
+    <string name="slideshow_ended">Diashow beendet.</string>
+    <string name="small">Klein</string>
+    <string name="snooze">Snooze</string>
+    <string name="snooze_time">Schlummern-Intervall</string>
+    <string name="solarized">Solarisiert</string>
+    <string name="song_title">Liedtitel</string>
+    <string name="sort_by">Sortieren nach</string>
+    <string name="source">Quelle</string>
+    <string name="source_and_destination_same">Quell- und Zielpfad sind identisch</string>
+    <string name="source_file_doesnt_exist">Quelldatei %s existiert nicht</string>
+    <string name="startup">Beim Starten</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stetho_title">Stetho (Datenbanken debuggen)</string>
+    <string name="stop_showing_hidden">Verstecktes wieder verbergen</string>
+    <string name="subsampling_title">Subsampling Scale Image View (Zoombare Bilder)</string>
+    <string name="sunday">Sonntag</string>
+    <string name="sunday_first">Beginne die Woche am Sonntag</string>
+    <string name="sunday_letter">S</string>
+    <string name="sunday_short">So</string>
+    <string name="svgs">SVGs</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Wechseln"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Gerät wechseln?"</string>
+    <string name="system_sounds">Systemtöne</string>
+    <string name="temporarily_show_hidden">Verstecktes kurz zeigen</string>
+    <string name="text">Text</string>
+    <string name="text_color">Schriftfarbe</string>
+    <string name="theme">Thema</string>
+    <string name="third_party_licences">Drittanbieterlizenzen</string>
+    <string name="third_party_licences_underlined"><u>Drittanbieterlizenzen</u></string>
+    <string name="thumbnails">Thumbnails</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="thursday_letter">D</string>
+    <string name="thursday_short">Do</string>
+    <string name="title">Titel</string>
+    <string name="today">Heute</string>
+    <string name="toggle_favorite">Favoriten umschalten</string>
+    <string name="toggle_file_visibility">Schaltet die Sichtbarkeit von Dateien um</string>
+    <string name="toggle_filename">Beschriftungen ein/aus</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="tuesday_letter">D</string>
+    <string name="tuesday_short">Di</string>
+    <string name="type_2_characters">Du musst mindestens 2 Zeichen eingeben, um die Suche zu starten.</string>
+    <string name="undo">Rückgängig</string>
+    <string name="undo_changes">Änderungen verwerfen</string>
+    <string name="undo_changes_confirmation">Bist du sicher, dass du die Änderungen verwerfen willst?</string>
+    <string name="unhide">Nicht verstecken</string>
+    <string name="unhide_folder">Ordner nicht verstecken</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="unknown_error_occurred">Ein unbekannter Fehler ist aufgetreten</string>
+    <string name="unknown_file_location">Unbekannter Dateipfad.</string>
+    <string name="unknown_location">Unbekannter Pfad</string>
+    <string name="unlock_orientation">Bildausrichtung entsperren</string>
+    <string name="unpin_folder">Ordner loslösen</string>
+    <string name="update_thank_you">Bitte Simple Thank You auf die neueste Version aktualisieren</string>
+    <string name="use_24_hour_time_format">Benutze 24-Std.-Zeitformat</string>
+    <string name="use_default">Standard</string>
+    <string name="use_default_orientation">automatische Bildausrichtung</string>
+    <string name="use_english_language">App in Englisch verwenden</string>
+    <string name="use_fade">Übergänge animieren</string>
+    <string name="use_for_this_folder">Nur auf diesen Ordner anwenden</string>
+    <string name="use_same_snooze">Immer dasselbe Snooze-Intervall nutzen</string>
+    <string name="value_copied_to_clipboard">Wert in Zwischenablage kopiert</string>
+    <string name="vibrate_on_button_press">Bei Tastendruck vibrieren</string>
+    <string name="videos">Videos</string>
+    <string name="visibility">Sichtbarkeit</string>
+    <string name="volume">Lautstärke</string>
+    <string name="wallpaper_set_successfully">Hintergrundbild erfolgreich festgelegt.</string>
+    <string name="website_label">Weitere schlichte Apps und Quellcode siehe</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="wednesday_letter">M</string>
+    <string name="wednesday_short">Mi</string>
+    <string name="whats_new">Neue Funktionen</string>
+    <string name="whats_new_disclaimer">* Kleinere Verbesserungen werden nicht gelistet</string>
+    <string name="widgets">Widgets</string>
+    <string name="width">Breite</string>
+    <string name="wrong_pattern">Falsches Muster</string>
+    <string name="wrong_pin">Falsche PIN</string>
+    <string name="wrong_root_selected">Falscher Ordner ausgewählt, bitte Hauptverzeichnis der SD-Karte auswählen</string>
+    <string name="wrong_root_selected_otg">Falscher Ordner gewählt, bitte den Basis- (root-) Ordner des OTG-Geräts wählen</string>
+    <string name="yes">Ja</string>
+    <string name="yesterday">Gestern</string>
+    <string name="your_sounds">Deine Töne</string>
+</resources>

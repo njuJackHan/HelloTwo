@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="few">%d hores</item>
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minuts</item>
+        <item quantity="other">%d minuts</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">%d segon</item>
+        <item quantity="few">%d segons</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d dia</item>
+        <item quantity="other">%d dies</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">%d dia abans</item>
+        <item quantity="other">%d dies abans</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d element</item>
+        <item quantity="other">%d elements</item>
+    </plurals>
+    <plurals name="delete_warning">
+        <item quantity="one">ADVERTIMENT: s\'eliminarà una carpeta</item>
+        <item quantity="other">ADVERTIMENT: s\'eliminaran %d carpetes</item>
+    </plurals>
+    <plurals name="deleting_items">
+        <item quantity="one">Eliminant %d element</item>
+        <item quantity="other">Eliminant %d elements</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">%d hora abans</item>
+        <item quantity="other">%d hores abans</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minuts</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">%d segon</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d element</item>
+        <item quantity="other">%d elements</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minuts</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">%d minut abans</item>
+        <item quantity="other">%d minuts abans</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d mes</item>
+        <item quantity="other">%d mesos</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d segon</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">%d segon abans</item>
+        <item quantity="other">%d segons abans</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d setmana</item>
+        <item quantity="other">%d setmanes</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d any</item>
+        <item quantity="other">%d anys</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="about">Sobre</string>
+    <string name="add_favorites">Afegeix als preferits</string>
+    <string name="add_fingerprint">Afegeix Empremta digital</string>
+    <string name="add_folder">Agregar carpeta</string>
+    <string name="add_new_sound">Afegeix un so nou</string>
+    <string name="add_to_favorites">Afegeix als preferits</string>
+    <string name="additional_info">Informació adicional</string>
+    <string name="alarm">Alarma</string>
+    <string name="alarm_goes_off_in">Temps restant fins que soni l\'alarma: \n%s</string>
+    <string name="alarm_warning">Assegureu-vos que l\'alarma funcioni correctament abans de confiar-hi. Pot comportar-se malament a causa de les restriccions del sistema relacionades amb l\'estalvi de bateria.</string>
+    <string name="album">Àlbum</string>
+    <string name="all_folders">Tots els mitjans</string>
+    <string name="allow_deep_zooming_images">Permet imatges de zoom profund</string>
+    <string name="allow_instant_change">Permet canviar els mitjans de manera instantània fent clic als costats de la pantalla</string>
+    <string name="allow_photo_gestures">Permet controlar la brillantor amb gestos verticals</string>
+    <string name="allow_video_gestures">Permet controlar el volum i la brillantor del vídeo amb gestos verticals</string>
+    <string name="always">Sempre</string>
+    <string name="an_error_occurred">Ha ocorregut un error: %s</string>
+    <string name="animate_gifs">Animar les miniatures dels GIFs</string>
+    <string name="app_icon_color">Color de la icona d\'aplicació</string>
+    <string name="app_launcher_name">Galeria</string>
+    <string name="app_long_description">
+        Una eina senzilla que es pot fer servir per veure imatges i vídeos. Els elements es poden ordenar per data, mida o nom, tant ascendent com descendent. Es pot fer zoom a les imatges. Els arxius de mitjans es mostren en múltiples columnes depenent de la mida de la pantalla i es pot canviar el número de columnes mitjançant gestos. Permet canviar el nom, compartir, esborrar, i moure. Les imatges també es poden retalla, rotar o utilitzar com a fons de pantalla directament des de l\'aplicació.
+
+        Gallery també s\'ofereix per us de tercers, per visualitzar imatges/vídeos, agregar adjunts a clients de correu, etc. Es perfecta per l\'ús diari.
+
+        El permís d\'empremtes dactilars és necessari per bloquejar la visibilitat d\'elements ocults o tota l\'aplicació.
+
+        No conté ni publicitat ni permisos innecessaris. Es totalment Lliure i proporciona colors personalitzables.
+
+        Aquesta aplicació es només una peça d\'una sèrie més gran d\'aplicacions. Pots trobar la resta a https://www.simplemobiletools.com
+    </string>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_on_sd_card">Sembla que l\'aplicació està instal·lada a una targeta SD, cosa que fa que els widgets de l\'aplicació no estiguin disponibles. No els veuràs ni a la llista de widgets disponibles.
+        És una limitació del sistema, de manera que si voleu utilitzar els widgets, heu de tornar a moure l\'aplicació a l\'emmagatzematge intern.</string>
+    <string name="app_short_description">Una galeria per veure imatges i vídeos sense publicitat.</string>
+    <string name="app_version">Versió de la APP: %s</string>
+    <string name="append">Afegir \'_1\'</string>
+    <string name="apply_to_all">Aplicar a tot</string>
+    <string name="apply_to_all_apps">Aplicar els colors a totes les aplicacions Simple Apps</string>
+    <string name="april">Abril</string>
+    <string name="are_you_sure_delete">Segur que voleu eliminar aquest element?</string>
+    <string name="are_you_sure_recycle_bin">Segur que voleu moure aquest element a la paperera?</string>
+    <string name="artist">Artista</string>
+    <string name="ascending">Ascendent</string>
+    <string name="at_start">En començar</string>
+    <string name="august">Agost</string>
+    <string name="authentication_blocked">L\'autenticació està bloquejada. Prova-ho d’aquí un moment</string>
+    <string name="authentication_failed">L\'autenticació ha fallat</string>
+    <string name="autofittextview_title">AutoFitTextView (resizing text)</string>
+    <string name="autoplay_videos">Reproduir vídeos automàticament</string>
+    <string name="avoid_whats_new">Permetre mostrar novetats a l\'inici</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"enrere"</string>
+    <string name="background_color">Color del fons</string>
+    <string name="before_asking_question">Abans de fer una pregunta, primer llegeix les</string>
+    <string name="before_asking_question_read_faq">Before you ask a question, please read the Frequently Asked Questions first, maybe the solution is there.</string>
+    <string name="black_background_at_fullscreen">Fons i barra d\'estat negre als mitjans de pantalla completa</string>
+    <string name="black_white">Blanc &amp; Negre</string>
+    <string name="bottom_actions">Accions de la part inferior</string>
+    <string name="brightness">Brillantor</string>
+    <string name="by_date_taken">Data de presa</string>
+    <string name="by_extension">Extensió</string>
+    <string name="by_file_type">Tipus de fitxer</string>
+    <string name="by_folder">Carpeta</string>
+    <string name="by_last_modified">Darrer modificat</string>
+    <string name="camera">Càmera</string>
+    <string name="cancel">Cancel·lar</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Cancel·la"</string>
+    <string name="change_color">Canviar de color</string>
+    <string name="change_cover_image">Canviar imatge de portada</string>
+    <string name="change_filter">Canviar filtres</string>
+    <string name="change_filters_underlined"><u>Canviar filtres</u></string>
+    <string name="change_orientation">Canviar orientació</string>
+    <string name="change_view_type">Canviar el tipus de vista</string>
+    <string name="changing_color_description">Canviar un color farà que canvii a tema personalitzat</string>
+    <string name="click_select_destination">Prem aquí per triar el destí</string>
+    <string name="confirm_otg_storage_access_text">Seleccioneu la carpeta arrel del dispositiu OTG a la pantalla següent per concedir accés</string>
+    <string name="confirm_selection">Confirmar Selecció</string>
+    <string name="confirm_storage_access_text">Si us plau, tria la carpeta arrel de la targeta SD a la propera pantalla per concedir accés d’escriptura</string>
+    <string name="confirm_storage_access_text_sd">Si no veus la targeta SD, prova això</string>
+    <string name="confirm_storage_access_title">Permet l’accés a l’emmagatzematge extern</string>
+    <string name="copy">Copiar</string>
+    <string name="copy_failed">No s\'ha pogut copiar els arxius</string>
+    <string name="copy_move">Copiar/Moure</string>
+    <string name="copy_move_failed">Ha ocorregut un error</string>
+    <string name="copy_to">Copiar a</string>
+    <string name="copying">Copiant…</string>
+    <string name="copying_success">Arxius copiats correctament</string>
+    <string name="copying_success_partial">Alguns arxius no s\'han pogut copiar</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">No es pot crear l\'arxiu %s</string>
+    <string name="could_not_create_folder">No es pot crear la carpeta %s</string>
+    <string name="create_new">Crear nova</string>
+    <string name="create_new_folder">Crear nova carpeta</string>
+    <string name="crop_thumbnails">Retallar miniatures en quadrats</string>
+    <string name="cropper_title">Android Image Cropper (image crop and rotate)</string>
+    <string name="custom">Personalizat</string>
+    <string name="customize_colors">Canviar colors</string>
+    <string name="customize_widget_colors">Personalitza els colors de widgets</string>
+    <string name="dark_red">Vermell fosc</string>
+    <string name="dark_theme">Fosc</string>
+    <string name="date_taken">Creació</string>
+    <string name="dates_fixed_successfully">Data fixada correctament</string>
+    <string name="days_raw">dies</string>
+    <string name="december">Decembre</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_empty_folders">Eliminar carpetes buides després d\'esborrar el seu contingut</string>
+    <string name="deleting_folder">S\'està eliminant la carpeta \'%s\'</string>
+    <string name="deletion_confirmation">Esteu segur que voleu suprimir %s?</string>
+    <string name="descending">Descendent</string>
+    <string name="destination">Destí</string>
+    <string name="details">Detalls</string>
+    <string name="device_os">Sistema operatiu: %s</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"D\'ACORD"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"OBRE EL CENTRE D\'AJUDA"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Cal tenir un telèfon compatible amb Daydream. Ves al Centre d\'ajuda de Daydream per obtenir més informació."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Instal·la l\'aplicació Carboard per configurar el visor"</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Configura"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Telèfon no compatible"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Cal completar la configuració"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Instal·lació necessària"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Advertiment"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"És possible que l\'aplicació no funcioni bé si els Serveis RV de Google no estan activats. Activa\'ls a la configuració del telèfon abans de continuar."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"És possible que l\'aplicació no funcioni bé sense els Serveis RV de Google. Instal·la\'ls des de Play Store abans de continuar."</string>
+    <string name="direct_children_count">Número d’arxius directament continguts</string>
+    <string name="discard">Desfer</string>
+    <string name="dismiss">Cancel·lar</string>
+    <string name="do_extra_check">Fer una verificació addicional per evitar que es mostrin fitxers no vàlids</string>
+    <string name="do_not_ask_again">No tornar a preguntar en aquesta sessió</string>
+    <string name="do_not_group_files">No agrupar fitxers</string>
+    <string name="donate">Donar</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hola,<br><br>
+            Esperem que gaudiu de l\'aplicació. No conté cap anunci, així que si us plau, ajudeu el seu desenvolupament comprant la aplicació <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a>, també evitarà que aquest diàleg es torni a mostrar.<br><br>
+            Gràcies!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Donar</u></string>
+    <string name="duration">Duració</string>
+    <string name="edit">Editar</string>
+    <string name="edit_image_with">Editar imatge utilitzant:</string>
+    <string name="edit_with">Editar amb</string>
+    <string name="editor">Editor</string>
+    <string name="email_label">Envia els teus comentaris o suggeriments a</string>
+    <string name="empty_and_disable_recycle_bin">Buida i desactiva la paperera de reciclatge</string>
+    <string name="empty_name">Si us plau introdueix un nom</string>
+    <string name="empty_recycle_bin">Buida la paperera de reciclatge</string>
+    <string name="empty_recycle_bin_confirmation">ASegur que vols buidar la paperera? El fitxer s\'eliminaran definitivament.</string>
+    <string name="enable_pull_to_refresh">Activa estirar des de la part superior per refrescar</string>
+    <string name="enter_pin">Introdueix PIN</string>
+    <string name="error_saving_file">No s\'ha pogut sobreescriure l\'arxiu d\'origen</string>
+    <string name="espresso_title">Espresso (testing helper)</string>
+    <string name="exclude">Excloure</string>
+    <string name="exclude_folder_description">Això exclou la selecció juntament amb les carpetes, només de Simple Gallery. Pots gestionar les carpetes excloses en els Ajustaments.</string>
+    <string name="exclude_folder_parent">Excloure millor la carpeta superior?</string>
+    <string name="excluded">(exclòs)</string>
+    <string name="excluded_activity_placeholder">Excloure les carpetes les ocultarà junt amb les seves subcarpetes, però només a Simple Gallery. Seguirant sent visibles a altres aplicacions.\\n\\nSi vols ocultar-les d\'altres aplicacions fes servir la opció Ocultar.</string>
+    <string name="excluded_folders">Carpetes excloses</string>
+    <string name="exif">EXIF</string>
+    <string name="exoplayer_title">ExoPlayer (video player)</string>
+    <string name="exporting">Exportant…</string>
+    <string name="exporting_failed">Exportació fallida</string>
+    <string name="exporting_some_entries_failed">L\'exportació d\'algunes entrades ha fallat</string>
+    <string name="exporting_successful">Exportació correcta</string>
+    <string name="exposure_time">Temps d’exposició</string>
+    <string name="extended_details">Detalls estesos</string>
+    <string name="extension">Extensió</string>
+    <string name="extension_cannot_be_empty">La extensió no pot estar buida</string>
+    <string name="extra_large">Enorme</string>
+    <string name="f_number">F-number</string>
+    <string name="faq_10_text">Sí, pots retallar imatges a l\'editor, arrossegant les cantonades de la imatge. Pots accedir a l\'editor prement una miniatura d\'imatge i seleccionant Edita o seleccionant Edita des de la visualització de pantalla completa.</string>
+    <string name="faq_10_title">Puc retallar imatges amb aquesta aplicació?</string>
+    <string name="faq_11_text">Si, només heu d\'utilitzar l\'ítem del menú \"Agrupar per\" mentre es troba a la vista en miniatura. Podeu agrupar fitxers amb diversos criteris, inclòs data de presa. Si utilitzeu la funció \"Mostra el contingut de totes les carpetes\", també podeu agrupar-les per carpetes.</string>
+    <string name="faq_11_title">Puc agrupar d\'alguna manera les miniatures del fitxer multimèdia?</string>
+    <string name="faq_12_text">Probablement, els fitxers es copiïn en un lloc incorrecte. Podeu arreglar-ho si seleccioneu les miniatures del fitxer i seleccioneu \"Fixar data de presa\".</string>
+    <string name="faq_12_title">L\'ordenació per data que de presa no sembla funcionar correctament, com puc solucionar-ho?</string>
+    <string name="faq_1_text">Primer heu de trobar la galeria actualment predeterminada a la secció Aplicacions de la configuració del vostre dispositiu, cerqueu un botó que digui alguna cosa semblant a \"Obrir per defecte \", feu-hi clic i seleccioneu \"Esborra valors predeterminats \".
+        La propera vegada que proveu d\'obrir una imatge o un vídeo, haureu de veure un selector d\'aplicació, on podeu seleccionar Simple Galeria i convertir-la en la aplicació predeterminada.</string>
+    <string name="faq_1_text_commons">Probablement, perquè heu mogut l\'aplicació en una targeta SD. Hi ha una limitació del sistema d\'Android que oculta els widgets de l\'aplicació determinada
+        en aquest cas. L\'única solució és moure l\'aplicació a l\'emmagatzematge intern a través de la configuració del dispositiu.</string>
+    <string name="faq_1_title">Com puc fer que Simple Gallery sigui la galeria de dispositius predeterminada?</string>
+    <string name="faq_1_title_commons">Com és que no veig aquest widget a la llista de widgets?</string>
+    <string name="faq_2_text">Es pot resoldre de dues maneres. Podeu tornar a instal·lar l\'aplicació o trobar l\'aplicació a la configuració del dispositiu i seleccionar \"Esborrar dades \". Això reiniciarà totes les configuracions, no eliminarà cap fitxer multimèdia.</string>
+    <string name="faq_2_text_commons">Sí, per suposat. Podeu donar a conneixer les aplicacions o donar-ne una bona opinió i valoracions. També podeu ajudar per traduir les aplicacions en un nou idioma o, simplement, actualitzar algunes de les traduccions existents.
+        Podeu trobar la guia a https://github.com/SimpleMobileTools/General-Discussion, o simplement enviar-me un missatge a hello@simplemobiletools.com si necessiteu ajuda.</string>
+    <string name="faq_2_title">Vaig bloquejar l\'aplicació amb una contrasenya, però l\'he oblidat. Què puc fer?</string>
+    <string name="faq_2_title_commons">Vull donar-vos suport, però no puc donar diners. Hi ha alguna cosa més que pugui fer?</string>
+    <string name="faq_3_text">Podeu prémer l\'àlbum desitjat i seleccionar la icona de la xinxeta al menú d\'acció i el fixarà a la part superior. També podeu enganxar diverses carpetes, els elements fixats s\'ordenaran pel mètode de classificació predeterminat.</string>
+    <string name="faq_3_text_commons">Malauradament, no pots fer-ho. Els fitxers s\'eliminen a l\'instant després del diàleg de confirmació, no hi ha una paperera disponible.</string>
+    <string name="faq_3_title">Com puc fer que un àlbum sempre aparegui a la part superior?</string>
+    <string name="faq_3_title_commons">He esborrat alguns fitxers per error, com puc recuperar-los?</string>
+    <string name="faq_4_text">Podeu fer clic als textos actuals o de duració màxima que hi ha a prop de la barra de cerca, això mourà el vídeo cap a enrere o cap endavant.</string>
+    <string name="faq_4_text_commons">Sí, mentre arrossegueu un widget a la vostra pantalla d\'inici, apareixerà una pantalla de configuració de widgets. Veureu quadrats de colors a l\'extrem inferior esquerre, només cal prémer-los per seleccionar un color nou. També podeu utilitzar el control lliscant per ajustar l\'alfa.</string>
+    <string name="faq_4_title">Com puc fer avançar els vídeos?</string>
+    <string name="faq_4_title_commons">No m\'agraden els colors del widget, puc canviar-los?</string>
+    <string name="faq_5_text">Excloure impedeix mostrar la carpeta només a Simple Galery, mentre que Ocultar també amaga la carpeta a altres galeries. Funciona creant un fitxer \". Nomedia \" buit a la carpeta donada, que podeu eliminar amb qualsevol gestor de fitxers.</string>
+    <string name="faq_5_text_commons">Si estan realment eliminats no pots fer-ho. Tanmateix, pots habilitar l\'ús d\'una paperera de reciclatge en comptes de suprimir definitivament a la configuració de l\'aplicació. Això només mourà els fitxers en lloc d\'eliminar-los.</string>
+    <string name="faq_5_title">Quina és la diferència entre ocultar i excloure una carpeta?</string>
+    <string name="faq_5_title_commons">Puc recuperar d\'alguna manera els fitxers eliminats?</string>
+    <string name="faq_6_text">Pot passar que veuràs que apareixen alguns àlbums inusuals. Podeu excloure\'ls fàcilment prement-los i seleccionant Excloure. Al següent diàleg, podeu seleccionar la carpeta principal, és probable que impedeixi que apareguin altres àlbums relacionats.</string>
+    <string name="faq_6_title">Per què apareixen les carpetes amb les portades de la música o adhesius?</string>
+    <string name="faq_7_text">Això pot tenir diversos motius, però resoldre-ho és fàcil. Accediu a Configuració -> Gestiona les carpetes incloses, seleccioneu Més i navegueu fins a la carpeta necessària.</string>
+    <string name="faq_7_title">Una carpeta amb imatges no apareix, què puc fer?</string>
+    <string name="faq_8_text">L\'addició d\'una carpeta a les carpetes incloses no exclou automàticament res. El que podeu fer és anar a Configuració -> Gestionar carpetes excloses, excloure la carpeta arrel \"/\" i, a continuació, afegir les carpetes desitjades a Configuració -> Gestionar carpetes incloses.
+        Això farà que només les carpetes seleccionades siguin visibles, ja que tant excloure com incloure són recursius i si una carpeta està exclosa i inclosa, es mostrarà.</string>
+    <string name="faq_8_title">Què passa si vull veure només algunes carpetes concretes?</string>
+    <string name="faq_9_text">Sí, hi ha un commutador a la configuració que diu \"Substituïu imatges ampliades i de gran qualitat\", podeu fer-ho. Millora la qualitat de les imatges, però es borraran una vegada que intenteu fer zoom massa.</string>
+    <string name="faq_9_title">Les imatges a pantalla completa tenen artefactes estranys, puc millorar d\'alguna manera la qualitat?</string>
+    <string name="favorites">Preferits</string>
+    <string name="february">Febrer</string>
+    <string name="file">Arxiu</string>
+    <string name="file_already_exists">L’arxiu \"%s\" ja existeix</string>
+    <string name="file_already_exists_overwrite">L’arxiu \"%s\" ja existeix. El vos sobreescriure?</string>
+    <string name="file_operations">Operacions de fitxers</string>
+    <string name="file_saved">Arxiu desat amb éxit</string>
+    <string name="filename">Nom de l’arxiu</string>
+    <string name="filename_cannot_be_empty">El nom de l\'arxiu no pot ser buit</string>
+    <string name="filename_invalid_characters">El nom de l\'arxiu conté caràcters no vàlids</string>
+    <string name="filename_invalid_characters_placeholder">El nom de l\'arxiu  \'%s\' conté caràcters no vàlids</string>
+    <string name="files_count">Número total d’arxius</string>
+    <string name="files_restored_successfully">El fitxers s\'han restaurat correctament</string>
+    <string name="filter">Filtrar</string>
+    <string name="filter_media">Filtre d\'arxius</string>
+    <string name="filters_title">Android Photo Filters (image filters)</string>
+    <string name="fingerprint">Empremta digital</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"El sensor d\'empremtes digitals està brut. Neteja\'l i torna-ho a provar."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"No s\'ha pogut processar l\'empremta digital. Torna-ho a provar."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"S\'ha detectat una empremta digital parcial. Torna-ho a provar."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"El dit s\'ha mogut massa ràpid. Torna-ho a provar."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"El dit s\'ha mogut massa lentament. Torna-ho a provar."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"S\'ha cancel·lat l\'operació d\'empremta digital."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"El maquinari per a empremtes digitals no està disponible."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"S\'han produït massa intents. Torna-ho a provar més tard."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"L\'empremta digital no es pot desar. Suprimeix-ne una."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"S\'ha esgotat el temps d\'espera per a l\'empremta digital. Torna-ho a provar."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Torna-ho a provar."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"No s\'ha reconegut"</string>
+    <string name="fingerprint_setup_successfully">Configuració de la protecció amb èxit. Torneu a instal·lar l\'aplicació en cas de problemes amb restablir-la.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Empremtes"</string>
+    <string name="fix_date_taken">Fixar la data de presa</string>
+    <string name="fixing">Fixant…</string>
+    <string name="flip">Girar</string>
+    <string name="flip_horizontally">Horizontalment</string>
+    <string name="flip_vertically">Verticalment</string>
+    <string name="focal_length">Longitut focal</string>
+    <string name="folder">Carpeta</string>
+    <string name="folder_already_exists">La carpeta \"%s\" ja existeix</string>
+    <string name="folder_view">Canviar a vista de carpeta</string>
+    <string name="follow_us">Segueix-nos</string>
+    <string name="font_size">Mida de la font</string>
+    <string name="force_landscape">Forçar horitzontal</string>
+    <string name="force_portrait">Forçar vertical</string>
+    <string name="force_portrait_mode">Força el mode de retrat</string>
+    <string name="foreground_color">Color de primer pla</string>
+    <string name="free_aspect_ratio">Lliure</string>
+    <string name="frequently_asked_questions">Preguntes frequents</string>
+    <string name="friday">Divendres</string>
+    <string name="friday_letter">DV</string>
+    <string name="friday_short">DV</string>
+    <string name="fullscreen_media">Mitjans a pantalla completa</string>
+    <string name="gif_drawable_title">Gif Drawable (loading GIFs)</string>
+    <string name="gifs">GIFs</string>
+    <string name="glide_title">Glide (image loading and caching)</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Ves a Play Store"</string>
+    <string name="go_to_settings">Anar als ajustaments</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Ves a Configuració"</string>
+    <string name="grid">Reixeta</string>
+    <string name="group_by">Agrupar per</string>
+    <string name="group_direct_subfolders">Agrupar carpetes directes</string>
+    <string name="gson_title">Gson (JSON parser)</string>
+    <string name="height">Alt</string>
+    <string name="hidden">(ocult)</string>
+    <string name="hidden_folders">Carpetes ocultes</string>
+    <string name="hidden_folders_placeholder">Sembla que no tens cap carpeta amb l\'arxiu \".nomedia\".</string>
+    <string name="hide">Ocultar</string>
+    <string name="hide_extended_details">Amaga els detalls estesos quan la barra d\'estat està amagada</string>
+    <string name="hide_folder">Amagar carpeta</string>
+    <string name="hide_folder_description">Aquesta funció oculta les carpetes agregant un arxiu \'.nomedia\' dins d\'ella. També ocultarà les subcarpetes. Pots mostrar-les canviant la opció \'Mostrar carpetes ocultes\' als ajustaments. Continuar?</string>
+    <string name="hide_system_ui_at_fullscreen">Ocultar automàticament la interficie de usuari del sistema a pantalla complerta</string>
+    <string name="home_and_lock_screen">Pantalla principal i de bloqueig</string>
+    <string name="home_screen">Pantalla principal</string>
+    <string name="hours_raw">hores</string>
+    <string name="image_editing_failed">Ha fallat la edició de la imatge</string>
+    <string name="images">Imatges</string>
+    <string name="importing">Important…</string>
+    <string name="importing_failed">Importacó fallida</string>
+    <string name="importing_some_entries_failed">L\'impotació d\'algunes entrades ha fallat</string>
+    <string name="importing_successful">Importació correcta</string>
+    <string name="in_april">a l\'Abril</string>
+    <string name="in_august">a l\'Agost</string>
+    <string name="in_december">al Decembre</string>
+    <string name="in_february">al Febrer</string>
+    <string name="in_january">al Gener</string>
+    <string name="in_july">al Juliol</string>
+    <string name="in_june">al Juny</string>
+    <string name="in_march">al Març</string>
+    <string name="in_may">al Maig</string>
+    <string name="in_november">al Novembre</string>
+    <string name="in_october">a l\'Octubre</string>
+    <string name="in_september">al Setembre</string>
+    <string name="include_folders">Carpetes incloses</string>
+    <string name="include_gifs">Inclou GIFs</string>
+    <string name="include_photos">Inclou imatges</string>
+    <string name="include_videos">Inclou vídeos</string>
+    <string name="included_activity_placeholder">Si tens alguna carpeta que contingui multimèdia però no ha estat reconeguda per la aplicació, pots agregar-les manualment aquí.</string>
+    <string name="increase_column_count">Augmentar el número de columnes</string>
+    <string name="insert_pattern">Introdueix patró</string>
+    <string name="internal">Emmagatzematge intern</string>
+    <string name="interval">Interval (segons):</string>
+    <string name="invalid_destination">No es pot escriure al destí triat</string>
+    <string name="invalid_file_format">Format d\'arxiu no vàlid</string>
+    <string name="invalid_image_path">Ruta de imatge no vàlida</string>
+    <string name="invalid_name">El nom conté caràcters no vàlids</string>
+    <string name="invalid_values">Si us plau, introdueix una resolució vàlida</string>
+    <string name="invite_friends_underlined"><u>Convida a amics</u></string>
+    <string name="invite_via">Convida amb</string>
+    <string name="iso_speed">Velocitat ISO</string>
+    <string name="items_selected">Elements seleccionats</string>
+    <string name="january">Gener</string>
+    <string name="joda_title">Joda-Time (Java date replacement)</string>
+    <string name="july">Juliol</string>
+    <string name="june">Juny</string>
+    <string name="keep_aspect_ratio">Mantenir proporcions</string>
+    <string name="keep_last_modified">Mantenir el valor de la darrera modificació al copiar/moure/canviar el nom dels arxius</string>
+    <string name="kotlin_title">Kotlin (Programming language)</string>
+    <string name="label">Label</string>
+    <string name="landscape_aspect_ratio">Relació d\'aspecte tipus paisatge</string>
+    <string name="large">Gran</string>
+    <string name="last_modified">Modificació</string>
+    <string name="leak_canary_title">Leak Canary (memory leak detector)</string>
+    <string name="light_theme">Clar</string>
+    <string name="list">Llista</string>
+    <string name="lock_orientation">Bloquejar orientació</string>
+    <string name="lock_screen">Pantalla de bloqueig</string>
+    <string name="loop_slideshow">Presentació de diapositives</string>
+    <string name="loop_videos">Reproducció continua de vídeos</string>
+    <string name="manage_bottom_actions">Administra les accions de la part inferior</string>
+    <string name="manage_excluded_folders">Gestionar carpetes excloses</string>
+    <string name="manage_extended_details">Gestioneu els detalls ampliats</string>
+    <string name="manage_hidden_folders">Gestionar carpetes ocultes</string>
+    <string name="manage_included_folders">Gestionar carpetes incloses</string>
+    <string name="march">Març</string>
+    <string name="max_brightness">Brillantor màxima quan es mostra multimèdia</string>
+    <string name="maximum_share_reached">No pots compartir aquest contingut alhora</string>
+    <string name="may">Maig</string>
+    <string name="medium">Mitjana</string>
+    <string name="merge">Fusionar</string>
+    <string name="minutes_raw">minuts</string>
+    <string name="monday">Dilluns</string>
+    <string name="monday_letter">DL</string>
+    <string name="monday_short">DL</string>
+    <string name="more_apps_underlined"><u>Més aplicacions</u></string>
+    <string name="move">Moure</string>
+    <string name="move_backwards">Moure cap enrere</string>
+    <string name="move_items_into_recycle_bin">Mou elements a la paperera de reciclatge en lloc de suprimir-los</string>
+    <string name="move_to">Moure a</string>
+    <string name="move_to_recycle_bin_confirmation">Estàs segur que vols moure %s a la paperera?</string>
+    <string name="moving">Movent…</string>
+    <string name="moving_success">Arxius moguts correctament</string>
+    <string name="moving_success_partial">Alguns arxius no s\'han pogut moure</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
+    <string name="name">Nom</string>
+    <string name="name_taken">Ja existeix un arxiu o carpeta amb aquest nom</string>
+    <string name="never">Mai</string>
+    <string name="new_app">
+        <![CDATA[
+            Hola,<br><br>
+            només informar-te que una nova aplicació s\'ha publicat recentment:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            Pots descarregar-la prement el títol.<br><br>
+            Gràcies
+        ]]>
+    </string>
+    <string name="no">No</string>
+    <string name="no_app_found">No s\'ha trobat una aplicació vàlida</string>
+    <string name="no_audio_permissions">Es requereix permís d\'accés a l\'audio</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"No hi ha cap navegador per obrir el lloc web"</string>
+    <string name="no_camera_permissions">Es requereix permís d\'accés a la càmera</string>
+    <string name="no_contacts_permission">Es requereix permís d\'accés als contactes</string>
+    <string name="no_editor_found">No s\'ha trobat cap editor d\'imatges</string>
+    <string name="no_entries_for_exporting">No s\'han trobat entrades per exportar</string>
+    <string name="no_files_selected">No hi ha elements seleccionats</string>
+    <string name="no_fingerprints_registered">No tens empremtes digitals registrades. Afegeix-ne alguna a la configuració del dispositiu</string>
+    <string name="no_items_found">No s\'ha trobat arxius.</string>
+    <string name="no_media_for_slideshow">No s\'han trobat mitjans per a la presentació de diapositives</string>
+    <string name="no_media_with_filters">No s\'han tronat arxius amb els filtres seleccionats.</string>
+    <string name="no_reminder">Cap recordatori</string>
+    <string name="no_sound">Sense so</string>
+    <string name="no_storage_permissions">Es requereix permís d\'accés a l\'emmagatzematge</string>
+    <string name="none">Cap</string>
+    <string name="notes">Notes</string>
+    <string name="notice">Aquesta aplicació fa servir les següents biblioteques de tercers que ens faciliten la feina. Gràcies.</string>
+    <string name="november">Novembre</string>
+    <string name="number_picker_title">Selector de números (selector de números personalitzable)</string>
+    <string name="october">Octubre</string>
+    <string name="ok">OK</string>
+    <string name="one_finger_zoom">Permet fer zoom amb un sol dit a pantalla complerta</string>
+    <string name="open_camera">Obrir càmera</string>
+    <string name="open_with">Obrir amb</string>
+    <string name="otg">OTG</string>
+    <string name="other_folder">Un altre carpeta</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Error: sense memòria</string>
+    <string name="overwrite">Sobreescriure</string>
+    <string name="panorama_view_title">VR Panorama View (displaying panoramas)</string>
+    <string name="password_protect_hidden_items">Contrasenya per protegir els mitjans amagats</string>
+    <string name="password_protect_whole_app">Contrasenya per protegir tota l’aplicació</string>
+    <string name="path">Ruta</string>
+    <string name="pattern">Patró</string>
+    <string name="pattern_title">PatternLockView (pattern protection)</string>
+    <string name="photoview_title">PhotoView (zoomable GIFs)</string>
+    <string name="picasso_title">Picasso (image loading and caching)</string>
+    <string name="pin">PIN</string>
+    <string name="pin_folder">Fixar carpeta</string>
+    <string name="pin_to_the_top">Ancorar a l\'inici</string>
+    <string name="place_finger">Si us plau posa el teu dit al sensor d’empremta digital</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Col·loca el telèfon dintre del visor Cardboard"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Col·loca el telèfon dintre del visor <ns1:g id="VIEWER_NAME">%s</ns1:g>"</string>
+    <string name="please_enter_pin">Si us plau introdueix PIN</string>
+    <string name="please_select_destination">Si us plau tria un destí</string>
+    <string name="portrait_aspect_ratio">Relació d\'aspecte tipus retrat</string>
+    <string name="prevent_phone_from_sleeping">No deixar dormir el telèfon amb la aplicació a primer pla</string>
+    <string name="primary_color">Color principal</string>
+    <string name="proceed_with_deletion">Estas segur que vols continuar amb l’eliminació?</string>
+    <string name="properties">Propietats</string>
+    <string name="protection_setup_successfully">Configuració de la contrasenya amb èxit. Torneu a instal·lar l\'aplicació en cas que l\'oblideu.</string>
+    <string name="purchase">Comprar</string>
+    <string name="purchase_simple_thank_you">Compra Simple Thank You</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Sius plau compra la aplicació <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> per desblocar aquesta fucnió i ajudar al desenvolupament. Gràcies!
+        ]]>
+    </string>
+    <string name="random_order">Ordre aleatori</string>
+    <string name="rate_us_underlined"><u>vota\'ns a Play Store</u></string>
+    <string name="raw_images">Imatges RAW</string>
+    <string name="read_it">Read it</string>
+    <string name="recycle_bin">Paperera de reciclatge</string>
+    <string name="recycle_bin_cleaning_interval">Interval de neteja de paperera de reciclatge</string>
+    <string name="recycle_bin_emptied">La paperea s\'ha buidat correctament</string>
+    <string name="recycle_bin_empty">La paperera és buida</string>
+    <string name="redo">Refer</string>
+    <string name="reduce_column_count">Reduir el número de columnes</string>
+    <string name="reminder_triggers_in">Temps restant fins el recordatori:\n%s</string>
+    <string name="reminder_warning">Assegureu-vos que els recordatoris funcionin correctament abans de confiar-hi. Podrien comportar-se malament a causa de les restriccions del sistema relacionades amb l\'estalvi de bateria.</string>
+    <string name="remove_all">Eliminar tot</string>
+    <string name="remove_all_description">Eliminar totes les carpetes de la llista d\'excloses? Això no eliminarà les carpetes.</string>
+    <string name="remove_from_favorites">Elimina dels preferits</string>
+    <string name="rename">Canviar el nom</string>
+    <string name="rename_file">Canviar el nom de l\'arxiu</string>
+    <string name="rename_file_error">No s\'ha pogut canviar el nom de l\'arxiu</string>
+    <string name="rename_folder">Canviar el nom de la carpeta</string>
+    <string name="rename_folder_empty">El no de la carpeta no pot ser buit</string>
+    <string name="rename_folder_error">No s\'ha pogut canviar el nom de la carpeta</string>
+    <string name="rename_folder_exists">Ja existeix una carpeta amb aquest nom</string>
+    <string name="rename_folder_ok">Carpeta canviada de nom correctament</string>
+    <string name="rename_folder_root">No es pot canviar el nom de la carpeta arrel de l\'emmagatzematge</string>
+    <string name="renaming_folder">Canviant el nom de la carpeta</string>
+    <string name="repeat_pattern">Repeteix patró</string>
+    <string name="repeat_pin">Repeteix PIN</string>
+    <string name="replace_share_with_rotate">Reemplaçar Compartir per Girar al menú de pantalla complerta</string>
+    <string name="reprint_title">Reprint (fingerprint protection)</string>
+    <string name="resize">Redimensionar</string>
+    <string name="resize_and_save">Redimensionar la selecció i desar</string>
+    <string name="resolution">Resolució</string>
+    <string name="restore_all_files">Restaura tots els fitxers</string>
+    <string name="restore_defaults">Valors per defecte</string>
+    <string name="restore_selected_files">Restaura els fitxers seleccionats</string>
+    <string name="restore_this_file">Restaura aquest fitxer</string>
+    <string name="robolectric_title">Robolectric (testing framework)</string>
+    <string name="root">Arrel /</string>
+    <string name="rotate">Rotar</string>
+    <string name="rotate_left">Rotar a l\'esquerra</string>
+    <string name="rotate_one_eighty">Rotar 180º</string>
+    <string name="rotate_right">Rotar a la dreta</string>
+    <string name="rtl_viewpager_title">RtlViewPager (right to left swiping)</string>
+    <string name="sanselan_title">Apache Sanselan (reading image metadata)</string>
+    <string name="saturday">Dissabte</string>
+    <string name="saturday_letter">DS</string>
+    <string name="saturday_short">DS</string>
+    <string name="save">Guardar</string>
+    <string name="save_as">Desar com</string>
+    <string name="save_before_closing">Tens canvis sense aplicar. Desar abans de sortir?</string>
+    <string name="saving">Desant…</string>
+    <string name="saving_label">Desant</string>
+    <string name="screen_rotation_aspect_ratio">Relació d\'aspecte</string>
+    <string name="screen_rotation_by">Gira els mitjans a pantalla completa segons</string>
+    <string name="screen_rotation_device_rotation">Rotació del dispositiu</string>
+    <string name="screen_rotation_system_setting">Configuració del sistema</string>
+    <string name="scroll_thumbnails_horizontally">Desplaçar miniatures horizontalment</string>
+    <string name="scrolling">Desplaçament</string>
+    <string name="sd_card">Targeta SD</string>
+    <string name="sd_card_otg_same">La targeta SD i el dispositiu OTG no poden ser el mateix</string>
+    <string name="search">Buscar</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
+    <string name="seconds_raw">segons</string>
+    <string name="security">Seguretat</string>
+    <string name="select_all">Seleccionar tot</string>
+    <string name="select_destination">Seleccionar destí</string>
+    <string name="select_file">Selecciona un arxiu</string>
+    <string name="select_folder">Selecciona una carpeta</string>
+    <string name="select_photo">Sel·leccionar imatge</string>
+    <string name="select_storage">Selecciona emmagatzematge</string>
+    <string name="september">Setembre</string>
+    <string name="set_as">Establir com</string>
+    <string name="set_as_wallpaper">Establir com a fons de pantalla</string>
+    <string name="set_as_wallpaper_failed">Error a l\'establir com fons de pantalla</string>
+    <string name="set_as_wallpaper_with">Establir com fons de pantalla amb:</string>
+    <string name="setting_wallpaper">Establint fons de pantalla…</string>
+    <string name="settings">Ajustaments</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"configuració"</string>
+    <string msgid="20964482303479393" name="setup_button">"Configura"</string>
+    <string name="share">Compartir</string>
+    <string name="share_colors_success">Colors actualitzats satisfactoriament. S’ha afegit un nou tema anomenat \'Shared\'. Fes -lo servidr per actualitzar els colors de les aplicacions en el futur.</string>
+    <string name="share_text">Hola, vine i mira %1$s a %2$s</string>
+    <string name="share_via">Compartir amb</string>
+    <string name="shared">Compartit</string>
+    <string name="show_all">Mostrar el contingut de totes les carpetes</string>
+    <string name="show_at_bottom">Mostra alguns botons d\'acció a la part inferior de la pantalla</string>
+    <string name="show_extended_details">Mostrar detalls estesos sobre mitjans a pantalla complerta</string>
+    <string name="show_hidden_items">Mostra elements ocults</string>
+    <string name="show_info_bubble">Mostra una bombolla d\'informació en elements de desplaçament mitjançant arrossegament de la barra de desplaçament</string>
+    <string name="show_media_count">Mostrar el número de mitjans de les carpetes a la vista principal</string>
+    <string name="show_on_map">Mostrar al mapa</string>
+    <string name="show_recycle_bin">Mostra la paperera de reciclatge a la pantalla de carpetes</string>
+    <string name="simple_wallpaper">Fons de pantalla de Simple Gallery</string>
+    <string name="size">Mida</string>
+    <string name="skip">Saltar</string>
+    <string name="skip_delete_confirmation">Ignora sempre el diàleg de confirmació d\'eliminació</string>
+    <string name="slideshow">Presentació de diapositives</string>
+    <string name="slideshow_ended">S\'ha acabat la presentació de diapositives</string>
+    <string name="small">Petita</string>
+    <string name="snooze">Posposar</string>
+    <string name="snooze_time">Temps de posposat</string>
+    <string name="solarized">Solaritzat</string>
+    <string name="song_title">Títol de la canço</string>
+    <string name="sort_by">Ordenar per</string>
+    <string name="source">Origen</string>
+    <string name="source_and_destination_same">Origen i destí no poden ser iguals</string>
+    <string name="source_file_doesnt_exist">El fitxer %s no existeix</string>
+    <string name="startup">Inici</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="stetho_title">Stetho (debugging databases)</string>
+    <string name="stop_showing_hidden">Deixar de mostrar mitjans amagats</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoomable imageviews)</string>
+    <string name="sunday">Diumenge</string>
+    <string name="sunday_first">Començar la setmana en diumenge</string>
+    <string name="sunday_letter">DG</string>
+    <string name="sunday_short">DG</string>
+    <string name="svgs">SVGs</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Canvia"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Vols fer servir un altre visor?"</string>
+    <string name="system_sounds">Sons del sistema</string>
+    <string name="temporarily_show_hidden">Mostrar amagats temporalment</string>
+    <string name="text">Text</string>
+    <string name="text_color">Color del text</string>
+    <string name="theme">Tema</string>
+    <string name="third_party_licences">Llicències de tercers</string>
+    <string name="third_party_licences_underlined"><u>Llicències de tercers</u></string>
+    <string name="thumbnails">Miniatures</string>
+    <string name="thursday">Dijous</string>
+    <string name="thursday_letter">DJ</string>
+    <string name="thursday_short">DJ</string>
+    <string name="title">Títol</string>
+    <string name="today">Avui</string>
+    <string name="toggle_favorite">Activa favorits</string>
+    <string name="toggle_file_visibility">Activa la visibilitat del fitxer</string>
+    <string name="toggle_filename">Canviar la visibilitat del nom d\'arxiu</string>
+    <string name="tomorrow">Demà</string>
+    <string name="tuesday">Dimarts</string>
+    <string name="tuesday_letter">DT</string>
+    <string name="tuesday_short">DT</string>
+    <string name="type_2_characters">Escriu al menys dos caracters per iniciar la cerca.</string>
+    <string name="undo">Desfer</string>
+    <string name="undo_changes">Desfer els canvis</string>
+    <string name="undo_changes_confirmation">¿Segur que vols desfer els canvis?</string>
+    <string name="unhide">Mostrar</string>
+    <string name="unhide_folder">Mostrar carpeta</string>
+    <string name="unknown">Desconegut</string>
+    <string name="unknown_error_occurred">Ha ocorregut un error desconegut</string>
+    <string name="unknown_file_location">Ubicació de l\'arxiu desconeguda</string>
+    <string name="unknown_location">Ubicació desconeguda</string>
+    <string name="unlock_orientation">Desbloquejar orientació</string>
+    <string name="unpin_folder">No fixar carpeta</string>
+    <string name="update_thank_you">Si us plau, actualitzeu Simple Thank You a la darrera versió</string>
+    <string name="use_24_hour_time_format">Utilitzar foramt 24 houres</string>
+    <string name="use_default">Us per defecte</string>
+    <string name="use_default_orientation">Fer servir la orientació per defecte</string>
+    <string name="use_english_language">Usar l’idioma Anglès</string>
+    <string name="use_fade">Utilitza animacions de desaparició</string>
+    <string name="use_for_this_folder">Només per aquesta carpeta</string>
+    <string name="use_same_snooze">Utilitzeu sempre el mateix temps de posposat</string>
+    <string name="value_copied_to_clipboard">Valor copiat al portaretalls</string>
+    <string name="vibrate_on_button_press">Vibrar al prŕmer un botó</string>
+    <string name="videos">Vídeos</string>
+    <string name="visibility">Visibilitat</string>
+    <string name="volume">Volum</string>
+    <string name="wallpaper_set_successfully">Fons de pantalla establert correctament</string>
+    <string name="website_label">Més aplicacions senzilles i codi font a</string>
+    <string name="wednesday">Dimecres</string>
+    <string name="wednesday_letter">DC</string>
+    <string name="wednesday_short">DC</string>
+    <string name="whats_new">Que hi ha nou</string>
+    <string name="whats_new_disclaimer">* Només les actualitzacions més grans s’enumeren aquí. Sempre hi ha petites millores també.</string>
+    <string name="widgets">Ginys</string>
+    <string name="width">Ample</string>
+    <string name="wrong_pattern">Patró erroni</string>
+    <string name="wrong_pin">PIN erroni</string>
+    <string name="wrong_root_selected">Has seleccionat la carpeta incorrecta. Selecciona la carpeta arrel de la targeta SD</string>
+    <string name="wrong_root_selected_otg">S\'ha seleccionat la carpeta incorrecta, seleccioneu la carpeta arrel del vostre dispositiu OTG</string>
+    <string name="yes">Si</string>
+    <string name="yesterday">Ahir</string>
+    <string name="your_sounds">Els teus sons</string>
+</resources>

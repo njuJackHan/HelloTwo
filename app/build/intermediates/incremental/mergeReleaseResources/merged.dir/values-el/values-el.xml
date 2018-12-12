@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">αναβολή %d ώρ.</item>
+        <item quantity="other">αναβολή %d ώρ.</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">αναβολή %d λεπτ.</item>
+        <item quantity="other">αναβολή %d λεπτ.</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">αναβολή %d δευτ.</item>
+        <item quantity="other">αναβολή %d δευτ.</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d ημερ.</item>
+        <item quantity="other">%d ημερ.</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">πρίν %d ημερ.</item>
+        <item quantity="other">πρίν %d ημερ.</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d στοιχείο</item>
+        <item quantity="other">%d στοιχεία</item>
+    </plurals>
+    <plurals name="delete_warning">
+        <item quantity="one">Προειδοποίηση: Διαγράφετε ένα φάκελο</item>
+        <item quantity="other">Προειδοποίηση: Διαγράφετε %d φακέλους</item>
+    </plurals>
+    <plurals name="deleting_items">
+        <item quantity="one">Διαγραφή %d στοιχείο</item>
+        <item quantity="other">Διαγραφή %d στοιχεία</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d ώρ.</item>
+        <item quantity="other">%d ώρ.</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">πρίν %d ώρ.</item>
+        <item quantity="other">πρίν %d ώρ.</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">σε %d ώρ.</item>
+        <item quantity="other">σε %d ώρ.</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">σε %d λεπτ.</item>
+        <item quantity="other">σε %d λεπτ.</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">σε %d δευτ.</item>
+        <item quantity="other">σε %d δευτ.</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d στοιχείο</item>
+        <item quantity="other">%d στοιχεία</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d λεπτ.</item>
+        <item quantity="other">%d λεπτ.</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">πρίν %d λεπτ.</item>
+        <item quantity="other">πρίν %d λεπτ.</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d μήνα</item>
+        <item quantity="other">%d μήνες</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d δευτ.</item>
+        <item quantity="other">%d δευτ.</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">πρίν %d δευτ.</item>
+        <item quantity="other">πρίν %d δευτ.</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d εβδομ.</item>
+        <item quantity="other">%d εβδομ.</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d χρόνο</item>
+        <item quantity="other">%d χρόνια</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="about">Σχετικά</string>
+    <string name="add_favorites">Προσθήκη αγαπημένων</string>
+    <string name="add_fingerprint">Προσθήκη δακτυλικού αποτυπώματος</string>
+    <string name="add_folder">Προσθήκη φακέλου</string>
+    <string name="add_new_sound">Προσθέστε νέο ήχο</string>
+    <string name="add_to_favorites">Προσθήκη στα αγαπημένα</string>
+    <string name="additional_info">Πρόσθετες πληροφορίες</string>
+    <string name="alarm">Ειδοποιήσεις</string>
+    <string name="alarm_goes_off_in">Χρόνος που απομένει μέχρι να κλείσει η ειδοποίηση:\n%s</string>
+    <string name="alarm_warning">Βεβαιωθείτε ότι η ειδοποίηση λειτουργεί σωστά πριν βασιστείτε σε αυτήν. Θα μπορούσε να αποτύχει λόγω των περιορισμών του συστήματος που σχετίζονται με την εξοικονόμηση μπαταρίας.</string>
+    <string name="album">Αλμπουμ</string>
+    <string name="all_folders">Όλοι οι φάκελοι</string>
+    <string name="allow_deep_zooming_images">Επιτρέπει βαθύ ζουμ στις εικόνες</string>
+    <string name="allow_instant_change">Να επιτρέπεται η άμεση αλλαγή των μέσων με το άγγιγμα στις άκρες της οθόνης</string>
+    <string name="allow_photo_gestures">Να επιτρέπεται ο έλεγχος φωτεινότητας με κατακόρυφες κινήσεις</string>
+    <string name="allow_video_gestures">Να επιτρέπεται ο έλεγχος έντασης του βίντεο και φωτεινότητας με κατακόρυφες
+        κινήσεις (gestures)</string>
+    <string name="always">Πάντα</string>
+    <string name="an_error_occurred">Παρουσιάστηκε σφάλμα: %s</string>
+    <string name="animate_gifs">Εμφάνιση κινούμενων GIFs στα εικονίδια</string>
+    <string name="app_icon_color">Χρώμα εικονιδίου εφαρμογής</string>
+    <string name="app_launcher_name">Gallery</string>
+    <string name="app_long_description">
+        Μία απλή εφαρμογή για την προβολή φωτογραφιών και βίντεο. Τα αντικείμενα μπορούνα να ταξινομηθούν με βάση την ημερ/νία, το μέγεθος και το όνομα με αύξουσα ή φθήνουσα σειρά, οι φωτογραφίες μπορούν να μεγεθυνθούν. Τα αρχεία πολυμέσων εμφανίζονται σε πολλαπλές στήλες ανάλογα με τον μέγεθος της οθόνης και μπορείτε να αλλάξετε τον αριθμό των στηλών με τα 2 δάχτυλα (pintch). Μπορούν να μετονομαστούν, να μοιραστούν, να διαγραφούν, να αντιγραφούν και να μετακινηθούν. Οι εικόνες επίσης μπορούν να κοπούν, να περιστραφούν, να αντιστραφούν ή να οριστούν ως ταπετσαρίες κατευθείαν από την εφαρμογή.
+
+        Η Gallery επίσης μπορεί να χρησιμοποιηθεί από άλλες εφαρμογές για προεμφάνιση φωτογραφιών / βίντεο, να μπουν ως επισυνάψεις σε εφαρμογές email κλπ. Είναι τέλεια για καθημερινή χρήση.
+
+        Η εξουσιοδότηση δαχτυλικού αποτυπώματος χρειάζεται για το κλείδωμα των κρυφών αντικειμένων ή ολόκληρης της εφαρμογής.
+
+        Δεν περιέχει διαφημίσεις ή περιττά δικαιώματα. Έιναι όλη ανοιχτού κώδικα και παρέχει προσαρμόσιμα χρώματα για την εφαρμογή.
+
+        Αυτή η εφαρμογή είναι μέρος μιας σειράς εφαρμογών. Μπορείτε να βρείτε τις υπόλοιπες στο https://www.simplemobiletools.com
+    </string>
+    <string name="app_name">Simple Gallery</string>
+    <string name="app_on_sd_card">Φαίνεται ότι έχετε εγκαταστήσει την εφαρμογή σε μια κάρτα SD, πράγμα που καθιστά τα γραφικά στοιχεία εφαρμογών μη διαθέσιμα. Δεν θα τα δείτε ακόμη και στη λίστα των διαθέσιμων γραφικών στοιχείων.
+        Είναι ένας περιορισμός του συστήματος, οπότε αν θέλετε να χρησιμοποιήσετε τα γραφικά στοιχεία, θα πρέπει να μετακινήσετε την εφαρμογή πίσω στον εσωτερικό αποθηκευτικό χώρο.</string>
+    <string name="app_short_description">Μία Gallery για την προβολή φωτογραφιών και βίντεο χωρίς διαφημίσεις.</string>
+    <string name="app_version">Έκδοση εφαρμογής: %s</string>
+    <string name="append">Προσάρτηση με \'_1\'</string>
+    <string name="apply_to_all">Εφαρμογή σε όλα</string>
+    <string name="apply_to_all_apps">Εφαρμογή χρωμάτων σε όλες τις Simple Apps</string>
+    <string name="april">Απρίλιος</string>
+    <string name="are_you_sure_delete">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το στοιχείο?</string>
+    <string name="are_you_sure_recycle_bin">Είστε βέβαιοι ότι θέλετε να μετακινήσετε αυτό το στοιχείο στον κάδο ανακύκλωσης?</string>
+    <string name="artist">Καλλιτέχνης</string>
+    <string name="ascending">Αύξουσα</string>
+    <string name="at_start">Κατά την έναρξη</string>
+    <string name="august">Αύγουστος</string>
+    <string name="authentication_blocked">Αποκλεισμός ελέγχου ταυτότητας, προσπαθήστε ξανά σε λίγο</string>
+    <string name="authentication_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
+    <string name="autofittextview_title">AutoFitTextView (resizing text)</string>
+    <string name="autoplay_videos">Αυτόματη αναπαραγωγή βίντεο</string>
+    <string name="avoid_whats_new">Αποφύγετε την εμφάνιση, Τι νέο υπάρχει κατά την εκκίνηση</string>
+    <string msgid="233061162317617848" name="back_button_content_description">"πίσω"</string>
+    <string name="background_color">Χρώμα φόντου</string>
+    <string name="before_asking_question">Πριν κάνετε μια ερώτηση, διαβάστε πρώτα το</string>
+    <string name="before_asking_question_read_faq">Πρίν κάνετε μια ερώτηση, παρακαλώ διαβάστε τις Συχνά Ερωτήσεις πρώτα, ίσως η λύση είναι εκεί.</string>
+    <string name="black_background_at_fullscreen">Μαύρο φόντο και μπάρα κατάστασης σε πλήρη οθόνη</string>
+    <string name="black_white">Μαύρο &amp; Άσπρο</string>
+    <string name="bottom_actions">Λειτουργίες στο κάτω μέρος</string>
+    <string name="brightness">Φωτεινότητα</string>
+    <string name="by_date_taken">Ημερομηνία λήψης</string>
+    <string name="by_extension">Επέκταση</string>
+    <string name="by_file_type">Τύπο αρχείου</string>
+    <string name="by_folder">Φάκελο</string>
+    <string name="by_last_modified">Τελευταία τροποποίηση</string>
+    <string name="camera">Κάμερα</string>
+    <string name="cancel">Ακύρωση</string>
+    <string msgid="2401572676578172896" name="cancel_button">"Ακύρωση"</string>
+    <string name="change_color">Αλλαγή χρώματος</string>
+    <string name="change_cover_image">Αλλαγή εξώφυλλου φακέλου</string>
+    <string name="change_filter">Αλλαγή φίλτρου</string>
+    <string name="change_filters_underlined"><u>Αλλαγή φίλτρων</u></string>
+    <string name="change_orientation">Αλλαγή προσανατολισμού</string>
+    <string name="change_view_type">Αλλαγή τύπου εμφάνισης</string>
+    <string name="changing_color_description">Η αλλαγή ενός χρώματος θα λλάξει το Προσαρμοσμένο θέμα</string>
+    <string name="click_select_destination">Κάντε κλικ εδώ για να επιλέξετε προορισμό</string>
+    <string name="confirm_otg_storage_access_text">Παρακαλώ επιλέξτε τον ριζικό φάκελο της συσκευής OTG στην επόμενη οθόνη, για να παραχωρήσετε πρόσβαση</string>
+    <string name="confirm_selection">Επιβεβαιώστε την επιλογή</string>
+    <string name="confirm_storage_access_text">Επιλέξτε τον ριζικό φάκελο της κάρτας SD στην επόμενη οθόνη, για να επιτρέψετε πρόσβαση εγγραφής</string>
+    <string name="confirm_storage_access_text_sd">Εάν δεν βλέπετε την κάρτα SD, δοκιμάστε αυτό</string>
+    <string name="confirm_storage_access_title">Επιβεβαιώστε την πρόσβαση στην εξωτερική αποθήκευση</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="copy_failed">Αδύνατη η αντιγραφή των αρχείων</string>
+    <string name="copy_move">Αντιγραφή / Μετακίνηση</string>
+    <string name="copy_move_failed">Ένα σφάλμα παρουσιάστηκε</string>
+    <string name="copy_to">Αντιγραφή σε</string>
+    <string name="copying">Αντιγράφονται…</string>
+    <string name="copying_success">Τα αρχεία αντιγράφηκαν με επιτυχία</string>
+    <string name="copying_success_partial">Αδύνατη η αντιγραφή ορισμένων αρχείων</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">Αδύνατη η δημιουργία του αρχείου %s</string>
+    <string name="could_not_create_folder">Αδύνατη η δημιουργία του φακέλου %s</string>
+    <string name="create_new">Δημιουργία νέου</string>
+    <string name="create_new_folder">Δημιουργία νέου φακέλου</string>
+    <string name="crop_thumbnails">Κόψιμο εικονιδίων σε τετράγωνα</string>
+    <string name="cropper_title">Android Image Cropper (image crop and rotate)</string>
+    <string name="custom">Προσαρμογή</string>
+    <string name="customize_colors">Προσαρμογή χρωμάτων</string>
+    <string name="customize_widget_colors">Προσαρμογή χρωμάτων widget</string>
+    <string name="dark_red">Σκούρο κόκκινο</string>
+    <string name="dark_theme">Σκούρο</string>
+    <string name="date_taken">Ημερ. λήψης</string>
+    <string name="dates_fixed_successfully">Ημερ. διορθώθηκε με επιτυχία</string>
+    <string name="days_raw">ημερ.</string>
+    <string name="december">Δεκέμβριος</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="delete_empty_folders">Διαγραφή άδειων φακέλων, όταν διαγραφεί το περιεχόμενό τους</string>
+    <string name="deleting_folder">Διαγραφή φακέλου \'%s\'</string>
+    <string name="deletion_confirmation">Είστε βέβαιοι ότι θέλετε να διαγράψετε %s?</string>
+    <string name="descending">Φθίνουσα</string>
+    <string name="destination">Προορισμός</string>
+    <string name="details">Λεπτομέρειες</string>
+    <string name="device_os">OS Συσκευής: %s</string>
+    <string msgid="2482357845034618478" name="dialog_button_got_it">"ΤΟ ΚΑΤΑΛΑΒΑ"</string>
+    <string msgid="4505853433204459373" name="dialog_button_open_help_center">"ΑΝΟΙΓΜΑ ΚΕΝΤΡΟΥ ΒΟΗΘΕΙΑΣ"</string>
+    <string msgid="4028688231551615655" name="dialog_message_incompatible_phone">"Απαιτείται ένα τηλέφωνο Daydream-ready. Για περισσότερες πληροφορίες, επισκεφτείτε το Κέντρο βοήθειας."</string>
+    <string msgid="3560856374975640601" name="dialog_message_no_cardboard">"Αποκτήστε την εφαρμογή Cardboard για να διαμορφώσετε το σύστημα προβολής σας."</string>
+    <string msgid="7887077605817014784" name="dialog_title">"Διαμόρφωση"</string>
+    <string msgid="4515090705573059650" name="dialog_title_incompatible_phone">"Το τηλέφωνο δεν είναι συμβατό"</string>
+    <string msgid="2594928940370730859" name="dialog_title_vr_core_not_enabled">"Απαιτείται ρύθμιση"</string>
+    <string msgid="6322165810291059770" name="dialog_title_vr_core_not_installed">"Απαιτείται εγκατάσταση"</string>
+    <string msgid="455961049302726493" name="dialog_title_warning">"Προειδοποίηση"</string>
+    <string msgid="1966424794507569244" name="dialog_vr_core_not_enabled">"Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς την ενεργοποίηση των Υπηρεσιών Google VR. Προτού συνεχίσετε, ενεργοποιήστε τες στις Ρυθμίσεις του τηλεφώνου."</string>
+    <string msgid="7122144659930752678" name="dialog_vr_core_not_installed">"Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τις Υπηρεσίες Google VR. Προτού συνεχίσετε, εγκαταστήστε τις Υπηρεσίες Google VR από το Play Store."</string>
+    <string name="direct_children_count">Απευθείας καταμέτρηση παιδιών</string>
+    <string name="discard">Απόρριψη</string>
+    <string name="dismiss">Απόρριψη</string>
+    <string name="do_extra_check">Επιπλέον έλεγχος για την αποφυγή εμφάνισης λανθασμένων αρχείων</string>
+    <string name="do_not_ask_again">Μην ξαναρωτήσετε σε αυτήν την περίοδο</string>
+    <string name="do_not_group_files">Χωρίς</string>
+    <string name="donate">Δωρεά</string>
+    <string name="donate_please">
+        <![CDATA[
+            Γειά σας,<br><br>
+            Ελπίζω να απολαμβάνετε την εφαρμογή. Δεν περιέχει διαφημίσεις, παρακαλούμε να υποστηρίξει την ανάπτυξή της με την αγορά της <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> app, it will also prevent this dialog from showing up again.<br><br>
+            Ευχαριστώ!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Δωρεά</u></string>
+    <string name="duration">Διάρκεια</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="edit_image_with">Επεξεργασία εικόνας με:</string>
+    <string name="edit_with">Επεξεργασία με</string>
+    <string name="editor">Επεξεργαστής</string>
+    <string name="email_label">Στείλτε τα σχόλιά σας ή τις προτάσεις σας</string>
+    <string name="empty_and_disable_recycle_bin">Άδειασμα και απενεργοποίηση του Κάδου Ανακύκλωσης</string>
+    <string name="empty_name">Παρακαλώ εισάγετε ένα όνομα</string>
+    <string name="empty_recycle_bin">Άδειασμα του Κάδου Ανακύκλωσης</string>
+    <string name="empty_recycle_bin_confirmation">Είστε βέβαιοι ότι θέλετε να αδειάσετε τον Κάδο Ανακύκλωσης; Τα αρχεία θα χαθούν οριστικά.</string>
+    <string name="enable_pull_to_refresh">Ενεργοποίηση ανανέωσης με Σύρετε απο πάνω-κάτω</string>
+    <string name="enter_pin">Εισαγωγή PIN</string>
+    <string name="error_saving_file">Δεν ήταν δυνατή η αντικατάσταση του αρχείου πηγής</string>
+    <string name="espresso_title">Espresso (testing helper)</string>
+    <string name="exclude">Εξαίρεση</string>
+    <string name="exclude_folder_description">Αυτό θα εξαιρέσει το επιλεγμένο μαζί με τους υποφακέλους από το Simple Gallery μόνο. Μπορείτε να διαχειριστείτε τους φακέλους που εξαιρέθηκαν στις Ρυθμίσεις.</string>
+    <string name="exclude_folder_parent">Να εξαιρεθεί μήπως ο γονικός φάκελος;</string>
+    <string name="excluded">(εξαιρούνται)</string>
+    <string name="excluded_activity_placeholder">Εξαιρώντας τους φακέλους, θα τους αποκρύψει μαζί με τους υποφακέλους τους μόνο στο Simple Gallery, θα είναι ορατοί στις υπόλοιπες εφαρμογές.\n\nΑν θέλετε να τους αποκρύψετε και στις υπόλοιπες εφαρμογές, χρησιμοποιήστε την λειτουργία Απόκρυψη.</string>
+    <string name="excluded_folders">Εξαίρεση φακέλων</string>
+    <string name="exif">EXIF</string>
+    <string name="exoplayer_title">ExoPlayer (video player)</string>
+    <string name="exporting">Εξαγωγή…</string>
+    <string name="exporting_failed">Η Εξαγωγή απέτυχε</string>
+    <string name="exporting_some_entries_failed">Η Εξαγωγή μερικών καταχωρήσεων απέτυχε</string>
+    <string name="exporting_successful">Επιτυχής Εξαγωγή</string>
+    <string name="exposure_time">Χρόνος έκθεσης</string>
+    <string name="extended_details">Περισσότερες λεπτομέρειες</string>
+    <string name="extension">Επέκταση</string>
+    <string name="extension_cannot_be_empty">Η επέκταση δεν μπορεί να είναι κενή</string>
+    <string name="extra_large">Πολύ Μεγάλο</string>
+    <string name="f_number">F-αριθμός</string>
+    <string name="faq_10_text">Ναι, μπορείτε να περικόψετε εικόνες στον επεξεργαστή, σύροντας τις γωνίες εικόνας. Μπορείτε να μεταβείτε στον επεξεργαστή είτε πατώντας παρατεταμένα μια μικρογραφία εικόνας και επιλέγοντας Επεξεργασία, είτε επιλέγοντας Επεξεργασία από την προβολή πλήρους οθόνης.</string>
+    <string name="faq_10_title">Μπορώ να περικόψω εικόνες με την εφαρμογή;</string>
+    <string name="faq_11_text">Σίγουρα, απλά με την χρήση \"Ομαδοποίηση κατά\" Επέκταση ή Τύπο αρχείου. Μπορείτε την ομαδοποίηση με πολλά κριτήρια,  συμπεριλαμβανομένης της ημερομηνίας λήψης. Εάν χρησιμοποιείτε τη λειτουργία  \"Εμφάνιση όλων των περιεχομένων στο φάκελο\" μπορείτε να ομαδοποιήσετε και τους φακέλους επίσης.</string>
+    <string name="faq_11_title">Μπορώ να ομαδοποιήσω κάπως τις μικρογραφίες των αρχείων πολυμέσων?</string>
+    <string name="faq_12_text">Αυτό πιθανότατα προκαλείται από την αντιγραφή των αρχείων από κάπου. Μπορείτε να το διορθώσετε επιλέγοντας τις μικρογραφίες αρχείων και επιλέγοντας \"Επιδιόρθωση ημερ. λήψης\".</string>
+    <string name="faq_12_title">Η ταξινόμηση κατά ημερομηνία δεν φαίνεται να λειτουργεί σωστά, πώς μπορώ να τη διορθώσω?</string>
+    <string name="faq_1_text">Αρχικά πρέπει να βρείτε την τρέχουσα προεπιλεγμένη εφαρμογή γκάλερι στις Ρυθμίσεις (τμήμα Εφαρμογών) της συσκευής. Αναζητήστε για ένα κουμπί που αναφέρει κάτι σαν \"Άνοιγμα με προεπιλογή\", πατήστε το, μετά επιλέξτε \"Καθαρισμός προεπιλεγμένων\".
+        Την επόμενη φορά που θα προσπαθήσετε να ανοίξετε μία εικόνα ή ένα βίντεο θα πρέπει να δείτε έναν διάλογο επιλογής εφαρμογών, όπου μπορείτε να επιλέξετε Simple Gallery να το κάνετε προεπιλεγμένη εφαρμογή.</string>
+    <string name="faq_1_text_commons">Είναι πολύ πιθανό επειδή μετακινήσατε την εφαρμογή σε μια κάρτα SD. Υπάρχει ένας περιορισμός του συστήματος Android που αποκρύπτει τα συγκεκριμένα widget εφαρμογών
+       σε αυτή την περίπτωση. Η μόνη λύση είναι να μετακινήσετε την εφαρμογή πίσω στην εσωτερική αποθήκευση μέσω των ρυθμίσεων της συσκευής σας.</string>
+    <string name="faq_1_title">Πώς μπορώ να κάνω το Simple Gallery προκαθορισμένη εφαρμογή συλλογής πολυμέσων;</string>
+    <string name="faq_1_title_commons">Γιατί δεν βλέπω αυτό τα widget εφαρμογών στη λίστα widgets;</string>
+    <string name="faq_2_text">Υπάρχουν 2 λύσεις. Είτε επανεγκατάσταση της εφαρμογής, ή να εντοπίσετε την εφαρμογή στις ρυθμίσεις της συσκευής και να επιλέξετε \"Καθαρισμό δεδομένων\". Θα επαναφέρει όλες τις ρυθμίσεις και δεν θα σβήσει κάποιο αρχείο πολυμέσου.</string>
+    <string name="faq_2_text_commons">Ναι φυσικά. Μπορείτε να διαδώσετε τη λέξη σχετικά με τις εφαρμογές ή να δώσετε καλή ανατροφοδότηση και αξιολογήσεις. Μπορείτε επίσης να βοηθήσετε με τη μετάφραση των εφαρμογών σε μια νέα γλώσσα ή απλά να ενημερώσετε μερικές υπάρχουσες μεταφράσεις.
+        Μπορείτε να βρείτε τον οδηγό στο https://github.com/SimpleMobileTools/General-Discussion , ή απλά ένα μήνυμα στο hello@simplemobiletools.comαν χρειάζεσαι βοήθεια.</string>
+    <string name="faq_2_title">Κλείδωσα την εφαρμογή με κωδικό, αλλά τον ξέχασα. Τι μπορώ να κάνω;</string>
+    <string name="faq_2_title_commons">Θέλω να σας υποστηρίξω, αλλά δεν μπορώ να δωρίσω χρήματα. Υπάρχει κάτι άλλο που μπορώ να κάνω;</string>
+    <string name="faq_3_text">Μπορείτε να πατήσετε παρατεταμένα στο άλμπουμ και να επιλέξετε το εικονίδιο καρφιτσώματος στο μενού, αυτό θα το καρφιτσώσει στην κορυφή. Επίσης μπορείτε να καρφιτσώσετε πολλαπλούς φακέλους, τα καρφιτσωμένα αντικείμενα θα είναι ταξινομημένα με την προεπιλεγμένη μέθοδο.</string>
+    <string name="faq_3_text_commons">Δυστυχώς, δεν μπορείτε. Τα αρχεία διαγράφονται αμέσως μετά το παράθυρο διαλόγου επιβεβαίωσης, δεν υπάρχει διαθέσιμος Κάδος απορριμμάτων.</string>
+    <string name="faq_3_title">Πώς μπορώ να κάνω ένα άλμπουμ να φαίνεται στην κορυφή;</string>
+    <string name="faq_3_title_commons">Διαγραφή κάποιων αρχείων κατά λάθος, πώς μπορώ να τα ανακτήσω;</string>
+    <string name="faq_4_text">Μπορείτε να αγγίξετε στο τρέχον ή στο κείμενο μέγιστης διάρκειας κοντά στην μπάρα αναζήτησης. Αυτό θα μετακινήσει το βίντεο μπροστά ή πίσω.</string>
+    <string name="faq_4_text_commons">Ναι, καθώς σύρετε ένα γραφικό στοιχείο στην αρχική οθόνη σας, εμφανίζεται μια οθόνη διαμόρφωσης widget. Θα δείτε έγχρωμα τετράγωνα στην κάτω αριστερή γωνία, απλά πατήστε τα για να επιλέξετε ένα νέο χρώμα. Μπορείτε να χρησιμοποιήσετε το ρυθμιστικό για να ρυθμίσετε το alpha επίσης.</string>
+    <string name="faq_4_title">Πώς μπορώ να τρέξω μπροστά (fast-forward) τα βίντεο;</string>
+    <string name="faq_4_title_commons">Δεν μου αρέσουν τα χρώματα widget, μπορώ να τα αλλάξω;</string>
+    <string name="faq_5_text">Η εξαίρεση δεν επιτρέπει την εμφάνιση του φακέλου μόνο στο Simple Gallery, ενώ η απόκρυψη λειτουργεί σε επίπεδο συστήματος και θα αποκρύψει τον φάκελο και από άλλες εφαρμογές γκάλερι. Λειτουργεί δημιουργώντας ένα άδειο \".nomedia\" αρχείο στον επιλεγμένο φάκελο, το οποίο μπορείτε να το διαγράψετε και με οποιονδήποτε διαχειριστή αρχείων.</string>
+    <string name="faq_5_text_commons">Εάν έχουν πραγματικά διαγραφεί, δεν μπορείτε. Ωστόσο, μπορείτε να ενεργοποιήσετε τη χρήση του Κάδου Ανακύκλωσης αντί της διαγραφής στις ρυθμίσεις της εφαρμογής. Αυτό θα μετακινήσει απλώς τα αρχεία σε αυτόν αντί να τα διαγράψει.</string>
+    <string name="faq_5_title">Ποια είναι διαφορά μεταξύ απόκρυψης και εξαίρεσης ενός φακέλου;</string>
+    <string name="faq_5_title_commons">Μπορώ να επαναφέρω με κάποιο τρόπο τα διαγραμμένα αρχεία;</string>
+    <string name="faq_6_text">Είναι πιθανόν να δείτε κάποια περίεργα άλμπουμ να εμφανίζονται. Μπορείτε να τα εξαιρέσετε εύκολα με παρατεταμένο άγγιγμα και επιλογή του Εξαίρεση. Στον επόμενο διάλογο μπορείτε να επιλέξετε επάνω φάκελο. Είναι πιθανό να μην επιτρέψει την εμφάνιση και άλλων σχετικών άλμπουμ.</string>
+    <string name="faq_6_title">Γιατί εμφανίζονται φάκελοι με εξώφυλλο μουσικής ή αυτόκολλητα;</string>
+    <string name="faq_7_text">Υπάρχουν διάφοροι λόγοι, αλλά είναι εύκολη η λύση. Επιλέξτε Ρυθμίσεις -> Διαχείριση Συμπεριβαλομένων Φακέλων, επιλέξτε Προσθήκη και πλοηγηθείτε στον ζητούμενο φάκελο.</string>
+    <string name="faq_7_title">Ένας φάκελος με εικόνες δεν εμφανίζεται. Τι μπορώ να κάνω;</string>
+    <string name="faq_8_text">Η προσθήκη ενός φακέλου στους Συμπεριλαμβανόμενους Φακέλους δεν εξαιρεί αυτόματα τίποτα. Μπορείτε να πάτε στις Ρυμίσεις-> Διαχείριση Εξαιρεμένων Φακέλων, εξαιρέστε τον ριζικό φάκελο \"/\", έπειτα προσθέστε τους φακέλους στο Ρυθμίσεις -> Διαχείριση Συμπεριλαμβανομένων Φακέλων.
+        Αυτό θα κάνει ορατούς μόνο τους επιλεγμένους φακέλους, καθώς η εξαίρεση και η συμπερίληψη λειτουργούν αναδρομικά και αν ενας φάκελος ανήκει και στα δύο, θα εμφανιστεί.</string>
+    <string name="faq_8_title">Πώς μπορώ να επιλέξω μόνο κάποιους φακέλους να εμφανίζονται;</string>
+    <string name="faq_9_text">Ναι. Υπάρχει ένας διακόπτης στις Ρυθμίσεις με το κείμενο \"Αντικατάσταση των φωτογραφιών που απαιτούν ζούμ με άλλες καλύτερης ποιότητας\". Μπορείτε να χρησιμοποιήσετε αυτό. Θα βελτιώσει την ποιότητα των φωτογραφιών, αλλά θα θολώσουν στο μεγάλο ζουμ.</string>
+    <string name="faq_9_title">Οι εικόνες πλήρους οθόνης έχουν κάποια περίεργα σημάδια. Μπορώ κάπως να βελτιώσω την ποιότητα;</string>
+    <string name="favorites">Αγαπημένα</string>
+    <string name="february">Φεβρουάριος</string>
+    <string name="file">Αρχείο</string>
+    <string name="file_already_exists">Το αρχείο \"%s\" υπάρχει ήδη</string>
+    <string name="file_already_exists_overwrite">Το αρχείο \"%s\" υπάρχει ήδη. Αντικατάσταση?</string>
+    <string name="file_operations">Λειτουργίες αρχείων</string>
+    <string name="file_saved">Αποθηκεύθηκε επιτυχώς</string>
+    <string name="filename">Όνομα αρχείου</string>
+    <string name="filename_cannot_be_empty">Το όνομα αρχείου δεν μπορεί να είναι κενό</string>
+    <string name="filename_invalid_characters">Το όνομα περιέχει μη έγκυρους χαρακτήρες</string>
+    <string name="filename_invalid_characters_placeholder">Το όνομα \'%s\' περιέχει μη έγκυρους χαρακτήρες</string>
+    <string name="files_count">Αριθμός συνολικών αρχείων</string>
+    <string name="files_restored_successfully">Τα αρχεία έχουν επαναφερθεί με επιτυχία</string>
+    <string name="filter">Φίλτρο</string>
+    <string name="filter_media">Φιλτράρισμα πολυμέσων</string>
+    <string name="filters_title">Android Photo Filters (image filters)</string>
+    <string name="fingerprint">Δακτυλικό αποτύπωμα</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Ο αισθητήρας μοναδικού χαρακτηριστικού δεν είναι καθαρός. Καθαρίστε τον και δοκιμάστε ξανά."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Δεν ήταν δυνατή η επεξεργασία του μοναδικού χαρακτηριστικού. Δοκιμάστε ξανά."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Εντοπίστηκε μερικό μοναδικό χαρακτηριστικό. Δοκιμάστε ξανά."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Πολύ γρήγορη κίνηση δαχτύλου. Δοκιμάστε ξανά."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Πολύ αργή κίνηση δαχτύλου. Δοκιμάστε ξανά."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Η λειτουργία μοναδικού χαρακτηριστικού ακυρώθηκε."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Ο εξοπλισμός μοναδικού χαρακτηριστικού δεν είναι διαθέσιμος."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Πάρα πολλές προσπάθειες. Δοκιμάστε ξανά αργότερα."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Δεν είναι δυνατή η αποθήκευση μοναδικού χαρακτηριστικού. Καταργήστε το υπάρχον μοναδικό χαρακτηριστικό."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Λήξη χρονικού ορίου μοναδικού χαρακτηριστικού. Δοκιμάστε ξανά."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Δοκιμάστε ξανά."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Δεν αναγνωρίστηκε"</string>
+    <string name="fingerprint_setup_successfully">Η ρύθμιση προστασίας ολοκληρώθηκε με επιτυχία. Εγκαταστήστε ξανά την εφαρμογή σε περίπτωση προβλημάτων με την επαναφορά της.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Αποτυπώματα"</string>
+    <string name="fix_date_taken">Διόρθωση ημερ. λήψης</string>
+    <string name="fixing">Διορθώνεται…</string>
+    <string name="flip">Αναποδογύρισμα</string>
+    <string name="flip_horizontally">Οριζόντιο αναποδογύρισμα</string>
+    <string name="flip_vertically">Κατακόρυφο αναποδογύρισμα</string>
+    <string name="focal_length">Εστιακό μήκος</string>
+    <string name="folder">Φάκελος</string>
+    <string name="folder_already_exists">Ο φάκελος \"%s\" υπάρχει ήδη</string>
+    <string name="folder_view">Αλλαγή σε προβολή φακέλων</string>
+    <string name="follow_us">Ακολουθήστε μας</string>
+    <string name="font_size">Μέγεθος κειμένου</string>
+    <string name="force_landscape">Εξαναγκασμός σε τοπίο</string>
+    <string name="force_portrait">Εξαναγκασμός σε πορτρέτο</string>
+    <string name="force_portrait_mode">Εξαναγκασμός σε Πορτρέτο</string>
+    <string name="foreground_color">Χρώμα προσκηνίου</string>
+    <string name="free_aspect_ratio">Ελεύθερο</string>
+    <string name="frequently_asked_questions">Συχνές ερωτήσεις</string>
+    <string name="friday">Παρασκευή</string>
+    <string name="friday_letter">Π</string>
+    <string name="friday_short">Παρ</string>
+    <string name="fullscreen_media">Πολυμέσα πλήρους οθόνης</string>
+    <string name="gif_drawable_title">Gif Drawable (loading GIFs)</string>
+    <string name="gifs">GIFs</string>
+    <string name="glide_title">Glide (image loading and caching)</string>
+    <string msgid="6145412853379876634" name="go_to_playstore_button">"Μετάβαση στο Play Store"</string>
+    <string name="go_to_settings">Μετάβαση στις Ρυθμίσεις</string>
+    <string msgid="6878752668266068283" name="go_to_vr_listeners_settings_button">"Μετάβαση στις Ρυθμίσεις"</string>
+    <string name="grid">Πλέγμα</string>
+    <string name="group_by">Ομαδοποίηση κατά</string>
+    <string name="group_direct_subfolders">Ομαδοποίηση υποφακέλων</string>
+    <string name="gson_title">Gson (JSON parser)</string>
+    <string name="height">Ύψος</string>
+    <string name="hidden">(κρυφά)</string>
+    <string name="hidden_folders">Κρυφοί φάκελοι</string>
+    <string name="hidden_folders_placeholder">Φαίνεται πως δεν υπάρχουν κρυφοί φάκελοι με \".nomedia\" αρχείο.</string>
+    <string name="hide">Απόκρυψη</string>
+    <string name="hide_extended_details">Απόκρυψη λεπτομερειών όταν η μπάρα κατάστασης είναι κρυμμένη</string>
+    <string name="hide_folder">Απόκρυψη φακέλου</string>
+    <string name="hide_folder_description">Αυτή η λειτουργία κρύβει τον φάκελο προσθέτοντας ένα \".nomedia\" αρχείο μέσα του, θα κρύψει και όλους τους υποφακέλους επίσης. Μπορείτε να τους δείτε με την επιλογή του \'Εμφάνιση κρυφών δεδομένων\' στις Ρυθμίσεις. Συνέχεια?</string>
+    <string name="hide_system_ui_at_fullscreen">Αυτόματη απόκρυψη στοιχείων συστήματος σε πλήρη οθόνη</string>
+    <string name="home_and_lock_screen">Αρχική οθόνη και κλειδώματος</string>
+    <string name="home_screen">Αρχική οθόνη</string>
+    <string name="hours_raw">ώρ.</string>
+    <string name="image_editing_failed">Η επεξεργασία εικόνας απέτυχε</string>
+    <string name="images">Εικόνες</string>
+    <string name="importing">Εισαγωγή…</string>
+    <string name="importing_failed">Η Εισαγωγή απέτυχε</string>
+    <string name="importing_some_entries_failed">Η Εισαγωγή μερικών καταχωρήσεων απέτυχε</string>
+    <string name="importing_successful">Επιτυχής Εισαγωγή</string>
+    <string name="in_april">τον Απρίλιο</string>
+    <string name="in_august">τον Αύγουστο</string>
+    <string name="in_december">τον Δεκέμβριο</string>
+    <string name="in_february">τον Φεβρουάριο</string>
+    <string name="in_january">τον Ιανουάριο</string>
+    <string name="in_july">τον Ιούλιο</string>
+    <string name="in_june">τον Ιούνιο</string>
+    <string name="in_march">τον Μάρτιο</string>
+    <string name="in_may">τον Μάιο</string>
+    <string name="in_november">τον Νοέμβριο</string>
+    <string name="in_october">τον Οκτώβριο</string>
+    <string name="in_september">τον Σεπτέμβριο</string>
+    <string name="include_folders">Φάκελοι που συμπεριλαμβάνονται</string>
+    <string name="include_gifs">Συμπερίληψη GIFs</string>
+    <string name="include_photos">Συμπερίληψη φωτογραφιών</string>
+    <string name="include_videos">Συμπερίληψη βίντεο</string>
+    <string name="included_activity_placeholder">Αν υπάρχουν κάποιοι φάκελοι που περιέχουν πολυμέσα, αλλά δεν αναγνωρίζονται από την εφαρμογή,  μπορείτε να τους προσθέσετε χειροκίνητα εδώ.\n\nΗ προσθήκη στοιχείων εδώ, δεν θα εξαιρέσει κάποιον άλλο φάκελο.</string>
+    <string name="increase_column_count">Αύξηση αριθμού στηλών</string>
+    <string name="insert_pattern">Εισαγωγή μοτίβου</string>
+    <string name="internal">Εσωτερική</string>
+    <string name="interval">Χρόνος επανάληψης (δευτ.) :</string>
+    <string name="invalid_destination">Αδύνατη η εγγραφή στον επιλεγμένο προορισμό</string>
+    <string name="invalid_file_format">Μη έγκυρη μορφή αρχείου</string>
+    <string name="invalid_image_path">Μη έγκυρη διαδρομή εικόνας</string>
+    <string name="invalid_name">Το όνομα περιέχει μη αποδεκτούς χαρακτήρες</string>
+    <string name="invalid_values">Παρακαλώ εισάγετε σωστή ανάλυση</string>
+    <string name="invite_friends_underlined"><u>Προσκαλέσετε φίλους</u></string>
+    <string name="invite_via">Πρόσκληση μέσω</string>
+    <string name="iso_speed">Ταχύτητα ISO</string>
+    <string name="items_selected">Επολεγμένα στοιχεία</string>
+    <string name="january">Ιανουάριος</string>
+    <string name="joda_title">Joda-Time (Java date replacement)</string>
+    <string name="july">Ιούλιος</string>
+    <string name="june">Ιούνιος</string>
+    <string name="keep_aspect_ratio">Διατήρηση αναλογίας</string>
+    <string name="keep_last_modified">Διατηρήστε την παλιά τελευταία τροποποιημένη τιμή στην αντιγραφή/μετακίνηση/μετονομασία αρχείου</string>
+    <string name="kotlin_title">Kotlin (programming language)</string>
+    <string name="label">Label</string>
+    <string name="landscape_aspect_ratio">Αναλογία σε οριζόντια προβολή</string>
+    <string name="large">Μεγάλο</string>
+    <string name="last_modified">Τελευταία τροποποίηση</string>
+    <string name="leak_canary_title">Leak Canary (memory leak detector)</string>
+    <string name="light_theme">Φωτεινό</string>
+    <string name="list">Λίστα</string>
+    <string name="lock_orientation">Κλείδωμα προσανατολισμού</string>
+    <string name="lock_screen">Οθόνη κλειδώματος</string>
+    <string name="loop_slideshow">Επανάληψη εμφάνισης διαφανιών</string>
+    <string name="loop_videos">Επανάληψη βίντεο</string>
+    <string name="manage_bottom_actions">Διαχείρηση εμφάνισης λειτουργιών</string>
+    <string name="manage_excluded_folders">Διαχείριση εξαιρεμένων φακέλων</string>
+    <string name="manage_extended_details">Διαχείριση εκτεταμένων λεπτομερειών</string>
+    <string name="manage_hidden_folders">Διαχείριση κρυφών φακέλων</string>
+    <string name="manage_included_folders">Διαχείριση φακέλων που συμπεριλαμβάνονται</string>
+    <string name="march">Μάρτιος</string>
+    <string name="max_brightness">Μέγιστη φωτεινότητα κατά την προβολή πλήρους οθόνης</string>
+    <string name="maximum_share_reached">Δεν μπορείτε να μοιραστείτε μεγάλο περιεχόμενο ταυτόχρονα</string>
+    <string name="may">Μάιος</string>
+    <string name="medium">Μεσαίο</string>
+    <string name="merge">Συγχώνευση</string>
+    <string name="minutes_raw">λεπτ.</string>
+    <string name="monday">Δευτέρα</string>
+    <string name="monday_letter">Δ</string>
+    <string name="monday_short">Δευ</string>
+    <string name="more_apps_underlined"><u>Περισσότερες εφαρμογές</u></string>
+    <string name="move">Μετακίνηση</string>
+    <string name="move_backwards">Κίνηση προς τα πίσω</string>
+    <string name="move_items_into_recycle_bin">Μετακινήστε τα αντικείμενα στον Κάδο Ανακύκλωσης αντί για διαγραφή</string>
+    <string name="move_to">Μετακίνηση σε</string>
+    <string name="move_to_recycle_bin_confirmation">Είστε βέβαιοι ότι θέλετε να μετακινήσετε %s στον κάδο ανακύκλωσης?</string>
+    <string name="moving">Μετακινούνται…</string>
+    <string name="moving_success">Τα αρχεία μετακινήθηκαν με επιτυχία</string>
+    <string name="moving_success_partial">Αδύνατη η μετακίνηση ορισμένων αρχείων</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
+    <string name="name">Όνομα</string>
+    <string name="name_taken">Ένα αρχείο ή φάκελος με αυτό το όνομα υπάρχει ήδη</string>
+    <string name="never">Ποτέ</string>
+    <string name="new_app">
+        <![CDATA[
+            Γειά σας,<br><br>
+           απλά σας ενημερώνω ότι πρόσφατα κυκλοφόρησε μια νέα εφαρμογή:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            Μπορείτε να την κατεβάσετε πατώντας τον τίτλο.<br><br>
+            Ευχαριστώ
+        ]]>
+    </string>
+    <string name="no">Όχι</string>
+    <string name="no_app_found">Δεν βρέθηκε έγκυρη εφαρμογή</string>
+    <string name="no_audio_permissions">Απαιτείται άδεια Ήχου</string>
+    <string msgid="5324772199357788720" name="no_browser_text">"Δεν βρέθηκε πρ. περιήγ. για άνοιγμα του ιστοτόπου"</string>
+    <string name="no_camera_permissions">Απαιτείται άδεια Κάμερας</string>
+    <string name="no_contacts_permission">Απαιτείται άδεια Επαφών</string>
+    <string name="no_editor_found">Δεν βρέθηκε επεργαστής εικόνων</string>
+    <string name="no_entries_for_exporting">Δεν βρέθηκαν καταχωρήσεις για Εξαγωγή</string>
+    <string name="no_files_selected">Δεν έχουν επιλεγεί αρχεία</string>
+    <string name="no_fingerprints_registered">Δεν έχετε καταχωρήσει δακτυλικά αποτυπώματα, προσθέστε μερικά στις Ρυθμίσεις της συσκευής σας</string>
+    <string name="no_items_found">Δεν βρέθηκαν αντικείμενα.</string>
+    <string name="no_media_for_slideshow">Δεν βρέθηκαν πολυμέσα για την εμφάνιση διαφανειών</string>
+    <string name="no_media_with_filters">Δεν βρέθηκε κανένα αρχείο πολυμέσων με τα επιλεγμένα φίλτρα.</string>
+    <string name="no_reminder">Χωρίς υπενθύμιση</string>
+    <string name="no_sound">Χωρίς ήχο</string>
+    <string name="no_storage_permissions">Απαιτείται άδεια Αποθήκευσης</string>
+    <string name="none">Χωρίς</string>
+    <string name="notes">Σημειώσεις</string>
+    <string name="notice">Αυτή η εφαρμογή χρησιμοποιεί τις ακόλουθες βιβλιοθήκες τρίτων για να διευκολύνει τη ζωή μου. Ευχαριστώ.</string>
+    <string name="november">Νοέμβριος</string>
+    <string name="number_picker_title">Number Picker (customizable number picker)</string>
+    <string name="october">Οκτώβριος</string>
+    <string name="ok">OK</string>
+    <string name="one_finger_zoom">Να επιτρέπεται μεγένθυση με ένα δάχτυλο σε πλήρη οθόνη</string>
+    <string name="open_camera">Άνοιγμα κάμερας</string>
+    <string name="open_with">Άνοιγμα με</string>
+    <string name="otg">OTG</string>
+    <string name="other_folder">Άλλος φάκελος</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Σφάλμα Έλλειψη μνήμης</string>
+    <string name="overwrite">Αντικατάσταση</string>
+    <string name="panorama_view_title">VR Panorama View (displaying panoramas)</string>
+    <string name="password_protect_hidden_items">Κωδικός προστασίας προβολής κρυφών στοιχείων</string>
+    <string name="password_protect_whole_app">Κωδικός προστασίας  ολόκληρης της εφαρμογής</string>
+    <string name="path">Διαδρομή</string>
+    <string name="pattern">Μοτίβο</string>
+    <string name="pattern_title">PatternLockView (pattern protection)</string>
+    <string name="photoview_title">PhotoView (zoomable GIFs)</string>
+    <string name="picasso_title">Picasso (image loading and caching)</string>
+    <string name="pin">PIN</string>
+    <string name="pin_folder">Καρφίτσωμα φακέλου</string>
+    <string name="pin_to_the_top">Καρφίτσωμα στην κορυφή</string>
+    <string name="place_finger">Παρακαλώ τοποθετήστε το δάκτυλό σας στον αισθητήρα δακτυλικών αποτυπωμάτων</string>
+    <string msgid="2306297166333705530" name="place_your_phone_into_cardboard">"Τοποθετήστε το τηλ. στο σύστημα προβολής Cardboard"</string>
+    <string msgid="5433369525545709510" name="place_your_viewer_into_viewer_format">"Τοποθετήστε το τηλέφωνο στο σύστημα προβολής <ns1:g id="VIEWER_NAME">%s</ns1:g>"</string>
+    <string name="please_enter_pin">Παρακαλώ εισάγετε ένα PIN</string>
+    <string name="please_select_destination">Επιλέξτε έναν προορισμό</string>
+    <string name="portrait_aspect_ratio">Αναλογία σε κατακόρυφη προβολή</string>
+    <string name="prevent_phone_from_sleeping">Αποτροπή της αναστολής λειτουργίας του τηλεφώνου ενώ η εφαρμογή βρίσκεται στο προσκήνιο</string>
+    <string name="primary_color">Πρωτεύον χρώμα</string>
+    <string name="proceed_with_deletion">Είστε βέβαιοι ότι θέλετε να συνεχίσετε με τη διαγραφή?</string>
+    <string name="properties">Ιδιότητες</string>
+    <string name="protection_setup_successfully">Ο κωδικός πρόσβασης ολοκληρώθηκε με επιτυχία. Εγκαταστήστε ξανά την εφαρμογή σε περίπτωση που τον ξεχάσετε.</string>
+    <string name="purchase">Αγορά</string>
+    <string name="purchase_simple_thank_you">Αγοράστε Simple σας ευχαριστώ</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Παρακαλώ αγοράστε <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> για να ξεκλειδώσετε αυτή τη λειτουργία και να υποστηρίξει την ανάπτυξη. Ευχαριστώ!
+        ]]>
+    </string>
+    <string name="random_order">Τυχαία σειρά</string>
+    <string name="rate_us_underlined"><u>Βαθμολογήστε μας</u></string>
+    <string name="raw_images">RAW Εικόνες</string>
+    <string name="read_it">Διάβασέ το</string>
+    <string name="recycle_bin">Κάδος Ανακύκλωσης</string>
+    <string name="recycle_bin_cleaning_interval">Περίοδος καθαρισμού Κάδου ανακύκλωσης</string>
+    <string name="recycle_bin_emptied">Ο Κάδος Ανακύκλωσης έχει αδειάσει με επιτυχία</string>
+    <string name="recycle_bin_empty">Ο Κάδος Ανακύκλωσης είναι κενός</string>
+    <string name="redo">Επανάληψη</string>
+    <string name="reduce_column_count">Μείωση αριθμού στηλών</string>
+    <string name="reminder_triggers_in">Χρόνος που απομένει μέχρι να ενεργοποιηθεί η υπενθύμιση:\n%s</string>
+    <string name="reminder_warning">Βεβαιωθείτε ότι η υπενθύμιση λειτουργεί σωστά πριν βασιστείτε σε αυτήν. Θα μπορούσε να αποτύχει λόγω των περιορισμών του συστήματος που σχετίζονται με την εξοικονόμηση μπαταρίας.</string>
+    <string name="remove">Αφαίρεση</string>
+    <string name="remove_all">Διαγραφή όλων</string>
+    <string name="remove_all_description">Να αφαιρεθούν όλοι οι φάκελοι από την λίστα των εξαιρεμένων; Αυτό δεν θα διαγράψει τους φακέλους.</string>
+    <string name="remove_from_favorites">Αφαίρεση απο τα αγαπημένα</string>
+    <string name="rename">Μετονομασία</string>
+    <string name="rename_file">Μετονομασία αρχείου</string>
+    <string name="rename_file_error">Αδύνατη η μετονομασία του αρχείου</string>
+    <string name="rename_folder">Μετονομασία φακέλου</string>
+    <string name="rename_folder_empty">Το όνομα του φακέλου δεν πρέπει να είναι κενό</string>
+    <string name="rename_folder_error">Αδύνατη η μετονομασία του φακέλου</string>
+    <string name="rename_folder_exists">Ένας φάκελος με αυτό το όνομα υπάρχει ήδη</string>
+    <string name="rename_folder_ok">Ο φάκελος μετονομάστηκε με επιτυχία</string>
+    <string name="rename_folder_root">Αδύνατη η μετονομασία του ριζικού φακέλου ενός χώρου αποθήκευσης</string>
+    <string name="renaming_folder">Μετονομασία φακέλου</string>
+    <string name="repeat_pattern">Επανάληψη μοτίβου</string>
+    <string name="repeat_pin">Επανάληψη PIN</string>
+    <string name="replace_share_with_rotate">Αντικατάσταση της "Κοινής χρήσης" με "Περιστροφή" στο μενού πλήρους οθόνης</string>
+    <string name="reprint_title">Reprint (fingerprint protection)</string>
+    <string name="resize">Αλλαγή μεγέθους</string>
+    <string name="resize_and_save">Αλλαγή μεγέθους και αποθήκευση</string>
+    <string name="resolution">Ανάλυση</string>
+    <string name="restore_all_files">Επαναφορά όλων των αρχείων</string>
+    <string name="restore_defaults">Επαναφορά προεπιλογών</string>
+    <string name="restore_selected_files">Επαναφορά επιλεγμένων αρχείων</string>
+    <string name="restore_this_file">Επαναφορά αυτού του αρχείου</string>
+    <string name="robolectric_title">Robolectric (testing framework)</string>
+    <string name="root">Root</string>
+    <string name="rotate">Περιστροφή</string>
+    <string name="rotate_left">Περιστροφή αριστερά</string>
+    <string name="rotate_one_eighty">Περιστροφή κατά 180º</string>
+    <string name="rotate_right">Περιστροφή δεξιά</string>
+    <string name="rtl_viewpager_title">RtlViewPager (right to left swiping)</string>
+    <string name="sanselan_title">Apache Sanselan (reading image metadata)</string>
+    <string name="saturday">Σαββάτο</string>
+    <string name="saturday_letter">Σ</string>
+    <string name="saturday_short">Σαβ</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="save_as">Αποθήκευση ως</string>
+    <string name="save_before_closing">Έχετε αλλαγές που δεν έχουν αποθηκευτεί. Αποθήκευση πριν από την έξοδο?</string>
+    <string name="saving">Αποθηκεύεται…</string>
+    <string name="saving_label">Εξοικονόμηση</string>
+    <string name="screen_rotation_aspect_ratio">Αναλογία εικόνας</string>
+    <string name="screen_rotation_by">Περιστροφή σε πλήρη οθόνη απο</string>
+    <string name="screen_rotation_device_rotation">Περιστροφή συσκευής</string>
+    <string name="screen_rotation_system_setting">Ρυθμίσεις συστήματος</string>
+    <string name="scroll_thumbnails_horizontally">Κύλιση εικονιδίων οριζόντια</string>
+    <string name="scrolling">Κύλιση</string>
+    <string name="sd_card">SD Card</string>
+    <string name="sd_card_otg_same">SD card και OTG οι διαδρομές συσκευών δεν μπορούν να είναι οι ίδιες</string>
+    <string name="search">Αναζήτηση</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="seconds_raw">δευτ.</string>
+    <string name="security">Ασφάλεια</string>
+    <string name="select_all">Επιλογή όλων</string>
+    <string name="select_destination">Επιλογή προορισμού</string>
+    <string name="select_file">Επιλέξτε ένα αρχείο</string>
+    <string name="select_folder">Επιλέξτε ένα φάκελο</string>
+    <string name="select_photo">Επιλογή φωτογραφίας</string>
+    <string name="select_storage">Επιλέξτε αποθήκευση</string>
+    <string name="september">Σεπτέμβριος</string>
+    <string name="set_as">Ορισμός ως</string>
+    <string name="set_as_wallpaper">Εφαρμογή ως ταπετσαρία</string>
+    <string name="set_as_wallpaper_failed">Η εφαρμογή ως ταπετσαρία απέτυχε</string>
+    <string name="set_as_wallpaper_with">Εφαρμογή ως ταπετσαρία με:</string>
+    <string name="setting_wallpaper">Η ταπετσαρία εφαρμόζεται...</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string msgid="3719682527828378500" name="settings_button_content_description">"ρυθμίσεις"</string>
+    <string msgid="20964482303479393" name="setup_button">"Ρύθμιση"</string>
+    <string name="share">Κοινόχρηστο</string>
+    <string name="share_colors_success">Τα χρώματα ενημερώθηκαν με επιτυχία. Ένα νέο θέμα που ονομάζεται  \"Κοινόχρηστο\" έχει προστεθεί, παρακαλούμε να χρησιμοποιήστε το για την ενημέρωση των χρωμάτων όλων των εφαρμ. στο μέλλον.</string>
+    <string name="share_text">Έι, έλα να δεις %1$s στο %2$s</string>
+    <string name="share_via">Κοινόχρηστο μέσω</string>
+    <string name="shared">Κοινόχρηστο</string>
+    <string name="show_all">Προβολή όλων στο φάκελο</string>
+    <string name="show_at_bottom">Εμφάνιση μερικών κουμπιών λειτουργιών στο κάτω μέρος της οθόνης</string>
+    <string name="show_extended_details">Εμφάνιση λεπτομερειών στα πολυμέσα σε κατάσταση πλήρους οθόνης</string>
+    <string name="show_hidden_items">Εμφάνιση κρυφών στοιχείων</string>
+    <string name="show_info_bubble">Εμφάνιση φυσαλίδας πληροφοριών κατά την κύλιση στοιχείων στη γραμμή κύλισης</string>
+    <string name="show_media_count">Εμφάνιση του αριθμού πολυμέσων στον φάκελο, στην κύρια οθόνη</string>
+    <string name="show_on_map">Εμφάνιση στο χάρτη</string>
+    <string name="show_recycle_bin">Εμφάνιση του κάδου ανακύκλωσης στην οθόνη φακέλων</string>
+    <string name="simple_wallpaper">Simple Wallpaper</string>
+    <string name="size">Μέγεθος</string>
+    <string name="skip">Παράβλεψη</string>
+    <string name="skip_delete_confirmation">Παράκαμψη πάντα το παράθυρο διαλόγου επιβεβαίωσης διαγραφής</string>
+    <string name="slideshow">Παρουσίαση διαφανιών</string>
+    <string name="slideshow_ended">Η εμφάνιση διαφανειών τελείωσε</string>
+    <string name="small">Μικρό</string>
+    <string name="snooze">Αναβολή</string>
+    <string name="snooze_time">Χρόνος αναβολής</string>
+    <string name="solarized">Solarized</string>
+    <string name="song_title">Τίτλος τραγουδιού</string>
+    <string name="sort_by">Ταξινόμηση κατά</string>
+    <string name="source">Προέλευση</string>
+    <string name="source_and_destination_same">Η προέλευση και ο προορισμός δεν μπορούν να είναι ίδιες</string>
+    <string name="source_file_doesnt_exist">To αρχείο προέλευσης %s δεν υπάρχει</string>
+    <string name="startup">Εκκίνηση</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stetho_title">Stetho (debugging databases)</string>
+    <string name="stop_showing_hidden">Διακοπή εμφάνισης κρυφών μέσων</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoomable imageviews)</string>
+    <string name="sunday">Κυριακή</string>
+    <string name="sunday_first">Έναρξη εβδομάδας την Κυριακή</string>
+    <string name="sunday_letter">Κ</string>
+    <string name="sunday_short">Κυρ</string>
+    <string name="svgs">SVGs</string>
+    <string msgid="7856245902137004584" name="switch_viewer_action">"Εναλλαγή"</string>
+    <string msgid="816514297101696447" name="switch_viewer_prompt">"Άλλο σύστημα προβολής;"</string>
+    <string name="system_sounds">Ήχοι συστήματος</string>
+    <string name="temporarily_show_hidden">Προσωρινή Εμφάνιση κρυφών</string>
+    <string name="text">Κείμενο</string>
+    <string name="text_color">Χρώμα κειμένου</string>
+    <string name="theme">Θέμα</string>
+    <string name="third_party_licences">Άδειες τρίτων</string>
+    <string name="third_party_licences_underlined"><u>Άδειες τρίτων</u></string>
+    <string name="thumbnails">Εικονίδια</string>
+    <string name="thursday">Πέμπτη</string>
+    <string name="thursday_letter">Π</string>
+    <string name="thursday_short">Πέμ</string>
+    <string name="title">Τίτλο</string>
+    <string name="today">Σήμερα</string>
+    <string name="toggle_favorite">Εναλλαγή αγαπημένων</string>
+    <string name="toggle_file_visibility">Εναλλαγή προβολής αρχείου</string>
+    <string name="toggle_filename">Αλλαγή προβολής ονόματος αρχείων</string>
+    <string name="tomorrow">Αύριο</string>
+    <string name="tuesday">Τρίτη</string>
+    <string name="tuesday_letter">Τ</string>
+    <string name="tuesday_short">Τρί</string>
+    <string name="type_2_characters">Πληκτρολογήστε τουλάχιστον 2 χαρακτήρες για να ξεκινήσετε την αναζήτηση.</string>
+    <string name="undo">Αναίρεση</string>
+    <string name="undo_changes">Αναίρεση αλλαγών</string>
+    <string name="undo_changes_confirmation">Είστε βέβαιοι ότι θέλετε να αναιρέσετε τις αλλαγές σας?</string>
+    <string name="unhide">Επανεμφάνιση</string>
+    <string name="unhide_folder">Επανεμφάνιση φακέλου</string>
+    <string name="unknown">Άγνωστο</string>
+    <string name="unknown_error_occurred">Παρουσιάστηκε άγνωστο σφάλμα</string>
+    <string name="unknown_file_location">Άγνωστη τοποθεσία αρχείου</string>
+    <string name="unknown_location">Άγνωστη τοποθεσία</string>
+    <string name="unlock_orientation">Ξεκλείδωμα προσανατολισμού</string>
+    <string name="unpin_folder">Ξεκαρφίτσωμα φακέλου</string>
+    <string name="update_thank_you">Παρακαλώ ενημερώστε Simple Thank You στην τελευταία έκδοση</string>
+    <string name="use_24_hour_time_format">Χρήση 24ώρου</string>
+    <string name="use_default">Χρήση προεπιλεγμένης</string>
+    <string name="use_default_orientation">Χρήση προεπιλογής</string>
+    <string name="use_english_language">Χρήση English γλώσσας</string>
+    <string name="use_fade">Εφέ σταδιακής αλλαγής</string>
+    <string name="use_for_this_folder">Χρήση μόνο για αυτόν το φάκελο</string>
+    <string name="use_same_snooze">Χρήση πάντα του ίδιου χρόνου αναβολής</string>
+    <string name="value_copied_to_clipboard">Η τιμή αντιγράφηκε στο πρόχειρο</string>
+    <string name="vibrate_on_button_press">Δόνηση κατά το πάτημα του κουμπιού</string>
+    <string name="videos">Βίντεο</string>
+    <string name="visibility">Ορατότητα</string>
+    <string name="volume">Ένταση</string>
+    <string name="wallpaper_set_successfully">Η ταπετσαρία εφαρμόστηκε</string>
+    <string name="website_label">Για τον κώδικα επισκεφθείτε</string>
+    <string name="wednesday">Τετάρτη</string>
+    <string name="wednesday_letter">Τ</string>
+    <string name="wednesday_short">Τετ</string>
+    <string name="whats_new">Τι νέο υπάρχει</string>
+    <string name="whats_new_disclaimer">* μόνο οι μεγαλύτερες ενημερώσεις παρατίθενται εδώ, υπάρχουν πάντα μερικές μικρότερες βελτιώσεις επίσης</string>
+    <string name="widgets">Widgets</string>
+    <string name="width">Πλάτος</string>
+    <string name="wrong_pattern">Λάθος μοτίβο</string>
+    <string name="wrong_pin">Λάθος PIN</string>
+    <string name="wrong_root_selected">Επιλέξατε λάθος φάκελο, επιλέξτε τον ριζικό φάκελο της SD card</string>
+    <string name="wrong_root_selected_otg">Λάθος επιλεγμένο φάκελο, παρακαλώ επιλέξτε το ριζικό φάκελο της συσκευής OTG</string>
+    <string name="yes">Ναί</string>
+    <string name="yesterday">Χθές</string>
+    <string name="your_sounds">Οι ήχοι σας</string>
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tibbi:subsampling-scale-image-view-v3.10.0-fork">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/transforms-1/files-1.1/subsampling-scale-image-view-v3.10.0-fork.aar/febdaf114d2624c29ef9836e2721f927/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/transforms-1/files-1.1/subsampling-scale-image-view-v3.10.0-fork.aar/febdaf114d2624c29ef9836e2721f927/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-4.9-all/caches/modules-2/files-2.1/com.github.tibbi/subsampling-scale-image-view/v3.10.0-fork/75f9c4a7672643a56582093aaadfec5b5ba85692/subsampling-scale-image-view-v3.10.0-fork-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
